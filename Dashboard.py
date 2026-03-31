@@ -138,8 +138,6 @@ else:
       <li><b>Overview</b> — top metrics, recent results, goals per league</li>
       <li><b>Game Results</b> — searchable results table + score distribution</li>
       <li><b>Team Stats</b> — team performance table, PP%, PIM/G, first-goal impact</li>
-      <li><b>Player Stats</b> — aggregated leaderboard with goals/assists scatter</li>
-      <li><b>Goalie Stats</b> — save % rankings and distribution by league</li>
       <li><b>Cross-League</b> — compare leagues on scoring, penalties, nationality</li>
       <li><b>Home Advantage</b> — Bayesian home-ice estimates with user prior controls</li>
       <li><b>Goal-State Matrix</b> — next-goal score/concede probabilities by team and goal difference</li>

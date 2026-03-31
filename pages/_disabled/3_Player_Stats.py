@@ -65,7 +65,9 @@ else:
 
 # Points per game
 if "points" in agg.columns and "GP" in agg.columns:
-    agg["P/GP"] = (agg["points"] / agg["GP"].replace(0, pd.NA)).round(2)
+    pts = pd.to_numeric(agg["points"], errors="coerce")
+    gp = pd.to_numeric(agg["GP"], errors="coerce")
+    agg["P/GP"] = (pts / gp.where(gp != 0)).round(2)
 
 # ── Apply filters ─────────────────────────────────────────────────────────────
 if "GP" in agg.columns and min_gp > 1:

@@ -62,10 +62,14 @@ if "saves" in agg.columns:
     else:
         sa = pd.Series(dtype=float)
     if not sa.empty:
-        agg["SV%"] = (agg["saves"] / sa.replace(0, pd.NA) * 100).round(2)
+        saves = pd.to_numeric(agg["saves"], errors="coerce")
+        sa_num = pd.to_numeric(sa, errors="coerce")
+        agg["SV%"] = (saves / sa_num.where(sa_num != 0) * 100).round(2)
 
 if "goals_against" in agg.columns and "GP" in agg.columns:
-    agg["GAA"] = (agg["goals_against"] / agg["GP"].replace(0, pd.NA)).round(2)
+    ga = pd.to_numeric(agg["goals_against"], errors="coerce")
+    gp = pd.to_numeric(agg["GP"], errors="coerce")
+    agg["GAA"] = (ga / gp.where(gp != 0)).round(2)
 
 # ── Filters ───────────────────────────────────────────────────────────────────
 if "GP" in agg.columns and min_gp > 1:
