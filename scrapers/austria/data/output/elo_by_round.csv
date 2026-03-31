@@ -1,0 +1,936 @@
+season,round,round_index,team,elo
+2025-26,1,1,EC Red Bull Salzburg,1510.0
+2025-26,1,1,EC iDM Wärmepumpen VSV,1510.99
+2025-26,1,1,EC-KAC,1516.09
+2025-26,1,1,FTC-Telekom,1489.01
+2025-26,1,1,HC Falkensteiner Pustertal,1520.79
+2025-26,1,1,HC TIWAG Innsbruck - Die Haie,1479.21
+2025-26,1,1,HCB Südtirol Alperia,1490.0
+2025-26,1,1,Hydro Fehervar AV 19,1483.91
+2025-26,1,1,Olimpija Ljubljana,1520.79
+2025-26,1,1,Pioneers Vorarlberg,1486.14
+2025-26,1,1,Steinbach Black Wings Linz,1513.86
+2025-26,1,1,Vienna Capitals,1479.21
+2025-26,2,2,EC Red Bull Salzburg,1524.07
+2025-26,2,2,EC iDM Wärmepumpen VSV,1493.65
+2025-26,2,2,EC-KAC,1502.03
+2025-26,2,2,FTC-Telekom,1478.73
+2025-26,2,2,HC Falkensteiner Pustertal,1503.9
+2025-26,2,2,HC TIWAG Innsbruck - Die Haie,1489.41
+2025-26,2,2,HCB Südtirol Alperia,1490.0
+2025-26,2,2,Hydro Fehervar AV 19,1494.77
+2025-26,2,2,Moser Medical Graz99ers,1516.9
+2025-26,2,2,Olimpija Ljubljana,1538.13
+2025-26,2,2,Pioneers Vorarlberg,1475.94
+2025-26,2,2,Steinbach Black Wings Linz,1503.0
+2025-26,2,2,Vienna Capitals,1489.49
+2025-26,3,3,EC Red Bull Salzburg,1533.19
+2025-26,3,3,EC iDM Wärmepumpen VSV,1484.52
+2025-26,3,3,EC-KAC,1516.89
+2025-26,3,3,FTC-Telekom,1463.87
+2025-26,3,3,HC Falkensteiner Pustertal,1503.9
+2025-26,3,3,HC TIWAG Innsbruck - Die Haie,1479.56
+2025-26,3,3,HCB Südtirol Alperia,1508.55
+2025-26,3,3,Hydro Fehervar AV 19,1504.61
+2025-26,3,3,Moser Medical Graz99ers,1507.51
+2025-26,3,3,Olimpija Ljubljana,1547.52
+2025-26,3,3,Pioneers Vorarlberg,1457.38
+2025-26,3,3,Steinbach Black Wings Linz,1492.61
+2025-26,3,3,Vienna Capitals,1499.88
+2025-26,4,4,EC Red Bull Salzburg,1542.98
+2025-26,4,4,EC iDM Wärmepumpen VSV,1471.55
+2025-26,4,4,EC-KAC,1500.47
+2025-26,4,4,FTC-Telekom,1480.57
+2025-26,4,4,HC Falkensteiner Pustertal,1516.87
+2025-26,4,4,HC TIWAG Innsbruck - Die Haie,1462.86
+2025-26,4,4,HCB Südtirol Alperia,1524.97
+2025-26,4,4,Hydro Fehervar AV 19,1486.87
+2025-26,4,4,Moser Medical Graz99ers,1525.25
+2025-26,4,4,Olimpija Ljubljana,1560.36
+2025-26,4,4,Pioneers Vorarlberg,1444.54
+2025-26,4,4,Steinbach Black Wings Linz,1492.61
+2025-26,4,4,Vienna Capitals,1490.09
+2025-26,5,5,EC Red Bull Salzburg,1532.23
+2025-26,5,5,EC iDM Wärmepumpen VSV,1490.37
+2025-26,5,5,EC-KAC,1491.18
+2025-26,5,5,FTC-Telekom,1471.17
+2025-26,5,5,HC Falkensteiner Pustertal,1527.62
+2025-26,5,5,HC TIWAG Innsbruck - Die Haie,1449.32
+2025-26,5,5,HCB Südtirol Alperia,1534.37
+2025-26,5,5,Hydro Fehervar AV 19,1486.87
+2025-26,5,5,Moser Medical Graz99ers,1534.54
+2025-26,5,5,Olimpija Ljubljana,1573.9
+2025-26,5,5,Pioneers Vorarlberg,1456.71
+2025-26,5,5,Steinbach Black Wings Linz,1473.79
+2025-26,5,5,Vienna Capitals,1477.92
+2025-26,6,6,EC Red Bull Salzburg,1542.77
+2025-26,6,6,EC iDM Wärmepumpen VSV,1501.64
+2025-26,6,6,EC-KAC,1491.18
+2025-26,6,6,FTC-Telekom,1482.78
+2025-26,6,6,HC Falkensteiner Pustertal,1516.01
+2025-26,6,6,HC TIWAG Innsbruck - Die Haie,1436.76
+2025-26,6,6,HCB Südtirol Alperia,1542.65
+2025-26,6,6,Hydro Fehervar AV 19,1479.32
+2025-26,6,6,Moser Medical Graz99ers,1523.28
+2025-26,6,6,Olimpija Ljubljana,1581.45
+2025-26,6,6,Pioneers Vorarlberg,1446.17
+2025-26,6,6,Steinbach Black Wings Linz,1465.52
+2025-26,6,6,Vienna Capitals,1490.48
+2025-26,7,7,EC Red Bull Salzburg,1528.9
+2025-26,7,7,EC iDM Wärmepumpen VSV,1513.02
+2025-26,7,7,EC-KAC,1500.44
+2025-26,7,7,FTC-Telekom,1482.78
+2025-26,7,7,HC Falkensteiner Pustertal,1525.68
+2025-26,7,7,HC TIWAG Innsbruck - Die Haie,1449.2
+2025-26,7,7,HCB Südtirol Alperia,1556.51
+2025-26,7,7,Hydro Fehervar AV 19,1469.65
+2025-26,7,7,Moser Medical Graz99ers,1510.84
+2025-26,7,7,Olimpija Ljubljana,1568.2
+2025-26,7,7,Pioneers Vorarlberg,1434.79
+2025-26,7,7,Steinbach Black Wings Linz,1456.26
+2025-26,7,7,Vienna Capitals,1503.73
+2025-26,8,8,EC Red Bull Salzburg,1516.84
+2025-26,8,8,EC iDM Wärmepumpen VSV,1500.91
+2025-26,8,8,EC-KAC,1509.94
+2025-26,8,8,FTC-Telekom,1473.29
+2025-26,8,8,HC Falkensteiner Pustertal,1535.05
+2025-26,8,8,HC TIWAG Innsbruck - Die Haie,1449.2
+2025-26,8,8,HCB Südtirol Alperia,1567.81
+2025-26,8,8,Hydro Fehervar AV 19,1481.76
+2025-26,8,8,Moser Medical Graz99ers,1518.68
+2025-26,8,8,Olimpija Ljubljana,1556.9
+2025-26,8,8,Pioneers Vorarlberg,1426.94
+2025-26,8,8,Steinbach Black Wings Linz,1468.32
+2025-26,8,8,Vienna Capitals,1494.37
+2025-26,9,9,EC Red Bull Salzburg,1526.19
+2025-26,9,9,EC iDM Wärmepumpen VSV,1514.31
+2025-26,9,9,EC-KAC,1509.94
+2025-26,9,9,FTC-Telekom,1484.59
+2025-26,9,9,HC Falkensteiner Pustertal,1546.89
+2025-26,9,9,HC TIWAG Innsbruck - Die Haie,1435.8
+2025-26,9,9,HCB Südtirol Alperia,1555.97
+2025-26,9,9,Hydro Fehervar AV 19,1466.12
+2025-26,9,9,Moser Medical Graz99ers,1507.38
+2025-26,9,9,Olimpija Ljubljana,1568.51
+2025-26,9,9,Pioneers Vorarlberg,1442.59
+2025-26,9,9,Steinbach Black Wings Linz,1456.71
+2025-26,9,9,Vienna Capitals,1485.01
+2025-26,10,10,EC Red Bull Salzburg,1514.48
+2025-26,10,10,EC iDM Wärmepumpen VSV,1529.54
+2025-26,10,10,EC-KAC,1521.0
+2025-26,10,10,FTC-Telekom,1501.39
+2025-26,10,10,HC Falkensteiner Pustertal,1535.83
+2025-26,10,10,HC TIWAG Innsbruck - Die Haie,1449.44
+2025-26,10,10,HCB Südtirol Alperia,1540.74
+2025-26,10,10,Hydro Fehervar AV 19,1477.83
+2025-26,10,10,Moser Medical Graz99ers,1517.56
+2025-26,10,10,Olimpija Ljubljana,1554.87
+2025-26,10,10,Pioneers Vorarlberg,1425.79
+2025-26,10,10,Steinbach Black Wings Linz,1456.71
+2025-26,10,10,Vienna Capitals,1474.83
+2025-26,11,11,EC Red Bull Salzburg,1505.64
+2025-26,11,11,EC iDM Wärmepumpen VSV,1511.1
+2025-26,11,11,EC-KAC,1529.67
+2025-26,11,11,FTC-Telekom,1510.11
+2025-26,11,11,HC Falkensteiner Pustertal,1543.09
+2025-26,11,11,HC TIWAG Innsbruck - Die Haie,1440.26
+2025-26,11,11,HCB Südtirol Alperia,1540.74
+2025-26,11,11,Hydro Fehervar AV 19,1487.02
+2025-26,11,11,Moser Medical Graz99ers,1535.99
+2025-26,11,11,Olimpija Ljubljana,1563.71
+2025-26,11,11,Pioneers Vorarlberg,1418.53
+2025-26,11,11,Steinbach Black Wings Linz,1447.98
+2025-26,11,11,Vienna Capitals,1466.16
+2025-26,12,12,EC Red Bull Salzburg,1514.32
+2025-26,12,12,EC iDM Wärmepumpen VSV,1521.07
+2025-26,12,12,EC-KAC,1539.86
+2025-26,12,12,FTC-Telekom,1500.14
+2025-26,12,12,HC Falkensteiner Pustertal,1552.83
+2025-26,12,12,HC TIWAG Innsbruck - Die Haie,1431.57
+2025-26,12,12,HCB Südtirol Alperia,1552.19
+2025-26,12,12,Hydro Fehervar AV 19,1475.56
+2025-26,12,12,Moser Medical Graz99ers,1525.81
+2025-26,12,12,Olimpija Ljubljana,1571.58
+2025-26,12,12,Pioneers Vorarlberg,1410.67
+2025-26,12,12,Steinbach Black Wings Linz,1438.25
+2025-26,12,12,Vienna Capitals,1466.16
+2025-26,13,13,EC Red Bull Salzburg,1531.4
+2025-26,13,13,EC iDM Wärmepumpen VSV,1511.98
+2025-26,13,13,EC-KAC,1548.03
+2025-26,13,13,FTC-Telekom,1483.06
+2025-26,13,13,HC Falkensteiner Pustertal,1561.92
+2025-26,13,13,HC TIWAG Innsbruck - Die Haie,1422.82
+2025-26,13,13,HCB Südtirol Alperia,1560.95
+2025-26,13,13,Hydro Fehervar AV 19,1467.39
+2025-26,13,13,Moser Medical Graz99ers,1513.34
+2025-26,13,13,Olimpija Ljubljana,1571.58
+2025-26,13,13,Pioneers Vorarlberg,1402.25
+2025-26,13,13,Steinbach Black Wings Linz,1450.71
+2025-26,13,13,Vienna Capitals,1474.57
+2025-26,14,14,EC Red Bull Salzburg,1521.51
+2025-26,14,14,EC iDM Wärmepumpen VSV,1499.47
+2025-26,14,14,EC-KAC,1538.7
+2025-26,14,14,FTC-Telekom,1475.27
+2025-26,14,14,HC Falkensteiner Pustertal,1571.8
+2025-26,14,14,HC TIWAG Innsbruck - Die Haie,1435.33
+2025-26,14,14,HCB Südtirol Alperia,1568.74
+2025-26,14,14,Hydro Fehervar AV 19,1447.15
+2025-26,14,14,Moser Medical Graz99ers,1522.46
+2025-26,14,14,Olimpija Ljubljana,1580.9
+2025-26,14,14,Pioneers Vorarlberg,1393.14
+2025-26,14,14,Steinbach Black Wings Linz,1470.95
+2025-26,14,14,Vienna Capitals,1474.57
+2025-26,15,15,EC Red Bull Salzburg,1507.98
+2025-26,15,15,EC iDM Wärmepumpen VSV,1499.47
+2025-26,15,15,EC-KAC,1550.48
+2025-26,15,15,FTC-Telekom,1465.94
+2025-26,15,15,HC Falkensteiner Pustertal,1583.45
+2025-26,15,15,HC TIWAG Innsbruck - Die Haie,1425.62
+2025-26,15,15,HCB Südtirol Alperia,1556.97
+2025-26,15,15,Hydro Fehervar AV 19,1434.54
+2025-26,15,15,Moser Medical Graz99ers,1510.81
+2025-26,15,15,Olimpija Ljubljana,1590.22
+2025-26,15,15,Pioneers Vorarlberg,1406.67
+2025-26,15,15,Steinbach Black Wings Linz,1480.66
+2025-26,15,15,Vienna Capitals,1487.19
+2025-26,16,16,EC Red Bull Salzburg,1500.3
+2025-26,16,16,EC iDM Wärmepumpen VSV,1499.47
+2025-26,16,16,EC-KAC,1560.46
+2025-26,16,16,FTC-Telekom,1457.23
+2025-26,16,16,HC Falkensteiner Pustertal,1560.09
+2025-26,16,16,HC TIWAG Innsbruck - Die Haie,1415.64
+2025-26,16,16,HCB Südtirol Alperia,1580.33
+2025-26,16,16,Hydro Fehervar AV 19,1447.13
+2025-26,16,16,Moser Medical Graz99ers,1519.53
+2025-26,16,16,Olimpija Ljubljana,1597.9
+2025-26,16,16,Pioneers Vorarlberg,1394.08
+2025-26,16,16,Steinbach Black Wings Linz,1494.74
+2025-26,16,16,Vienna Capitals,1473.1
+2025-26,17,17,EC Red Bull Salzburg,1500.3
+2025-26,17,17,EC iDM Wärmepumpen VSV,1512.13
+2025-26,17,17,EC-KAC,1546.0
+2025-26,17,17,FTC-Telekom,1447.59
+2025-26,17,17,HC Falkensteiner Pustertal,1570.59
+2025-26,17,17,HC TIWAG Innsbruck - Die Haie,1430.45
+2025-26,17,17,HCB Südtirol Alperia,1568.6
+2025-26,17,17,Hydro Fehervar AV 19,1436.63
+2025-26,17,17,Moser Medical Graz99ers,1531.26
+2025-26,17,17,Olimpija Ljubljana,1583.09
+2025-26,17,17,Pioneers Vorarlberg,1408.53
+2025-26,17,17,Steinbach Black Wings Linz,1504.38
+2025-26,17,17,Vienna Capitals,1460.44
+2025-26,18,18,EC Red Bull Salzburg,1500.3
+2025-26,18,18,EC iDM Wärmepumpen VSV,1512.13
+2025-26,18,18,EC-KAC,1555.5
+2025-26,18,18,FTC-Telekom,1457.95
+2025-26,18,18,HC Falkensteiner Pustertal,1581.9
+2025-26,18,18,HC TIWAG Innsbruck - Die Haie,1439.82
+2025-26,18,18,HCB Südtirol Alperia,1554.97
+2025-26,18,18,Hydro Fehervar AV 19,1450.26
+2025-26,18,18,Moser Medical Graz99ers,1531.26
+2025-26,18,18,Olimpija Ljubljana,1571.77
+2025-26,18,18,Pioneers Vorarlberg,1399.16
+2025-26,18,18,Steinbach Black Wings Linz,1494.88
+2025-26,18,18,Vienna Capitals,1450.07
+2025-26,19,19,EC Red Bull Salzburg,1487.84
+2025-26,19,19,EC iDM Wärmepumpen VSV,1524.25
+2025-26,19,19,EC-KAC,1543.39
+2025-26,19,19,FTC-Telekom,1441.56
+2025-26,19,19,HC Falkensteiner Pustertal,1569.45
+2025-26,19,19,HC TIWAG Innsbruck - Die Haie,1430.12
+2025-26,19,19,HCB Südtirol Alperia,1541.88
+2025-26,19,19,Hydro Fehervar AV 19,1466.65
+2025-26,19,19,Moser Medical Graz99ers,1543.72
+2025-26,19,19,Olimpija Ljubljana,1584.86
+2025-26,19,19,Pioneers Vorarlberg,1399.16
+2025-26,19,19,Steinbach Black Wings Linz,1507.34
+2025-26,19,19,Vienna Capitals,1459.78
+2025-26,20,20,EC Red Bull Salzburg,1500.74
+2025-26,20,20,EC iDM Wärmepumpen VSV,1532.41
+2025-26,20,20,EC-KAC,1558.61
+2025-26,20,20,FTC-Telekom,1455.08
+2025-26,20,20,HC Falkensteiner Pustertal,1555.93
+2025-26,20,20,HC TIWAG Innsbruck - Die Haie,1423.28
+2025-26,20,20,HCB Südtirol Alperia,1541.88
+2025-26,20,20,Hydro Fehervar AV 19,1453.76
+2025-26,20,20,Moser Medical Graz99ers,1550.56
+2025-26,20,20,Olimpija Ljubljana,1569.64
+2025-26,20,20,Pioneers Vorarlberg,1392.18
+2025-26,20,20,Steinbach Black Wings Linz,1514.32
+2025-26,20,20,Vienna Capitals,1451.61
+2025-26,21,21,EC Red Bull Salzburg,1517.36
+2025-26,21,21,EC iDM Wärmepumpen VSV,1523.48
+2025-26,21,21,EC-KAC,1565.96
+2025-26,21,21,FTC-Telekom,1464.93
+2025-26,21,21,HC Falkensteiner Pustertal,1555.93
+2025-26,21,21,HC TIWAG Innsbruck - Die Haie,1413.44
+2025-26,21,21,HCB Südtirol Alperia,1552.7
+2025-26,21,21,Hydro Fehervar AV 19,1466.47
+2025-26,21,21,Moser Medical Graz99ers,1537.84
+2025-26,21,21,Olimpija Ljubljana,1578.57
+2025-26,21,21,Pioneers Vorarlberg,1381.36
+2025-26,21,21,Steinbach Black Wings Linz,1497.7
+2025-26,21,21,Vienna Capitals,1444.26
+2025-26,22,22,EC Red Bull Salzburg,1528.75
+2025-26,22,22,EC iDM Wärmepumpen VSV,1534.79
+2025-26,22,22,EC-KAC,1554.57
+2025-26,22,22,FTC-Telekom,1473.01
+2025-26,22,22,HC Falkensteiner Pustertal,1565.17
+2025-26,22,22,HC TIWAG Innsbruck - Die Haie,1404.19
+2025-26,22,22,HCB Südtirol Alperia,1538.34
+2025-26,22,22,Hydro Fehervar AV 19,1455.16
+2025-26,22,22,Moser Medical Graz99ers,1552.2
+2025-26,22,22,Olimpija Ljubljana,1565.55
+2025-26,22,22,Pioneers Vorarlberg,1373.27
+2025-26,22,22,Steinbach Black Wings Linz,1510.72
+2025-26,22,22,Vienna Capitals,1444.26
+2025-26,23,23,EC Red Bull Salzburg,1515.96
+2025-26,23,23,EC iDM Wärmepumpen VSV,1520.45
+2025-26,23,23,EC-KAC,1536.3
+2025-26,23,23,FTC-Telekom,1473.01
+2025-26,23,23,HC Falkensteiner Pustertal,1551.32
+2025-26,23,23,HC TIWAG Innsbruck - Die Haie,1422.46
+2025-26,23,23,HCB Südtirol Alperia,1550.95
+2025-26,23,23,Hydro Fehervar AV 19,1443.88
+2025-26,23,23,Moser Medical Graz99ers,1564.99
+2025-26,23,23,Olimpija Ljubljana,1579.4
+2025-26,23,23,Pioneers Vorarlberg,1387.61
+2025-26,23,23,Steinbach Black Wings Linz,1498.12
+2025-26,23,23,Vienna Capitals,1455.54
+2025-26,24,24,EC Red Bull Salzburg,1515.96
+2025-26,24,24,EC iDM Wärmepumpen VSV,1509.81
+2025-26,24,24,EC-KAC,1545.3
+2025-26,24,24,FTC-Telekom,1453.85
+2025-26,24,24,HC Falkensteiner Pustertal,1558.63
+2025-26,24,24,HC TIWAG Innsbruck - Die Haie,1416.0
+2025-26,24,24,HCB Südtirol Alperia,1557.41
+2025-26,24,24,Hydro Fehervar AV 19,1463.05
+2025-26,24,24,Moser Medical Graz99ers,1575.41
+2025-26,24,24,Olimpija Ljubljana,1568.98
+2025-26,24,24,Pioneers Vorarlberg,1378.62
+2025-26,24,24,Steinbach Black Wings Linz,1508.76
+2025-26,24,24,Vienna Capitals,1448.23
+2025-26,25,25,EC Red Bull Salzburg,1527.04
+2025-26,25,25,EC iDM Wärmepumpen VSV,1497.56
+2025-26,25,25,EC-KAC,1557.55
+2025-26,25,25,FTC-Telekom,1447.05
+2025-26,25,25,HC Falkensteiner Pustertal,1568.06
+2025-26,25,25,HC TIWAG Innsbruck - Die Haie,1404.91
+2025-26,25,25,HCB Südtirol Alperia,1564.69
+2025-26,25,25,Hydro Fehervar AV 19,1463.05
+2025-26,25,25,Moser Medical Graz99ers,1583.51
+2025-26,25,25,Olimpija Ljubljana,1575.79
+2025-26,25,25,Pioneers Vorarlberg,1369.2
+2025-26,25,25,Steinbach Black Wings Linz,1500.65
+2025-26,25,25,Vienna Capitals,1440.95
+2025-26,26,26,EC Red Bull Salzburg,1514.78
+2025-26,26,26,EC iDM Wärmepumpen VSV,1513.58
+2025-26,26,26,EC-KAC,1574.05
+2025-26,26,26,FTC-Telekom,1459.31
+2025-26,26,26,HC Falkensteiner Pustertal,1551.55
+2025-26,26,26,HC TIWAG Innsbruck - Die Haie,1397.6
+2025-26,26,26,HCB Südtirol Alperia,1548.67
+2025-26,26,26,Hydro Fehervar AV 19,1476.77
+2025-26,26,26,Moser Medical Graz99ers,1589.82
+2025-26,26,26,Olimpija Ljubljana,1562.06
+2025-26,26,26,Pioneers Vorarlberg,1369.2
+2025-26,26,26,Steinbach Black Wings Linz,1507.96
+2025-26,26,26,Vienna Capitals,1434.64
+2025-26,27,27,EC Red Bull Salzburg,1506.47
+2025-26,27,27,EC iDM Wärmepumpen VSV,1501.89
+2025-26,27,27,EC-KAC,1582.36
+2025-26,27,27,FTC-Telekom,1478.76
+2025-26,27,27,HC Falkensteiner Pustertal,1532.1
+2025-26,27,27,HC TIWAG Innsbruck - Die Haie,1389.37
+2025-26,27,27,HCB Südtirol Alperia,1531.32
+2025-26,27,27,Hydro Fehervar AV 19,1485.0
+2025-26,27,27,Moser Medical Graz99ers,1589.82
+2025-26,27,27,Olimpija Ljubljana,1573.74
+2025-26,27,27,Pioneers Vorarlberg,1383.46
+2025-26,27,27,Steinbach Black Wings Linz,1493.71
+2025-26,27,27,Vienna Capitals,1452.0
+2025-26,28,28,EC Red Bull Salzburg,1515.52
+2025-26,28,28,EC iDM Wärmepumpen VSV,1501.89
+2025-26,28,28,EC-KAC,1572.58
+2025-26,28,28,FTC-Telekom,1469.64
+2025-26,28,28,HC Falkensteiner Pustertal,1521.0
+2025-26,28,28,HC TIWAG Innsbruck - Die Haie,1384.16
+2025-26,28,28,HCB Südtirol Alperia,1540.43
+2025-26,28,28,Hydro Fehervar AV 19,1467.98
+2025-26,28,28,Moser Medical Graz99ers,1599.6
+2025-26,28,28,Olimpija Ljubljana,1578.95
+2025-26,28,28,Pioneers Vorarlberg,1400.47
+2025-26,28,28,Steinbach Black Wings Linz,1504.81
+2025-26,28,28,Vienna Capitals,1442.94
+2025-26,18,18,EC Red Bull Salzburg,1525.13
+2025-26,18,18,EC iDM Wärmepumpen VSV,1492.29
+2025-26,18,18,EC-KAC,1572.58
+2025-26,18,18,FTC-Telekom,1469.64
+2025-26,18,18,HC Falkensteiner Pustertal,1521.0
+2025-26,18,18,HC TIWAG Innsbruck - Die Haie,1384.16
+2025-26,18,18,HCB Südtirol Alperia,1540.43
+2025-26,18,18,Hydro Fehervar AV 19,1467.98
+2025-26,18,18,Moser Medical Graz99ers,1599.6
+2025-26,18,18,Olimpija Ljubljana,1578.95
+2025-26,18,18,Pioneers Vorarlberg,1400.47
+2025-26,18,18,Steinbach Black Wings Linz,1504.81
+2025-26,18,18,Vienna Capitals,1442.94
+2025-26,29,29,EC Red Bull Salzburg,1538.04
+2025-26,29,29,EC iDM Wärmepumpen VSV,1492.29
+2025-26,29,29,EC-KAC,1581.94
+2025-26,29,29,FTC-Telekom,1458.88
+2025-26,29,29,HC Falkensteiner Pustertal,1531.55
+2025-26,29,29,HC TIWAG Innsbruck - Die Haie,1373.61
+2025-26,29,29,HCB Südtirol Alperia,1552.68
+2025-26,29,29,Hydro Fehervar AV 19,1458.62
+2025-26,29,29,Moser Medical Graz99ers,1589.01
+2025-26,29,29,Olimpija Ljubljana,1589.55
+2025-26,29,29,Pioneers Vorarlberg,1387.57
+2025-26,29,29,Steinbach Black Wings Linz,1492.56
+2025-26,29,29,Vienna Capitals,1453.71
+2025-26,30,30,EC Red Bull Salzburg,1546.73
+2025-26,30,30,EC iDM Wärmepumpen VSV,1481.33
+2025-26,30,30,EC-KAC,1588.21
+2025-26,30,30,FTC-Telekom,1469.84
+2025-26,30,30,HC Falkensteiner Pustertal,1547.29
+2025-26,30,30,HC TIWAG Innsbruck - Die Haie,1373.61
+2025-26,30,30,HCB Südtirol Alperia,1535.74
+2025-26,30,30,Hydro Fehervar AV 19,1451.97
+2025-26,30,30,Moser Medical Graz99ers,1595.66
+2025-26,30,30,Olimpija Ljubljana,1573.81
+2025-26,30,30,Pioneers Vorarlberg,1381.29
+2025-26,30,30,Steinbach Black Wings Linz,1483.86
+2025-26,30,30,Vienna Capitals,1470.66
+2025-26,31,31,EC Red Bull Salzburg,1562.19
+2025-26,31,31,EC iDM Wärmepumpen VSV,1464.14
+2025-26,31,31,EC-KAC,1599.64
+2025-26,31,31,FTC-Telekom,1458.41
+2025-26,31,31,HC Falkensteiner Pustertal,1535.12
+2025-26,31,31,HC TIWAG Innsbruck - Die Haie,1390.8
+2025-26,31,31,HCB Südtirol Alperia,1535.74
+2025-26,31,31,Hydro Fehervar AV 19,1463.79
+2025-26,31,31,Moser Medical Graz99ers,1580.2
+2025-26,31,31,Olimpija Ljubljana,1554.64
+2025-26,31,31,Pioneers Vorarlberg,1400.46
+2025-26,31,31,Steinbach Black Wings Linz,1472.04
+2025-26,31,31,Vienna Capitals,1482.83
+2025-26,32,32,EC Red Bull Salzburg,1567.85
+2025-26,32,32,EC iDM Wärmepumpen VSV,1455.93
+2025-26,32,32,EC-KAC,1607.85
+2025-26,32,32,FTC-Telekom,1458.41
+2025-26,32,32,HC Falkensteiner Pustertal,1546.2
+2025-26,32,32,HC TIWAG Innsbruck - Die Haie,1379.72
+2025-26,32,32,HCB Südtirol Alperia,1550.23
+2025-26,32,32,Hydro Fehervar AV 19,1474.33
+2025-26,32,32,Moser Medical Graz99ers,1587.19
+2025-26,32,32,Olimpija Ljubljana,1540.15
+2025-26,32,32,Pioneers Vorarlberg,1394.81
+2025-26,32,32,Steinbach Black Wings Linz,1465.06
+2025-26,32,32,Vienna Capitals,1472.28
+2025-26,33,33,EC Red Bull Salzburg,1578.5
+2025-26,33,33,EC iDM Wärmepumpen VSV,1446.16
+2025-26,33,33,EC-KAC,1614.35
+2025-26,33,33,FTC-Telekom,1447.76
+2025-26,33,33,HC Falkensteiner Pustertal,1534.19
+2025-26,33,33,HC TIWAG Innsbruck - Die Haie,1369.58
+2025-26,33,33,HCB Südtirol Alperia,1560.0
+2025-26,33,33,Hydro Fehervar AV 19,1460.19
+2025-26,33,33,Moser Medical Graz99ers,1599.2
+2025-26,33,33,Olimpija Ljubljana,1554.29
+2025-26,33,33,Pioneers Vorarlberg,1394.81
+2025-26,33,33,Steinbach Black Wings Linz,1475.19
+2025-26,33,33,Vienna Capitals,1465.78
+2025-26,34,34,EC Red Bull Salzburg,1585.3
+2025-26,34,34,EC iDM Wärmepumpen VSV,1438.56
+2025-26,34,34,EC-KAC,1602.64
+2025-26,34,34,FTC-Telekom,1438.27
+2025-26,34,34,HC Falkensteiner Pustertal,1534.19
+2025-26,34,34,HC TIWAG Innsbruck - Die Haie,1362.79
+2025-26,34,34,HCB Südtirol Alperia,1569.29
+2025-26,34,34,Hydro Fehervar AV 19,1440.43
+2025-26,34,34,Moser Medical Graz99ers,1606.79
+2025-26,34,34,Olimpija Ljubljana,1566.0
+2025-26,34,34,Pioneers Vorarlberg,1385.52
+2025-26,34,34,Steinbach Black Wings Linz,1494.95
+2025-26,34,34,Vienna Capitals,1475.26
+2025-26,35,35,EC Red Bull Salzburg,1596.82
+2025-26,35,35,EC iDM Wärmepumpen VSV,1450.78
+2025-26,35,35,EC-KAC,1591.68
+2025-26,35,35,FTC-Telekom,1429.13
+2025-26,35,35,HC Falkensteiner Pustertal,1520.15
+2025-26,35,35,HC TIWAG Innsbruck - Die Haie,1350.58
+2025-26,35,35,HCB Südtirol Alperia,1580.25
+2025-26,35,35,Hydro Fehervar AV 19,1440.43
+2025-26,35,35,Moser Medical Graz99ers,1615.94
+2025-26,35,35,Olimpija Ljubljana,1553.45
+2025-26,35,35,Pioneers Vorarlberg,1399.55
+2025-26,35,35,Steinbach Black Wings Linz,1483.43
+2025-26,35,35,Vienna Capitals,1487.81
+2025-26,36,36,EC Red Bull Salzburg,1608.71
+2025-26,36,36,EC iDM Wärmepumpen VSV,1438.4
+2025-26,36,36,EC-KAC,1596.67
+2025-26,36,36,FTC-Telekom,1415.78
+2025-26,36,36,HC Falkensteiner Pustertal,1511.29
+2025-26,36,36,HC TIWAG Innsbruck - Die Haie,1345.58
+2025-26,36,36,HCB Südtirol Alperia,1589.11
+2025-26,36,36,Hydro Fehervar AV 19,1453.77
+2025-26,36,36,Moser Medical Graz99ers,1624.72
+2025-26,36,36,Olimpija Ljubljana,1544.67
+2025-26,36,36,Pioneers Vorarlberg,1399.55
+2025-26,36,36,Steinbach Black Wings Linz,1495.81
+2025-26,36,36,Vienna Capitals,1475.93
+2025-26,37,37,EC Red Bull Salzburg,1618.14
+2025-26,37,37,EC iDM Wärmepumpen VSV,1426.24
+2025-26,37,37,EC-KAC,1604.26
+2025-26,37,37,FTC-Telekom,1405.97
+2025-26,37,37,HC Falkensteiner Pustertal,1503.7
+2025-26,37,37,HC TIWAG Innsbruck - Die Haie,1336.51
+2025-26,37,37,HCB Südtirol Alperia,1579.67
+2025-26,37,37,Hydro Fehervar AV 19,1472.5
+2025-26,37,37,Moser Medical Graz99ers,1606.0
+2025-26,37,37,Olimpija Ljubljana,1554.47
+2025-26,37,37,Pioneers Vorarlberg,1408.62
+2025-26,37,37,Steinbach Black Wings Linz,1495.81
+2025-26,37,37,Vienna Capitals,1488.09
+2025-26,38,38,EC Red Bull Salzburg,1630.95
+2025-26,38,38,EC iDM Wärmepumpen VSV,1420.96
+2025-26,38,38,EC-KAC,1609.55
+2025-26,38,38,FTC-Telekom,1416.05
+2025-26,38,38,HC Falkensteiner Pustertal,1503.7
+2025-26,38,38,HC TIWAG Innsbruck - Die Haie,1330.02
+2025-26,38,38,HCB Südtirol Alperia,1570.43
+2025-26,38,38,Hydro Fehervar AV 19,1478.99
+2025-26,38,38,Moser Medical Graz99ers,1615.24
+2025-26,38,38,Olimpija Ljubljana,1541.67
+2025-26,38,38,Pioneers Vorarlberg,1398.55
+2025-26,38,38,Steinbach Black Wings Linz,1505.58
+2025-26,38,38,Vienna Capitals,1478.31
+2025-26,39,39,EC Red Bull Salzburg,1613.25
+2025-26,39,39,EC iDM Wärmepumpen VSV,1435.01
+2025-26,39,39,EC-KAC,1609.55
+2025-26,39,39,FTC-Telekom,1426.15
+2025-26,39,39,HC Falkensteiner Pustertal,1521.4
+2025-26,39,39,HC TIWAG Innsbruck - Die Haie,1319.92
+2025-26,39,39,HCB Südtirol Alperia,1556.37
+2025-26,39,39,Hydro Fehervar AV 19,1466.72
+2025-26,39,39,Moser Medical Graz99ers,1624.71
+2025-26,39,39,Olimpija Ljubljana,1553.89
+2025-26,39,39,Pioneers Vorarlberg,1410.82
+2025-26,39,39,Steinbach Black Wings Linz,1493.36
+2025-26,39,39,Vienna Capitals,1468.84
+2025-26,45,40,EC Red Bull Salzburg,1613.25
+2025-26,45,40,EC iDM Wärmepumpen VSV,1435.01
+2025-26,45,40,EC-KAC,1609.55
+2025-26,45,40,FTC-Telekom,1413.52
+2025-26,45,40,HC Falkensteiner Pustertal,1521.4
+2025-26,45,40,HC TIWAG Innsbruck - Die Haie,1319.92
+2025-26,45,40,HCB Südtirol Alperia,1563.85
+2025-26,45,40,Hydro Fehervar AV 19,1459.24
+2025-26,45,40,Moser Medical Graz99ers,1624.71
+2025-26,45,40,Olimpija Ljubljana,1553.89
+2025-26,45,40,Pioneers Vorarlberg,1410.82
+2025-26,45,40,Steinbach Black Wings Linz,1505.99
+2025-26,45,40,Vienna Capitals,1468.84
+2025-26,40,41,EC Red Bull Salzburg,1620.02
+2025-26,40,41,EC iDM Wärmepumpen VSV,1428.24
+2025-26,40,41,EC-KAC,1615.47
+2025-26,40,41,FTC-Telekom,1407.59
+2025-26,40,41,HC Falkensteiner Pustertal,1531.83
+2025-26,40,41,HC TIWAG Innsbruck - Die Haie,1336.97
+2025-26,40,41,HCB Südtirol Alperia,1569.77
+2025-26,40,41,Hydro Fehervar AV 19,1453.32
+2025-26,40,41,Moser Medical Graz99ers,1607.66
+2025-26,40,41,Olimpija Ljubljana,1553.89
+2025-26,40,41,Pioneers Vorarlberg,1429.1
+2025-26,40,41,Steinbach Black Wings Linz,1495.56
+2025-26,40,41,Vienna Capitals,1450.57
+2025-26,41,42,EC Red Bull Salzburg,1631.62
+2025-26,41,42,EC iDM Wärmepumpen VSV,1438.96
+2025-26,41,42,EC-KAC,1622.43
+2025-26,41,42,FTC-Telekom,1397.59
+2025-26,41,42,HC Falkensteiner Pustertal,1541.84
+2025-26,41,42,HC TIWAG Innsbruck - Die Haie,1327.95
+2025-26,41,42,HCB Südtirol Alperia,1558.17
+2025-26,41,42,Hydro Fehervar AV 19,1442.6
+2025-26,41,42,Moser Medical Graz99ers,1615.51
+2025-26,41,42,Olimpija Ljubljana,1553.89
+2025-26,41,42,Pioneers Vorarlberg,1421.25
+2025-26,41,42,Steinbach Black Wings Linz,1488.6
+2025-26,41,42,Vienna Capitals,1459.59
+2025-26,46,43,EC Red Bull Salzburg,1615.86
+2025-26,46,43,EC iDM Wärmepumpen VSV,1438.96
+2025-26,46,43,EC-KAC,1622.43
+2025-26,46,43,FTC-Telekom,1413.35
+2025-26,46,43,HC Falkensteiner Pustertal,1541.84
+2025-26,46,43,HC TIWAG Innsbruck - Die Haie,1327.95
+2025-26,46,43,HCB Südtirol Alperia,1558.17
+2025-26,46,43,Hydro Fehervar AV 19,1442.6
+2025-26,46,43,Moser Medical Graz99ers,1615.51
+2025-26,46,43,Olimpija Ljubljana,1553.89
+2025-26,46,43,Pioneers Vorarlberg,1421.25
+2025-26,46,43,Steinbach Black Wings Linz,1488.6
+2025-26,46,43,Vienna Capitals,1459.59
+2025-26,47,44,EC Red Bull Salzburg,1615.86
+2025-26,47,44,EC iDM Wärmepumpen VSV,1438.96
+2025-26,47,44,EC-KAC,1610.15
+2025-26,47,44,FTC-Telekom,1413.35
+2025-26,47,44,HC Falkensteiner Pustertal,1554.11
+2025-26,47,44,HC TIWAG Innsbruck - Die Haie,1323.75
+2025-26,47,44,HCB Südtirol Alperia,1562.37
+2025-26,47,44,Hydro Fehervar AV 19,1442.6
+2025-26,47,44,Moser Medical Graz99ers,1615.51
+2025-26,47,44,Olimpija Ljubljana,1553.89
+2025-26,47,44,Pioneers Vorarlberg,1421.25
+2025-26,47,44,Steinbach Black Wings Linz,1488.6
+2025-26,47,44,Vienna Capitals,1459.59
+2025-26,42,45,EC Red Bull Salzburg,1626.84
+2025-26,42,45,EC iDM Wärmepumpen VSV,1456.94
+2025-26,42,45,EC-KAC,1615.19
+2025-26,42,45,FTC-Telekom,1413.35
+2025-26,42,45,HC Falkensteiner Pustertal,1541.46
+2025-26,42,45,HC TIWAG Innsbruck - Die Haie,1317.22
+2025-26,42,45,HCB Südtirol Alperia,1568.9
+2025-26,42,45,Hydro Fehervar AV 19,1435.7
+2025-26,42,45,Moser Medical Graz99ers,1604.53
+2025-26,42,45,Olimpija Ljubljana,1560.8
+2025-26,42,45,Pioneers Vorarlberg,1416.21
+2025-26,42,45,Steinbach Black Wings Linz,1470.63
+2025-26,42,45,Vienna Capitals,1472.24
+2025-26,43,46,EC Red Bull Salzburg,1636.5
+2025-26,43,46,EC iDM Wärmepumpen VSV,1441.74
+2025-26,43,46,EC-KAC,1605.53
+2025-26,43,46,FTC-Telekom,1407.36
+2025-26,43,46,HC Falkensteiner Pustertal,1550.78
+2025-26,43,46,HC TIWAG Innsbruck - Die Haie,1311.37
+2025-26,43,46,HCB Südtirol Alperia,1552.02
+2025-26,43,46,Hydro Fehervar AV 19,1426.38
+2025-26,43,46,Moser Medical Graz99ers,1604.53
+2025-26,43,46,Olimpija Ljubljana,1566.79
+2025-26,43,46,Pioneers Vorarlberg,1431.41
+2025-26,43,46,Steinbach Black Wings Linz,1476.48
+2025-26,43,46,Vienna Capitals,1489.12
+2025-26,44,47,EC Red Bull Salzburg,1643.25
+2025-26,44,47,EC iDM Wärmepumpen VSV,1457.15
+2025-26,44,47,EC-KAC,1611.69
+2025-26,44,47,FTC-Telekom,1401.2
+2025-26,44,47,HC Falkensteiner Pustertal,1534.7
+2025-26,44,47,HC TIWAG Innsbruck - Die Haie,1311.37
+2025-26,44,47,HCB Südtirol Alperia,1529.18
+2025-26,44,47,Hydro Fehervar AV 19,1419.62
+2025-26,44,47,Moser Medical Graz99ers,1620.61
+2025-26,44,47,Olimpija Ljubljana,1575.0
+2025-26,44,47,Pioneers Vorarlberg,1423.2
+2025-26,44,47,Steinbach Black Wings Linz,1499.32
+2025-26,44,47,Vienna Capitals,1473.71
+2025-26,45,40,EC Red Bull Salzburg,1624.61
+2025-26,45,40,EC iDM Wärmepumpen VSV,1448.87
+2025-26,45,40,EC-KAC,1611.69
+2025-26,45,40,FTC-Telekom,1401.2
+2025-26,45,40,HC Falkensteiner Pustertal,1542.98
+2025-26,45,40,HC TIWAG Innsbruck - Die Haie,1304.09
+2025-26,45,40,HCB Südtirol Alperia,1529.18
+2025-26,45,40,Hydro Fehervar AV 19,1419.62
+2025-26,45,40,Moser Medical Graz99ers,1625.47
+2025-26,45,40,Olimpija Ljubljana,1593.64
+2025-26,45,40,Pioneers Vorarlberg,1418.34
+2025-26,45,40,Steinbach Black Wings Linz,1499.32
+2025-26,45,40,Vienna Capitals,1480.99
+2025-26,46,43,EC Red Bull Salzburg,1624.61
+2025-26,46,43,EC iDM Wärmepumpen VSV,1467.0
+2025-26,46,43,EC-KAC,1622.21
+2025-26,46,43,FTC-Telekom,1401.2
+2025-26,46,43,HC Falkensteiner Pustertal,1524.47
+2025-26,46,43,HC TIWAG Innsbruck - Die Haie,1301.37
+2025-26,46,43,HCB Südtirol Alperia,1547.69
+2025-26,46,43,Hydro Fehervar AV 19,1419.62
+2025-26,46,43,Moser Medical Graz99ers,1628.19
+2025-26,46,43,Olimpija Ljubljana,1575.51
+2025-26,46,43,Pioneers Vorarlberg,1410.12
+2025-26,46,43,Steinbach Black Wings Linz,1488.8
+2025-26,46,43,Vienna Capitals,1489.21
+2025-26,50,48,EC Red Bull Salzburg,1624.61
+2025-26,50,48,EC iDM Wärmepumpen VSV,1475.67
+2025-26,50,48,EC-KAC,1622.21
+2025-26,50,48,FTC-Telekom,1392.53
+2025-26,50,48,HC Falkensteiner Pustertal,1524.47
+2025-26,50,48,HC TIWAG Innsbruck - Die Haie,1301.37
+2025-26,50,48,HCB Südtirol Alperia,1547.69
+2025-26,50,48,Hydro Fehervar AV 19,1419.62
+2025-26,50,48,Moser Medical Graz99ers,1628.19
+2025-26,50,48,Olimpija Ljubljana,1575.51
+2025-26,50,48,Pioneers Vorarlberg,1410.12
+2025-26,50,48,Steinbach Black Wings Linz,1488.8
+2025-26,50,48,Vienna Capitals,1489.21
+2025-26,47,44,EC Red Bull Salzburg,1624.61
+2025-26,47,44,EC iDM Wärmepumpen VSV,1464.07
+2025-26,47,44,EC-KAC,1622.21
+2025-26,47,44,FTC-Telekom,1385.9
+2025-26,47,44,HC Falkensteiner Pustertal,1524.47
+2025-26,47,44,HC TIWAG Innsbruck - Die Haie,1301.37
+2025-26,47,44,HCB Südtirol Alperia,1547.69
+2025-26,47,44,Hydro Fehervar AV 19,1431.22
+2025-26,47,44,Moser Medical Graz99ers,1634.82
+2025-26,47,44,Olimpija Ljubljana,1583.51
+2025-26,47,44,Pioneers Vorarlberg,1401.88
+2025-26,47,44,Steinbach Black Wings Linz,1497.04
+2025-26,47,44,Vienna Capitals,1481.21
+2025-26,48,49,EC Red Bull Salzburg,1610.3
+2025-26,48,49,EC iDM Wärmepumpen VSV,1478.39
+2025-26,48,49,EC-KAC,1631.81
+2025-26,48,49,FTC-Telekom,1397.3
+2025-26,48,49,HC Falkensteiner Pustertal,1532.25
+2025-26,48,49,HC TIWAG Innsbruck - Die Haie,1301.37
+2025-26,48,49,HCB Südtirol Alperia,1566.97
+2025-26,48,49,Hydro Fehervar AV 19,1423.45
+2025-26,48,49,Moser Medical Graz99ers,1615.53
+2025-26,48,49,Olimpija Ljubljana,1573.91
+2025-26,48,49,Pioneers Vorarlberg,1390.47
+2025-26,48,49,Steinbach Black Wings Linz,1482.65
+2025-26,48,49,Vienna Capitals,1495.6
+2025-26,49,50,EC Red Bull Salzburg,1618.09
+2025-26,49,50,EC iDM Wärmepumpen VSV,1486.34
+2025-26,49,50,EC-KAC,1620.4
+2025-26,49,50,FTC-Telekom,1404.61
+2025-26,49,50,HC Falkensteiner Pustertal,1524.46
+2025-26,49,50,HC TIWAG Innsbruck - Die Haie,1294.06
+2025-26,49,50,HCB Südtirol Alperia,1574.9
+2025-26,49,50,Hydro Fehervar AV 19,1415.52
+2025-26,49,50,Moser Medical Graz99ers,1626.95
+2025-26,49,50,Olimpija Ljubljana,1581.34
+2025-26,49,50,Pioneers Vorarlberg,1382.52
+2025-26,49,50,Steinbach Black Wings Linz,1475.22
+2025-26,49,50,Vienna Capitals,1495.6
+2025-26,50,48,EC Red Bull Salzburg,1625.09
+2025-26,50,48,EC iDM Wärmepumpen VSV,1486.34
+2025-26,50,48,EC-KAC,1624.53
+2025-26,50,48,FTC-Telekom,1404.61
+2025-26,50,48,HC Falkensteiner Pustertal,1530.58
+2025-26,50,48,HC TIWAG Innsbruck - Die Haie,1289.93
+2025-26,50,48,HCB Südtirol Alperia,1565.08
+2025-26,50,48,Hydro Fehervar AV 19,1408.52
+2025-26,50,48,Moser Medical Graz99ers,1635.31
+2025-26,50,48,Olimpija Ljubljana,1591.15
+2025-26,50,48,Pioneers Vorarlberg,1376.39
+2025-26,50,48,Steinbach Black Wings Linz,1475.22
+2025-26,50,48,Vienna Capitals,1487.24
+2025-26,51,51,EC Red Bull Salzburg,1625.09
+2025-26,51,51,EC iDM Wärmepumpen VSV,1480.21
+2025-26,51,51,EC-KAC,1635.74
+2025-26,51,51,FTC-Telekom,1396.1
+2025-26,51,51,HC Falkensteiner Pustertal,1542.31
+2025-26,51,51,HC TIWAG Innsbruck - Die Haie,1302.36
+2025-26,51,51,HCB Südtirol Alperia,1553.87
+2025-26,51,51,Hydro Fehervar AV 19,1400.75
+2025-26,51,51,Moser Medical Graz99ers,1641.44
+2025-26,51,51,Olimpija Ljubljana,1579.43
+2025-26,51,51,Pioneers Vorarlberg,1363.95
+2025-26,51,51,Steinbach Black Wings Linz,1483.73
+2025-26,51,51,Vienna Capitals,1495.02
+2025-26,52,52,EC Red Bull Salzburg,1628.35
+2025-26,52,52,EC iDM Wärmepumpen VSV,1471.97
+2025-26,52,52,EC-KAC,1621.9
+2025-26,52,52,FTC-Telekom,1386.23
+2025-26,52,52,HC Falkensteiner Pustertal,1550.54
+2025-26,52,52,HC TIWAG Innsbruck - Die Haie,1299.1
+2025-26,52,52,HCB Südtirol Alperia,1560.28
+2025-26,52,52,Hydro Fehervar AV 19,1410.61
+2025-26,52,52,Moser Medical Graz99ers,1647.33
+2025-26,52,52,Olimpija Ljubljana,1579.43
+2025-26,52,52,Pioneers Vorarlberg,1357.55
+2025-26,52,52,Steinbach Black Wings Linz,1477.84
+2025-26,52,52,Vienna Capitals,1508.86
+2025-26,1,1,EC Red Bull Salzburg,1628.35
+2025-26,1,1,EC iDM Wärmepumpen VSV,1477.14
+2025-26,1,1,EC-KAC,1621.9
+2025-26,1,1,FTC-Telekom,1386.23
+2025-26,1,1,HC Falkensteiner Pustertal,1550.54
+2025-26,1,1,HC TIWAG Innsbruck - Die Haie,1299.1
+2025-26,1,1,HCB Südtirol Alperia,1560.28
+2025-26,1,1,Hydro Fehervar AV 19,1399.45
+2025-26,1,1,Moser Medical Graz99ers,1647.33
+2025-26,1,1,Olimpija Ljubljana,1579.43
+2025-26,1,1,Pioneers Vorarlberg,1357.55
+2025-26,1,1,Steinbach Black Wings Linz,1472.67
+2025-26,1,1,Vienna Capitals,1520.02
+2025-26,2,2,EC Red Bull Salzburg,1628.35
+2025-26,2,2,EC iDM Wärmepumpen VSV,1493.0
+2025-26,2,2,EC-KAC,1621.9
+2025-26,2,2,FTC-Telekom,1386.23
+2025-26,2,2,HC Falkensteiner Pustertal,1550.54
+2025-26,2,2,HC TIWAG Innsbruck - Die Haie,1299.1
+2025-26,2,2,HCB Südtirol Alperia,1560.28
+2025-26,2,2,Hydro Fehervar AV 19,1419.8
+2025-26,2,2,Moser Medical Graz99ers,1647.33
+2025-26,2,2,Olimpija Ljubljana,1579.43
+2025-26,2,2,Pioneers Vorarlberg,1357.55
+2025-26,2,2,Steinbach Black Wings Linz,1456.81
+2025-26,2,2,Vienna Capitals,1499.67
+2025-26,3,3,EC Red Bull Salzburg,1628.35
+2025-26,3,3,EC iDM Wärmepumpen VSV,1493.0
+2025-26,3,3,EC-KAC,1621.9
+2025-26,3,3,FTC-Telekom,1386.23
+2025-26,3,3,HC Falkensteiner Pustertal,1550.54
+2025-26,3,3,HC TIWAG Innsbruck - Die Haie,1299.1
+2025-26,3,3,HCB Südtirol Alperia,1560.28
+2025-26,3,3,Hydro Fehervar AV 19,1432.06
+2025-26,3,3,Moser Medical Graz99ers,1647.33
+2025-26,3,3,Olimpija Ljubljana,1579.43
+2025-26,3,3,Pioneers Vorarlberg,1357.55
+2025-26,3,3,Steinbach Black Wings Linz,1456.81
+2025-26,3,3,Vienna Capitals,1487.41
+2025-26,1,1,EC Red Bull Salzburg,1616.15
+2025-26,1,1,EC iDM Wärmepumpen VSV,1487.17
+2025-26,1,1,EC-KAC,1621.9
+2025-26,1,1,FTC-Telekom,1386.23
+2025-26,1,1,HC Falkensteiner Pustertal,1562.74
+2025-26,1,1,HC TIWAG Innsbruck - Die Haie,1299.1
+2025-26,1,1,HCB Südtirol Alperia,1550.83
+2025-26,1,1,Hydro Fehervar AV 19,1432.06
+2025-26,1,1,Moser Medical Graz99ers,1653.16
+2025-26,1,1,Olimpija Ljubljana,1588.88
+2025-26,1,1,Pioneers Vorarlberg,1357.55
+2025-26,1,1,Steinbach Black Wings Linz,1456.81
+2025-26,1,1,Vienna Capitals,1487.41
+2025-26,2,2,EC Red Bull Salzburg,1604.62
+2025-26,2,2,EC iDM Wärmepumpen VSV,1478.86
+2025-26,2,2,EC-KAC,1621.9
+2025-26,2,2,FTC-Telekom,1386.23
+2025-26,2,2,HC Falkensteiner Pustertal,1574.27
+2025-26,2,2,HC TIWAG Innsbruck - Die Haie,1299.1
+2025-26,2,2,HCB Südtirol Alperia,1561.92
+2025-26,2,2,Hydro Fehervar AV 19,1432.06
+2025-26,2,2,Moser Medical Graz99ers,1661.47
+2025-26,2,2,Olimpija Ljubljana,1577.79
+2025-26,2,2,Pioneers Vorarlberg,1357.55
+2025-26,2,2,Steinbach Black Wings Linz,1456.81
+2025-26,2,2,Vienna Capitals,1487.41
+2025-26,3,3,EC Red Bull Salzburg,1593.75
+2025-26,3,3,EC iDM Wärmepumpen VSV,1473.6
+2025-26,3,3,EC-KAC,1621.9
+2025-26,3,3,FTC-Telekom,1386.23
+2025-26,3,3,HC Falkensteiner Pustertal,1585.14
+2025-26,3,3,HC TIWAG Innsbruck - Die Haie,1299.1
+2025-26,3,3,HCB Südtirol Alperia,1552.38
+2025-26,3,3,Hydro Fehervar AV 19,1432.06
+2025-26,3,3,Moser Medical Graz99ers,1666.73
+2025-26,3,3,Olimpija Ljubljana,1587.33
+2025-26,3,3,Pioneers Vorarlberg,1357.55
+2025-26,3,3,Steinbach Black Wings Linz,1456.81
+2025-26,3,3,Vienna Capitals,1487.41
+2025-26,1,1,EC Red Bull Salzburg,1593.75
+2025-26,1,1,EC iDM Wärmepumpen VSV,1473.6
+2025-26,1,1,EC-KAC,1628.31
+2025-26,1,1,FTC-Telekom,1386.23
+2025-26,1,1,HC Falkensteiner Pustertal,1585.14
+2025-26,1,1,HC TIWAG Innsbruck - Die Haie,1299.1
+2025-26,1,1,HCB Südtirol Alperia,1552.38
+2025-26,1,1,Hydro Fehervar AV 19,1425.65
+2025-26,1,1,Moser Medical Graz99ers,1666.73
+2025-26,1,1,Olimpija Ljubljana,1587.33
+2025-26,1,1,Pioneers Vorarlberg,1357.55
+2025-26,1,1,Steinbach Black Wings Linz,1456.81
+2025-26,1,1,Vienna Capitals,1487.41
+2025-26,2,2,EC Red Bull Salzburg,1593.75
+2025-26,2,2,EC iDM Wärmepumpen VSV,1473.6
+2025-26,2,2,EC-KAC,1613.06
+2025-26,2,2,FTC-Telekom,1386.23
+2025-26,2,2,HC Falkensteiner Pustertal,1585.14
+2025-26,2,2,HC TIWAG Innsbruck - Die Haie,1299.1
+2025-26,2,2,HCB Südtirol Alperia,1552.38
+2025-26,2,2,Hydro Fehervar AV 19,1440.9
+2025-26,2,2,Moser Medical Graz99ers,1666.73
+2025-26,2,2,Olimpija Ljubljana,1587.33
+2025-26,2,2,Pioneers Vorarlberg,1357.55
+2025-26,2,2,Steinbach Black Wings Linz,1456.81
+2025-26,2,2,Vienna Capitals,1487.41
+2025-26,4,4,EC Red Bull Salzburg,1583.5
+2025-26,4,4,EC iDM Wärmepumpen VSV,1466.28
+2025-26,4,4,EC-KAC,1613.06
+2025-26,4,4,FTC-Telekom,1386.23
+2025-26,4,4,HC Falkensteiner Pustertal,1595.39
+2025-26,4,4,HC TIWAG Innsbruck - Die Haie,1299.1
+2025-26,4,4,HCB Südtirol Alperia,1538.12
+2025-26,4,4,Hydro Fehervar AV 19,1440.9
+2025-26,4,4,Moser Medical Graz99ers,1674.05
+2025-26,4,4,Olimpija Ljubljana,1601.59
+2025-26,4,4,Pioneers Vorarlberg,1357.55
+2025-26,4,4,Steinbach Black Wings Linz,1456.81
+2025-26,4,4,Vienna Capitals,1487.41
+2025-26,3,3,EC Red Bull Salzburg,1583.5
+2025-26,3,3,EC iDM Wärmepumpen VSV,1466.28
+2025-26,3,3,EC-KAC,1622.06
+2025-26,3,3,FTC-Telekom,1386.23
+2025-26,3,3,HC Falkensteiner Pustertal,1595.39
+2025-26,3,3,HC TIWAG Innsbruck - Die Haie,1299.1
+2025-26,3,3,HCB Südtirol Alperia,1538.12
+2025-26,3,3,Hydro Fehervar AV 19,1431.91
+2025-26,3,3,Moser Medical Graz99ers,1674.05
+2025-26,3,3,Olimpija Ljubljana,1601.59
+2025-26,3,3,Pioneers Vorarlberg,1357.55
+2025-26,3,3,Steinbach Black Wings Linz,1456.81
+2025-26,3,3,Vienna Capitals,1487.41
+2025-26,5,5,EC Red Bull Salzburg,1583.5
+2025-26,5,5,EC iDM Wärmepumpen VSV,1466.28
+2025-26,5,5,EC-KAC,1622.06
+2025-26,5,5,FTC-Telekom,1386.23
+2025-26,5,5,HC Falkensteiner Pustertal,1595.39
+2025-26,5,5,HC TIWAG Innsbruck - Die Haie,1299.1
+2025-26,5,5,HCB Südtirol Alperia,1527.08
+2025-26,5,5,Hydro Fehervar AV 19,1431.91
+2025-26,5,5,Moser Medical Graz99ers,1674.05
+2025-26,5,5,Olimpija Ljubljana,1612.63
+2025-26,5,5,Pioneers Vorarlberg,1357.55
+2025-26,5,5,Steinbach Black Wings Linz,1456.81
+2025-26,5,5,Vienna Capitals,1487.41
+2025-26,4,4,EC Red Bull Salzburg,1583.5
+2025-26,4,4,EC iDM Wärmepumpen VSV,1466.28
+2025-26,4,4,EC-KAC,1607.07
+2025-26,4,4,FTC-Telekom,1386.23
+2025-26,4,4,HC Falkensteiner Pustertal,1595.39
+2025-26,4,4,HC TIWAG Innsbruck - Die Haie,1299.1
+2025-26,4,4,HCB Südtirol Alperia,1527.08
+2025-26,4,4,Hydro Fehervar AV 19,1446.89
+2025-26,4,4,Moser Medical Graz99ers,1674.05
+2025-26,4,4,Olimpija Ljubljana,1612.63
+2025-26,4,4,Pioneers Vorarlberg,1357.55
+2025-26,4,4,Steinbach Black Wings Linz,1456.81
+2025-26,4,4,Vienna Capitals,1487.41
+2025-26,5,5,EC Red Bull Salzburg,1583.5
+2025-26,5,5,EC iDM Wärmepumpen VSV,1466.28
+2025-26,5,5,EC-KAC,1592.76
+2025-26,5,5,FTC-Telekom,1386.23
+2025-26,5,5,HC Falkensteiner Pustertal,1595.39
+2025-26,5,5,HC TIWAG Innsbruck - Die Haie,1299.1
+2025-26,5,5,HCB Südtirol Alperia,1527.08
+2025-26,5,5,Hydro Fehervar AV 19,1461.2
+2025-26,5,5,Moser Medical Graz99ers,1674.05
+2025-26,5,5,Olimpija Ljubljana,1612.63
+2025-26,5,5,Pioneers Vorarlberg,1357.55
+2025-26,5,5,Steinbach Black Wings Linz,1456.81
+2025-26,5,5,Vienna Capitals,1487.41
+2025-26,6,6,EC Red Bull Salzburg,1583.5
+2025-26,6,6,EC iDM Wärmepumpen VSV,1466.28
+2025-26,6,6,EC-KAC,1574.95
+2025-26,6,6,FTC-Telekom,1386.23
+2025-26,6,6,HC Falkensteiner Pustertal,1595.39
+2025-26,6,6,HC TIWAG Innsbruck - Die Haie,1299.1
+2025-26,6,6,HCB Südtirol Alperia,1527.08
+2025-26,6,6,Hydro Fehervar AV 19,1479.01
+2025-26,6,6,Moser Medical Graz99ers,1674.05
+2025-26,6,6,Olimpija Ljubljana,1612.63
+2025-26,6,6,Pioneers Vorarlberg,1357.55
+2025-26,6,6,Steinbach Black Wings Linz,1456.81
+2025-26,6,6,Vienna Capitals,1487.41
+2025-26,1,1,EC Red Bull Salzburg,1583.5
+2025-26,1,1,EC iDM Wärmepumpen VSV,1466.28
+2025-26,1,1,EC-KAC,1574.95
+2025-26,1,1,FTC-Telekom,1386.23
+2025-26,1,1,HC Falkensteiner Pustertal,1609.82
+2025-26,1,1,HC TIWAG Innsbruck - Die Haie,1299.1
+2025-26,1,1,HCB Südtirol Alperia,1527.08
+2025-26,1,1,Hydro Fehervar AV 19,1474.1
+2025-26,1,1,Moser Medical Graz99ers,1678.96
+2025-26,1,1,Olimpija Ljubljana,1598.19
+2025-26,1,1,Pioneers Vorarlberg,1357.55
+2025-26,1,1,Steinbach Black Wings Linz,1456.81
+2025-26,1,1,Vienna Capitals,1487.41

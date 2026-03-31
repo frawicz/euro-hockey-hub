@@ -1,0 +1,154 @@
+league,team,state_diff,n_score,n_total,n_concede,p_score,p_concede,next_if_score,next_if_concede
+austria,EC Red Bull Salzburg,-4,1,1,0,1.0,0.0,-3,-5
+austria,EC Red Bull Salzburg,-3,1,3,2,0.3333,0.6667,-2,-4
+austria,EC Red Bull Salzburg,-2,7,13,6,0.5385,0.4615,-1,-3
+austria,EC Red Bull Salzburg,-1,31,45,14,0.6889,0.3111,0,-2
+austria,EC Red Bull Salzburg,0,56,107,51,0.5234,0.4766,1,-1
+austria,EC Red Bull Salzburg,1,35,59,24,0.5932,0.4068,2,0
+austria,EC Red Bull Salzburg,2,21,34,13,0.6176,0.3824,3,1
+austria,EC Red Bull Salzburg,3,13,16,3,0.8125,0.1875,4,2
+austria,EC Red Bull Salzburg,4,3,5,2,0.6,0.4,5,3
+austria,EC Red Bull Salzburg,5,1,1,0,1.0,0.0,6,4
+austria,EC Red Bull Salzburg,6,1,1,0,1.0,0.0,7,5
+austria,EC iDM Wärmepumpen VSV,-6,1,1,0,1.0,0.0,-5,-7
+austria,EC iDM Wärmepumpen VSV,-5,2,3,1,0.6667,0.3333,-4,-6
+austria,EC iDM Wärmepumpen VSV,-4,2,6,4,0.3333,0.6667,-3,-5
+austria,EC iDM Wärmepumpen VSV,-3,6,12,6,0.5,0.5,-2,-4
+austria,EC iDM Wärmepumpen VSV,-2,16,37,21,0.4324,0.5676,-1,-3
+austria,EC iDM Wärmepumpen VSV,-1,19,54,35,0.3519,0.6481,0,-2
+austria,EC iDM Wärmepumpen VSV,0,49,99,50,0.4949,0.5051,1,-1
+austria,EC iDM Wärmepumpen VSV,1,31,57,26,0.5439,0.4561,2,0
+austria,EC iDM Wärmepumpen VSV,2,25,40,15,0.625,0.375,3,1
+austria,EC iDM Wärmepumpen VSV,3,7,20,13,0.35,0.65,4,2
+austria,EC iDM Wärmepumpen VSV,4,2,4,2,0.5,0.5,5,3
+austria,EC iDM Wärmepumpen VSV,5,0,1,1,0.0,1.0,6,4
+austria,EC-KAC,-4,1,1,0,1.0,0.0,-3,-5
+austria,EC-KAC,-3,3,5,2,0.6,0.4,-2,-4
+austria,EC-KAC,-2,8,15,7,0.5333,0.4667,-1,-3
+austria,EC-KAC,-1,22,36,14,0.6111,0.3889,0,-2
+austria,EC-KAC,0,72,113,41,0.6372,0.3628,1,-1
+austria,EC-KAC,1,41,78,37,0.5256,0.4744,2,0
+austria,EC-KAC,2,28,45,17,0.6222,0.3778,3,1
+austria,EC-KAC,3,11,21,10,0.5238,0.4762,4,2
+austria,EC-KAC,4,3,5,2,0.6,0.4,5,3
+austria,FTC-Telekom,-6,2,2,0,1.0,0.0,-5,-7
+austria,FTC-Telekom,-5,2,4,2,0.5,0.5,-4,-6
+austria,FTC-Telekom,-4,2,9,7,0.2222,0.7778,-3,-5
+austria,FTC-Telekom,-3,11,24,13,0.4583,0.5417,-2,-4
+austria,FTC-Telekom,-2,15,40,25,0.375,0.625,-1,-3
+austria,FTC-Telekom,-1,20,55,35,0.3636,0.6364,0,-2
+austria,FTC-Telekom,0,37,88,51,0.4205,0.5795,1,-1
+austria,FTC-Telekom,1,20,40,20,0.5,0.5,2,0
+austria,FTC-Telekom,2,9,21,12,0.4286,0.5714,3,1
+austria,FTC-Telekom,3,6,11,5,0.5455,0.4545,4,2
+austria,FTC-Telekom,4,2,5,3,0.4,0.6,5,3
+austria,FTC-Telekom,5,1,2,1,0.5,0.5,6,4
+austria,HC Falkensteiner Pustertal,-7,1,2,1,0.5,0.5,-6,-8
+austria,HC Falkensteiner Pustertal,-6,1,3,2,0.3333,0.6667,-5,-7
+austria,HC Falkensteiner Pustertal,-5,0,3,3,0.0,1.0,-4,-6
+austria,HC Falkensteiner Pustertal,-4,1,4,3,0.25,0.75,-3,-5
+austria,HC Falkensteiner Pustertal,-3,4,11,7,0.3636,0.6364,-2,-4
+austria,HC Falkensteiner Pustertal,-2,14,26,12,0.5385,0.4615,-1,-3
+austria,HC Falkensteiner Pustertal,-1,32,55,23,0.5818,0.4182,0,-2
+austria,HC Falkensteiner Pustertal,0,52,103,51,0.5049,0.4951,1,-1
+austria,HC Falkensteiner Pustertal,1,30,48,18,0.625,0.375,2,0
+austria,HC Falkensteiner Pustertal,2,17,25,8,0.68,0.32,3,1
+austria,HC Falkensteiner Pustertal,3,10,13,3,0.7692,0.2308,4,2
+austria,HC Falkensteiner Pustertal,4,5,8,3,0.625,0.375,5,3
+austria,HC Falkensteiner Pustertal,5,3,4,1,0.75,0.25,6,4
+austria,HC Falkensteiner Pustertal,6,2,2,0,1.0,0.0,7,5
+austria,HC Falkensteiner Pustertal,7,0,1,1,0.0,1.0,8,6
+austria,HC TIWAG Innsbruck - Die Haie,-7,1,1,0,1.0,0.0,-6,-8
+austria,HC TIWAG Innsbruck - Die Haie,-6,0,2,2,0.0,1.0,-5,-7
+austria,HC TIWAG Innsbruck - Die Haie,-5,2,5,3,0.4,0.6,-4,-6
+austria,HC TIWAG Innsbruck - Die Haie,-4,6,14,8,0.4286,0.5714,-3,-5
+austria,HC TIWAG Innsbruck - Die Haie,-3,12,31,19,0.3871,0.6129,-2,-4
+austria,HC TIWAG Innsbruck - Die Haie,-2,23,56,33,0.4107,0.5893,-1,-3
+austria,HC TIWAG Innsbruck - Die Haie,-1,28,79,51,0.3544,0.6456,0,-2
+austria,HC TIWAG Innsbruck - Die Haie,0,30,96,66,0.3125,0.6875,1,-1
+austria,HC TIWAG Innsbruck - Die Haie,1,12,32,20,0.375,0.625,2,0
+austria,HC TIWAG Innsbruck - Die Haie,2,4,14,10,0.2857,0.7143,3,1
+austria,HC TIWAG Innsbruck - Die Haie,3,0,2,2,0.0,1.0,4,2
+austria,HCB Südtirol Alperia,-5,0,1,1,0.0,1.0,-4,-6
+austria,HCB Südtirol Alperia,-4,4,5,1,0.8,0.2,-3,-5
+austria,HCB Südtirol Alperia,-3,7,13,6,0.5385,0.4615,-2,-4
+austria,HCB Südtirol Alperia,-2,11,30,19,0.3667,0.6333,-1,-3
+austria,HCB Südtirol Alperia,-1,24,49,25,0.4898,0.5102,0,-2
+austria,HCB Südtirol Alperia,0,54,101,47,0.5347,0.4653,1,-1
+austria,HCB Südtirol Alperia,1,32,56,24,0.5714,0.4286,2,0
+austria,HCB Südtirol Alperia,2,21,31,10,0.6774,0.3226,3,1
+austria,HCB Südtirol Alperia,3,12,16,4,0.75,0.25,4,2
+austria,HCB Südtirol Alperia,4,6,10,4,0.6,0.4,5,3
+austria,HCB Südtirol Alperia,5,4,4,0,1.0,0.0,6,4
+austria,HCB Südtirol Alperia,6,2,3,1,0.6667,0.3333,7,5
+austria,HCB Südtirol Alperia,7,1,2,1,0.5,0.5,8,6
+austria,Hydro Fehervar AV 19,-6,1,2,1,0.5,0.5,-5,-7
+austria,Hydro Fehervar AV 19,-5,1,4,3,0.25,0.75,-4,-6
+austria,Hydro Fehervar AV 19,-4,5,11,6,0.4545,0.5455,-3,-5
+austria,Hydro Fehervar AV 19,-3,4,19,15,0.2105,0.7895,-2,-4
+austria,Hydro Fehervar AV 19,-2,9,33,24,0.2727,0.7273,-1,-3
+austria,Hydro Fehervar AV 19,-1,34,67,33,0.5075,0.4925,0,-2
+austria,Hydro Fehervar AV 19,0,48,115,67,0.4174,0.5826,1,-1
+austria,Hydro Fehervar AV 19,1,22,45,23,0.4889,0.5111,2,0
+austria,Hydro Fehervar AV 19,2,9,19,10,0.4737,0.5263,3,1
+austria,Hydro Fehervar AV 19,3,3,5,2,0.6,0.4,4,2
+austria,Hydro Fehervar AV 19,4,2,2,0,1.0,0.0,5,3
+austria,Hydro Fehervar AV 19,5,1,2,1,0.5,0.5,6,4
+austria,Hydro Fehervar AV 19,6,0,1,1,0.0,1.0,7,5
+austria,Moser Medical Graz99ers,-3,2,3,1,0.6667,0.3333,-2,-4
+austria,Moser Medical Graz99ers,-2,8,14,6,0.5714,0.4286,-1,-3
+austria,Moser Medical Graz99ers,-1,20,33,13,0.6061,0.3939,0,-2
+austria,Moser Medical Graz99ers,0,62,96,34,0.6458,0.3542,1,-1
+austria,Moser Medical Graz99ers,1,42,65,23,0.6462,0.3538,2,0
+austria,Moser Medical Graz99ers,2,25,42,17,0.5952,0.4048,3,1
+austria,Moser Medical Graz99ers,3,13,21,8,0.619,0.381,4,2
+austria,Moser Medical Graz99ers,4,7,10,3,0.7,0.3,5,3
+austria,Moser Medical Graz99ers,5,3,5,2,0.6,0.4,6,4
+austria,Moser Medical Graz99ers,6,0,2,2,0.0,1.0,7,5
+austria,Olimpija Ljubljana,-3,5,6,1,0.8333,0.1667,-2,-4
+austria,Olimpija Ljubljana,-2,9,21,12,0.4286,0.5714,-1,-3
+austria,Olimpija Ljubljana,-1,32,55,23,0.5818,0.4182,0,-2
+austria,Olimpija Ljubljana,0,58,110,52,0.5273,0.4727,1,-1
+austria,Olimpija Ljubljana,1,31,55,24,0.5636,0.4364,2,0
+austria,Olimpija Ljubljana,2,28,40,12,0.7,0.3,3,1
+austria,Olimpija Ljubljana,3,14,25,11,0.56,0.44,4,2
+austria,Olimpija Ljubljana,4,9,14,5,0.6429,0.3571,5,3
+austria,Olimpija Ljubljana,5,3,7,4,0.4286,0.5714,6,4
+austria,Olimpija Ljubljana,6,3,4,1,0.75,0.25,7,5
+austria,Olimpija Ljubljana,7,0,2,2,0.0,1.0,8,6
+austria,Pioneers Vorarlberg,-6,0,1,1,0.0,1.0,-5,-7
+austria,Pioneers Vorarlberg,-5,0,5,5,0.0,1.0,-4,-6
+austria,Pioneers Vorarlberg,-4,3,10,7,0.3,0.7,-3,-5
+austria,Pioneers Vorarlberg,-3,8,20,12,0.4,0.6,-2,-4
+austria,Pioneers Vorarlberg,-2,16,42,26,0.381,0.619,-1,-3
+austria,Pioneers Vorarlberg,-1,23,62,39,0.371,0.629,0,-2
+austria,Pioneers Vorarlberg,0,36,94,58,0.383,0.617,1,-1
+austria,Pioneers Vorarlberg,1,16,39,23,0.4103,0.5897,2,0
+austria,Pioneers Vorarlberg,2,8,16,8,0.5,0.5,3,1
+austria,Pioneers Vorarlberg,3,3,6,3,0.5,0.5,4,2
+austria,Pioneers Vorarlberg,4,0,2,2,0.0,1.0,5,3
+austria,Steinbach Black Wings Linz,-7,2,2,0,1.0,0.0,-6,-8
+austria,Steinbach Black Wings Linz,-6,1,3,2,0.3333,0.6667,-5,-7
+austria,Steinbach Black Wings Linz,-5,2,3,1,0.6667,0.3333,-4,-6
+austria,Steinbach Black Wings Linz,-4,3,6,3,0.5,0.5,-3,-5
+austria,Steinbach Black Wings Linz,-3,4,14,10,0.2857,0.7143,-2,-4
+austria,Steinbach Black Wings Linz,-2,13,29,16,0.4483,0.5517,-1,-3
+austria,Steinbach Black Wings Linz,-1,16,47,31,0.3404,0.6596,0,-2
+austria,Steinbach Black Wings Linz,0,49,93,44,0.5269,0.4731,1,-1
+austria,Steinbach Black Wings Linz,1,28,55,27,0.5091,0.4909,2,0
+austria,Steinbach Black Wings Linz,2,12,27,15,0.4444,0.5556,3,1
+austria,Steinbach Black Wings Linz,3,5,9,4,0.5556,0.4444,4,2
+austria,Steinbach Black Wings Linz,4,3,4,1,0.75,0.25,5,3
+austria,Steinbach Black Wings Linz,5,4,4,0,1.0,0.0,6,4
+austria,Steinbach Black Wings Linz,6,1,2,1,0.5,0.5,7,5
+austria,Vienna Capitals,-6,0,1,1,0.0,1.0,-5,-7
+austria,Vienna Capitals,-5,1,2,1,0.5,0.5,-4,-6
+austria,Vienna Capitals,-4,2,5,3,0.4,0.6,-3,-5
+austria,Vienna Capitals,-3,5,12,7,0.4167,0.5833,-2,-4
+austria,Vienna Capitals,-2,10,24,14,0.4167,0.5833,-1,-3
+austria,Vienna Capitals,-1,19,47,28,0.4043,0.5957,0,-2
+austria,Vienna Capitals,0,55,101,46,0.5446,0.4554,1,-1
+austria,Vienna Capitals,1,24,55,31,0.4364,0.5636,2,0
+austria,Vienna Capitals,2,14,26,12,0.5385,0.4615,3,1
+austria,Vienna Capitals,3,4,8,4,0.5,0.5,4,2
+austria,Vienna Capitals,4,0,3,3,0.0,1.0,5,3

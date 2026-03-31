@@ -1,0 +1,20 @@
+.DS_Store
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# Local Python environments
+.venv/
+venv/
+env/
+
+# Tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local Streamlit and editor files
+.streamlit/secrets.toml
+.vscode/
+.idea/
+

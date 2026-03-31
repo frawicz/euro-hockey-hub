@@ -1,0 +1,97 @@
+league,league_label,team,wiki_title,wiki_api,wikidata_qid,logo_filename,logo_url,local_path,status,score
+austria,ICE Hockey League,EC Red Bull Salzburg,EC Red Bull Salzburg,https://de.wikipedia.org/w/api.php,Q36936,,,,no_logo_url,1.0
+austria,ICE Hockey League,EC iDM Wärmepumpen VSV,EC VSV,https://de.wikipedia.org/w/api.php,Q698169,Eishockey Club Villacher Sportverein 1209.jpg,https://upload.wikimedia.org/wikipedia/commons/6/65/Eishockey_Club_Villacher_Sportverein_1209.jpg,assets/club_symbols/austria/ec-idm-w-rmepumpen-vsv.jpg,ok,0.5
+austria,ICE Hockey League,EC-KAC,EC KAC,https://de.wikipedia.org/w/api.php,Q166510,,https://upload.wikimedia.org/wikipedia/de/b/b6/KAC_Logo.svg,assets/club_symbols/austria/ec-kac.svg,ok,1.0
+austria,ICE Hockey League,FTC-Telekom,,,,,,,no_good_title,0.0
+austria,ICE Hockey League,HC Falkensteiner Pustertal,HC Pustertal,https://de.wikipedia.org/w/api.php,Q1478958,,,,no_logo_url,0.667
+austria,ICE Hockey League,HC TIWAG Innsbruck - Die Haie,HC Innsbruck,https://de.wikipedia.org/w/api.php,Q690612,,,,no_logo_url,0.4
+austria,ICE Hockey League,HCB Südtirol Alperia,,,,,,,no_good_title,0.0
+austria,ICE Hockey League,Hydro Fehervar AV 19,,,,,,,no_good_title,0.0
+austria,ICE Hockey League,Moser Medical Graz99ers,,,,,,,no_good_title,0.0
+austria,ICE Hockey League,Olimpija Ljubljana,,,,,,,no_good_title,0.0
+austria,ICE Hockey League,Pioneers Vorarlberg,,,,,,,no_good_title,0.0
+austria,ICE Hockey League,Steinbach Black Wings Linz,,,,,,,no_good_title,0.0
+austria,ICE Hockey League,Vienna Capitals,,,,,,,no_good_title,0.0
+czech,Czech Extraliga,BK Mladá Boleslav,,,,,,,no_good_title,0.0
+czech,Czech Extraliga,Bílí Tygři Liberec,,,,,,,no_good_title,0.0
+czech,Czech Extraliga,HC Dynamo Pardubice,,,,,,,no_good_title,0.0
+czech,Czech Extraliga,HC Energie Karlovy Vary,,,,,,,no_good_title,0.0
+czech,Czech Extraliga,HC Kometa Brno,,,,,,,no_good_title,0.0
+czech,Czech Extraliga,HC Oceláři Třinec,,,,,,,no_good_title,0.0
+czech,Czech Extraliga,HC Olomouc,,,,,,,no_good_title,0.0
+czech,Czech Extraliga,HC Sparta Praha,,,,,,,no_good_title,0.0
+czech,Czech Extraliga,HC VERVA Litvínov,,,,,,,no_good_title,0.0
+czech,Czech Extraliga,HC VÍTKOVICE RIDERA,,,,,,,no_good_title,0.0
+czech,Czech Extraliga,HC Škoda Plzeň,,,,,,,no_good_title,0.0
+czech,Czech Extraliga,Mountfield HK,,,,,,,no_good_title,0.0
+czech,Czech Extraliga,Rytíři Kladno,,,,,,,no_good_title,0.0
+czech,Czech Extraliga,Č. Budějovice,,,,,,,no_good_title,0.0
+finland,Liiga,HIFK,,,,,,,no_good_title,0.0
+finland,Liiga,HPK,,,,,,,no_good_title,0.0
+finland,Liiga,Ilves,,,,,,,no_good_title,0.0
+finland,Liiga,JYP,,,,,,,no_good_title,0.0
+finland,Liiga,Jukurit,,,,,,,no_good_title,0.0
+finland,Liiga,K-Espoo,,,,,,,no_good_title,0.0
+finland,Liiga,KalPa,,,,,,,no_good_title,0.0
+finland,Liiga,KooKoo,,,,,,,no_good_title,0.0
+finland,Liiga,Kärpät,,,,,,,no_good_title,0.0
+finland,Liiga,Lukko,,,,,,,no_good_title,0.0
+finland,Liiga,Pelicans,,,,,,,no_good_title,0.0
+finland,Liiga,SaiPa,,,,,,,no_good_title,0.0
+finland,Liiga,Sport,,,,,,,no_good_title,0.0
+finland,Liiga,TPS,,,,,,,no_good_title,0.0
+finland,Liiga,Tappara,,,,,,,no_good_title,0.0
+finland,Liiga,Ässät,,,,,,,no_good_title,0.0
+germany,DEL,Adler Mannheim,,,,,,,no_good_title,0.0
+germany,DEL,Augsburger Panther,,,,,,,no_good_title,0.0
+germany,DEL,Dresdner Eislöwen,,,,,,,no_good_title,0.0
+germany,DEL,EHC Red Bull München,,,,,,,no_good_title,0.0
+germany,DEL,ERC Ingolstadt,,,,,,,no_good_title,0.0
+germany,DEL,Eisbären Berlin,,,,,,,no_good_title,0.0
+germany,DEL,Grizzlys Wolfsburg,,,,,,,no_good_title,0.0
+germany,DEL,Iserlohn Roosters,,,,,,,no_good_title,0.0
+germany,DEL,Kölner Haie,,,,,,,no_good_title,0.0
+germany,DEL,Löwen Frankfurt,,,,,,,no_good_title,0.0
+germany,DEL,Nürnberg Ice Tigers,,,,,,,no_good_title,0.0
+germany,DEL,Pinguins Bremerhaven,,,,,,,no_good_title,0.0
+germany,DEL,Schwenninger Wild Wings,,,,,,,no_good_title,0.0
+germany,DEL,Straubing Tigers,,,,,,,no_good_title,0.0
+slovakia,Slovak Extraliga,HC 19 Humenné,,,,,,,no_good_title,0.0
+slovakia,Slovak Extraliga,HC Košice s.r.o.,,,,,,,no_good_title,0.0
+slovakia,Slovak Extraliga,"HC SLOVAN Bratislava, a.s.",,,,,,,no_good_title,0.0
+slovakia,Slovak Extraliga,"HC ‘05 BANSKÁ BYSTRICA, a.s.",,,,,,,no_good_title,0.0
+slovakia,Slovak Extraliga,"HK Nitra, s.r.o.",,,,,,,no_good_title,0.0
+slovakia,Slovak Extraliga,"HK Rysy, s.r.o.",,,,,,,no_good_title,0.0
+slovakia,Slovak Extraliga,"HK Skalica, s.r.o.",,,,,,,no_good_title,0.0
+slovakia,Slovak Extraliga,HKM a.s,,,,,,,no_good_title,0.0
+slovakia,Slovak Extraliga,"Hokejový klub DUKLA Trenčín, a.s.",,,,,,,no_good_title,0.0
+slovakia,Slovak Extraliga,Hokejový klub Dukla Ingema Michalovce,,,,,,,no_good_title,0.0
+slovakia,Slovak Extraliga,Hokejový klub Poprad a.s.,,,,,,,no_good_title,0.0
+slovakia,Slovak Extraliga,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",,,,,,,no_good_title,0.0
+slovakia,Slovak Extraliga,Presov Hockey a.s.,,,,,,,no_good_title,0.0
+slovakia,Slovak Extraliga,"VLCI ŽILINA, a.s.",,,,,,,no_good_title,0.0
+sweden,SHL,Brynäs IF,,,,,,,no_good_title,0.0
+sweden,SHL,Djurgårdens IF,,,,,,,no_good_title,0.0
+sweden,SHL,Frölunda HC,,,,,,,no_good_title,0.0
+sweden,SHL,Färjestad BK,,,,,,,no_good_title,0.0
+sweden,SHL,IF Malmö Redhawks,,,,,,,no_good_title,0.0
+sweden,SHL,Luleå HF,,,,,,,no_good_title,0.0
+sweden,SHL,Rögle BK,,,,,,,no_good_title,0.0
+sweden,SHL,Skellefteå AIK,,,,,,,no_good_title,0.0
+sweden,SHL,Växjö Lakers HC,,,,,,,no_good_title,0.0
+sweden,SHL,Örebro HK,,,,,,,no_good_title,0.0
+switzerland,National League,EHC Biel-Bienne,,,,,,,no_good_title,0.0
+switzerland,National League,EHC Kloten,,,,,,,no_good_title,0.0
+switzerland,National League,EV Zug,,,,,,,no_good_title,0.0
+switzerland,National League,Fribourg-Gottéron,,,,,,,no_good_title,0.0
+switzerland,National League,Genève-Servette HC,,,,,,,no_good_title,0.0
+switzerland,National League,HC Ajoie,,,,,,,no_good_title,0.0
+switzerland,National League,HC Ambri-Piotta,,,,,,,no_good_title,0.0
+switzerland,National League,HC Davos,,,,,,,no_good_title,0.0
+switzerland,National League,HC Lugano,,,,,,,no_good_title,0.0
+switzerland,National League,Lausanne HC,,,,,,,no_good_title,0.0
+switzerland,National League,SC Bern,,,,,,,no_good_title,0.0
+switzerland,National League,SC Rapperswil-Jona Lakers,,,,,,,no_good_title,0.0
+switzerland,National League,SCL Tigers,,,,,,,no_good_title,0.0
+switzerland,National League,SCRJ Lakers,,,,,,,no_good_title,0.0
+switzerland,National League,ZSC Lions,,,,,,,no_good_title,0.0

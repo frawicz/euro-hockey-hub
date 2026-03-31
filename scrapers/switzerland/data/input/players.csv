@@ -1,0 +1,533 @@
+﻿player,team,goals,assists,points,penalties,pim
+Matej Stransky,HC Davos,31,24,55,11,72
+Markus Granlund,Genève-Servette HC,23,32,55,9,22
+Jesse Puljujärvi,Genève-Servette HC,21,33,54,9,20
+Austin Czarnik,Lausanne HC,19,34,53,14,30
+Théo Rochette,Lausanne HC,23,27,50,8,16
+Denis Malgin,ZSC Lions,17,33,50,12,28
+Luca Fazzini,HC Lugano,17,31,48,5,12
+Sven Andrighetto,ZSC Lions,19,28,47,10,24
+Sakari Manninen,Genève-Servette HC,17,29,46,12,28
+Zach Sanford,HC Lugano,17,28,45,7,18
+Henrik Borgström,Fribourg-Gottéron,14,31,45,4,8
+Filip Zadina,HC Davos,23,21,44,13,78
+Simon Ryfors,HC Davos,16,28,44,10,24
+Ahti Oksanen,Lausanne HC,14,29,43,6,14
+Lias Andersson,EHC Biel-Bienne,19,22,41,10,20
+Fabio Hofer,EHC Biel-Bienne,19,22,41,4,10
+Christopher DiDomenico,HC Ambri-Piotta,10,31,41,11,42
+Andre Petersson,SCL Tigers,24,16,40,6,14
+Dominik Kubalik,EV Zug,23,17,40,11,22
+Adam Tambellini,HC Davos,21,18,39,4,31
+Damien Riat,Lausanne HC,16,23,39,11,24
+Michael Joly,HC Ambri-Piotta,20,18,38,3,6
+Christoph Bertschy,Fribourg-Gottéron,14,24,38,17,36
+Rasmus Asplund,HC Davos,12,26,38,7,14
+Sandro Schmid,Fribourg-Gottéron,10,28,38,16,36
+Anttoni Honka,HC Ajoie,10,28,38,11,22
+Vili Saarijärvi,Genève-Servette HC,5,33,38,9,40
+Drake Caggiula,Lausanne HC,19,18,37,9,68
+Gregory Hofmann,EV Zug,17,20,37,8,20
+Jesper Frödén,ZSC Lions,14,23,37,10,20
+Lukas Frick,HC Davos,5,32,37,5,10
+Julius Nättinen,HC Ajoie,21,15,36,3,6
+Erik Brännström,Lausanne HC,18,18,36,14,32
+Toni Rajala,EHC Biel-Bienne,16,20,36,2,4
+Jimmy Vesey,Genève-Servette HC,15,21,36,9,22
+Tomas Tatar,EV Zug,9,27,36,9,41
+Dario Rohrbach,SCL Tigers,13,22,35,3,6
+Tino Kessler,HC Davos,16,18,34,6,14
+Calvin Thürkauf,HC Lugano,15,19,34,14,34
+Enzo Corvi,HC Davos,10,24,34,5,12
+Michael Kapla,Fribourg-Gottéron,12,21,33,6,14
+Valentin Nussbaumer,HC Davos,12,21,33,7,14
+Yannick Rathgeb,Fribourg-Gottéron,10,23,33,12,28
+Gaëtan Haas,EHC Biel-Bienne,9,24,33,8,20
+Jacob De la Rose,Fribourg-Gottéron,20,12,32,9,22
+Malte Strömwall,SCRJ Lakers,16,16,32,9,70
+Victor Ejdsell,SC Bern,14,18,32,10,22
+Jan Kovar,EV Zug,11,21,32,14,32
+Tyler Moy,SCRJ Lakers,9,23,32,7,14
+Marcus Sörensen,Fribourg-Gottéron,8,24,32,2,6
+Saku Mäenalanen,SCL Tigers,9,22,31,8,43
+Rudolfs Balcers,ZSC Lions,15,15,30,7,18
+Jason Fuchs,Lausanne HC,8,22,30,7,16
+Michael Fora,HC Davos,7,23,30,11,24
+Alex Formenton,HC Ambri-Piotta,17,12,29,17,58
+Dominic Zwerger,HC Ambri-Piotta,16,13,29,11,24
+Derek Grant,ZSC Lions,13,16,29,8,39
+Dario Simion,HC Lugano,15,13,28,4,31
+Dario Meyer,EHC Kloten,15,13,28,5,12
+Harri Pesonen,SCL Tigers,14,14,28,10,24
+Waltteri Merelä,SC Bern,13,15,28,8,16
+Connor Carrick,HC Lugano,10,18,28,15,80
+Jacob Larsson,SCRJ Lakers,8,20,28,11,48
+David Sklenicka,EV Zug,7,21,28,8,43
+Juuso Riikola,SCL Tigers,7,21,28,6,35
+Santtu Kinnunen,SCL Tigers,6,22,28,7,14
+Tim Heed,HC Ambri-Piotta,2,26,28,3,6
+Attilio Biasca,Fribourg-Gottéron,15,12,27,3,6
+Andreas Wingerli,EV Zug,14,13,27,9,24
+Julien Sprunger,Fribourg-Gottéron,11,16,27,9,22
+Robert Leino,EHC Kloten,8,19,27,10,20
+Rodwin Dionicio,EHC Biel-Bienne,6,21,27,16,42
+Brendan Lemieux,HC Davos,14,12,26,13,55
+Victor Rask,SCRJ Lakers,13,13,26,3,6
+Tyler Morley,EHC Kloten,12,14,26,7,16
+Max Lindroth,EHC Kloten,10,16,26,8,18
+Sami Niku,Lausanne HC,8,18,26,10,22
+Sven Senteler,EV Zug,14,11,25,5,12
+Jesse Virtanen,HC Ambri-Piotta,7,18,25,15,30
+Mikko Lehtonen,ZSC Lions,7,18,25,8,28
+Gian-Marco Wetter,SCRJ Lakers,7,18,25,4,8
+Mike Künzle,EV Zug,12,12,24,12,30
+Axel Simic,EHC Kloten,11,13,24,9,21
+Josh Jooris,Genève-Servette HC,10,14,24,17,50
+Petteri Puhakka,EHC Kloten,10,14,24,7,14
+Christopher Tierney,HC Ambri-Piotta,10,14,24,4,8
+Hardy Häman Aktell,SC Bern,9,15,24,5,22
+Marc Marchon,SC Bern,6,18,24,14,61
+Hannes Björninen,SCL Tigers,10,13,23,7,20
+Marcus Sylvegard,EHC Biel-Bienne,10,13,23,5,10
+Lucas Wallmark,Fribourg-Gottéron,9,14,23,9,24
+Nico Dünner,SCRJ Lakers,8,15,23,10,22
+Miro Aaltonen,SC Bern,6,17,23,8,16
+Julian Schmutz,SCL Tigers,10,12,22,15,30
+Tommaso De Luca,HC Ambri-Piotta,9,13,22,10,26
+Jere Sallinen,EHC Biel-Bienne,8,14,22,8,18
+Jan Rutta,Genève-Servette HC,5,17,22,13,55
+Santeri Alatalo,HC Lugano,5,17,22,14,30
+Linus Hultström,EHC Biel-Bienne,4,18,22,14,32
+Yannick Frehner,HC Davos,14,7,21,2,4
+Philip-Michael Devos,HC Ajoie,14,7,21,1,2
+Simon Le Coultre,Genève-Servette HC,12,9,21,7,16
+Willy Riedi,ZSC Lions,11,10,21,6,14
+Tanner Fritz,SCRJ Lakers,9,12,21,9,43
+Pontus Aberg,ZSC Lions,8,13,21,7,14
+Vincent Praplan,Genève-Servette HC,8,13,21,6,14
+Antti Suomela,Lausanne HC,6,15,21,2,6
+Jerry Turkulainen,HC Ajoie,6,15,21,3,6
+David Aebischer,HC Lugano,4,17,21,10,46
+Dean Kukan,ZSC Lions,4,17,21,7,16
+Jiri Felcman,SCL Tigers,4,17,21,5,10
+Lorenzo Canonica,HC Lugano,13,7,20,8,16
+Tim Bozon,Genève-Servette HC,12,8,20,3,29
+Emil Bemström,SC Bern,12,8,20,2,4
+Killian Mottet,HC Ajoie,10,10,20,5,10
+Miles Müller,HC Ambri-Piotta,8,12,20,4,31
+Kyen Sopa,HC Ajoie,7,13,20,7,16
+André Heim,HC Ambri-Piotta,5,15,20,7,14
+Romain Loeffel,SC Bern,5,15,20,4,8
+Brandon Gignac,EHC Kloten,4,16,20,6,14
+Manix Landry,HC Ambri-Piotta,8,11,19,6,12
+Jiri Sekac,HC Lugano,7,12,19,10,72
+Calle Andersson,HC Davos,2,17,19,4,8
+Petr Cajka,EHC Biel-Bienne,10,8,18,7,14
+Mike Sgarbossa,HC Lugano,9,9,18,6,16
+Simon Knak,HC Davos,8,10,18,8,39
+Klas Dahlbeck,HC Davos,7,11,18,13,51
+Dominik Kahun,Lausanne HC,7,11,18,3,6
+Keanu Derungs,EHC Kloten,7,11,18,3,6
+Mischa Ramel,EHC Kloten,7,11,18,3,6
+Jeremy Wick,HC Ajoie,6,12,18,5,33
+Mirco Müller,HC Lugano,3,15,18,3,8
+Jonathan Hazen,HC Ajoie,10,7,17,5,10
+Kevin Nicolet,Fribourg-Gottéron,8,9,17,4,18
+Yonas Berthoud,HC Ajoie,4,13,17,11,24
+Johnny Kneubuehler,EHC Biel-Bienne,13,3,16,9,45
+Nathan Marchon,Fribourg-Gottéron,10,6,16,6,12
+Nicolas Baechler,ZSC Lions,7,9,16,7,14
+Daniel Vozenilek,EV Zug,5,11,16,11,55
+Maximilian Streule,Fribourg-Gottéron,5,11,16,13,32
+Flavio Schmutz,SCL Tigers,5,11,16,4,8
+Tim Berni,Genève-Servette HC,2,14,16,6,35
+Sandro Zangger,SCRJ Lakers,11,4,15,7,18
+Benjamin Baumgartner,SC Bern,10,5,15,3,8
+Jérôme Bachofner,SCL Tigers,9,6,15,3,6
+Marco Lehmann,SC Bern,7,8,15,3,6
+Phil Baltisberger,SCL Tigers,6,9,15,5,12
+Marco Miranda,Genève-Servette HC,5,10,15,10,22
+Niklas Blessing,EHC Biel-Bienne,3,12,15,9,24
+Dominic Lammer,SCRJ Lakers,11,3,14,11,26
+Simas Ignatavicius,Genève-Servette HC,8,6,14,10,43
+Chris Baltisberger,ZSC Lions,8,6,14,8,18
+Marc-Antoine Pouliot,Genève-Servette HC,6,8,14,12,30
+Yannick Weber,ZSC Lions,6,8,14,12,24
+Jonas Taibel,SCRJ Lakers,6,8,14,2,4
+Dario Bürgler,HC Ambri-Piotta,5,9,14,7,14
+Mark Sever,EHC Biel-Bienne,5,9,14,6,14
+Patrik Nemeth,Fribourg-Gottéron,4,10,14,11,70
+Mika Henauer,SCRJ Lakers,4,10,14,10,43
+Sven Jung,HC Davos,3,11,14,13,32
+Nando Eggenberger,EV Zug,3,11,14,5,12
+Mike Sgarbossa,SC Bern,3,11,14,2,4
+Andrea Glauser,Fribourg-Gottéron,2,12,14,10,24
+Valentin Hofer,SCRJ Lakers,7,6,13,5,10
+Benjamin Bougro,Lausanne HC,7,6,13,2,6
+Noah Rod,Genève-Servette HC,6,7,13,12,82
+Jonah Neuenschwander,EHC Biel-Bienne,6,7,13,2,4
+Samuel Walser,Fribourg-Gottéron,5,8,13,13,32
+Dario Allenspach,SCL Tigers,5,8,13,6,12
+Yannick-Lennart Albrecht,SCRJ Lakers,5,8,13,3,6
+Marco Müller,SC Bern,4,9,13,4,8
+Ludvig Johnson,Fribourg-Gottéron,3,10,13,8,41
+Dave Sutter,Genève-Servette HC,3,10,13,5,18
+Tobias Geisser,EV Zug,3,10,13,7,16
+Yannick Zehnder,Lausanne HC,3,10,13,7,14
+Lukas Bengtsson,EV Zug,3,10,13,3,8
+Davyd Barandun,HC Davos,1,12,13,9,18
+Noah Meier,SCL Tigers,1,12,13,3,6
+Ramon Untersander,SC Bern,5,7,12,7,14
+Joël Vermin,SC Bern,5,7,12,5,12
+Fabrice Herzog,EV Zug,5,7,12,3,6
+Keijo Weibel,EHC Kloten,5,7,12,0,0
+Vinzenz Rohrer,ZSC Lions,4,8,12,11,47
+Brendan Perlini,HC Lugano,4,8,12,7,45
+Julius Honka,SCRJ Lakers,4,8,12,3,37
+Aleksandr Iakovenko,SC Bern,3,9,12,4,8
+Aurélien Marti,Lausanne HC,1,11,12,22,65
+Pierre-Edouard Bellemare,HC Ajoie,1,11,12,10,20
+Thierry Bader,ZSC Lions,1,11,12,4,8
+Miro Zryd,EHC Biel-Bienne,0,12,12,13,26
+Ken Jäger,Lausanne HC,7,4,11,8,39
+Jan Dorthe,Fribourg-Gottéron,6,5,11,6,20
+Justin Sigrist,ZSC Lions,6,5,11,6,14
+Louis Robin,HC Ajoie,6,5,11,6,12
+Giovanni Morini,HC Lugano,5,6,11,8,16
+Tyler Moy,SC Rapperswil-Jona Lakers,5,6,11,6,12
+Aleksi Peltonen,HC Lugano,5,6,11,3,6
+Leandro Profico,EHC Kloten,5,6,11,3,6
+Jacob Larsson,SC Rapperswil-Jona Lakers,4,7,11,4,8
+Linus Omark,HC Lugano,4,7,11,4,8
+Chris Egli,HC Davos,3,8,11,6,17
+Inaki Baragano,Lausanne HC,3,8,11,5,14
+Erik Brannström,Lausanne HC,3,8,11,4,12
+Kyle Rau,Fribourg-Gottéron,3,8,11,2,4
+Tristan Scherwey,SC Bern,2,9,11,12,49
+Joel Salzgeber,SCL Tigers,2,9,11,17,40
+Marcus Sylvegaard,EHC Biel-Bienne,2,9,11,2,4
+Carl Dahlström,HC Lugano,1,10,11,3,8
+Einar Emanuelsson,HC Lugano,7,3,10,0,0
+Matthew Verboon,Genève-Servette HC,6,4,10,9,22
+Denis Hollenstein,ZSC Lions,5,5,10,6,14
+Kimo Gruber,ZSC Lions,5,5,10,1,2
+Jesse Zgraggen,HC Ambri-Piotta,3,7,10,6,35
+Roger Karrer,Genève-Servette HC,3,7,10,14,28
+Victor Rask,SC Rapperswil-Jona Lakers,3,7,10,2,4
+Tanner Fritz,SC Rapperswil-Jona Lakers,2,8,10,5,12
+Samuel Erni,SCL Tigers,1,9,10,9,18
+Benoit Jecker,Fribourg-Gottéron,1,9,10,3,6
+Mats Alge,SC Bern,7,2,9,2,4
+Inti Pestoni,HC Ambri-Piotta,4,5,9,6,12
+Frédérik Gauthier,HC Ajoie,4,5,9,4,8
+Ramon Tanner,HC Lugano,3,6,9,8,20
+Rafael Meier,EHC Kloten,3,6,9,4,10
+Ty Rattie,Fribourg-Gottéron,3,6,9,1,2
+Fabian Heldner,Lausanne HC,2,7,9,6,35
+Lukas Klok,EHC Kloten,2,7,9,4,10
+Christian Marti,ZSC Lions,1,8,9,11,22
+Philippe Maillet,SCRJ Lakers,1,8,9,3,6
+Matteo Romanenghi,HC Ajoie,1,8,9,1,4
+Gian-Marco Wetter,SC Rapperswil-Jona Lakers,5,3,8,1,2
+Nicklas Jensen,SCRJ Lakers,4,4,8,5,14
+Oskars Lapinskis,SCL Tigers,4,4,8,5,10
+Malte Strömwall,SC Rapperswil-Jona Lakers,4,4,8,2,4
+Lino Martschini,EV Zug,4,4,8,1,2
+Jeremi Gerber,Fribourg-Gottéron,3,5,8,4,31
+Noah Delémont,EHC Kloten,3,5,8,6,14
+Igor Jelovac,SCRJ Lakers,2,6,8,16,123
+Alessio Bertaggia,HC Lugano,2,6,8,6,14
+Deniss Smirnovs,EHC Kloten,2,6,8,2,4
+Marco Zanetti,HC Lugano,2,6,8,2,4
+Marco Pedretti,HC Ajoie,1,7,8,10,22
+Brian Zanetti,HC Lugano,1,7,8,6,12
+Raphael Diaz,EV Zug,1,7,8,5,12
+Dario Wüthrich,HC Ambri-Piotta,1,7,8,5,10
+Raphael Prassl,Lausanne HC,0,8,8,4,8
+Livio Stadler,EV Zug,0,8,8,1,2
+Alain Graf,SC Bern,6,1,7,4,8
+Luc Bachmann,HC Ambri-Piotta,5,2,7,4,8
+Matthew Kellenberger,SCRJ Lakers,4,3,7,3,6
+Dominic Lammer,SC Rapperswil-Jona Lakers,4,3,7,1,2
+Elia Riva,EV Zug,4,3,7,1,2
+Reto Schäppi,EHC Kloten,3,4,7,13,30
+Rico Gredig,HC Davos,3,4,7,8,16
+Colin Lindemann,EV Zug,3,4,7,7,14
+Cole Cormier,HC Ajoie,3,4,7,4,8
+Yanick Stampfli,EHC Biel-Bienne,3,4,7,3,6
+Jesper Peltonen,HC Lugano,2,5,7,6,37
+Giancarlo Chanton,Genève-Servette HC,2,5,7,11,26
+Julius Honka,SC Rapperswil-Jona Lakers,2,5,7,1,2
+Zaccheo Dotti,HC Ambri-Piotta,1,6,7,11,47
+Nathan Vouardoux,Lausanne HC,1,6,7,11,24
+Dario Trutmann,ZSC Lions,1,6,7,6,12
+Robin Grossmann,EHC Biel-Bienne,1,6,7,5,12
+Bernd Wolf,EHC Kloten,1,6,7,5,10
+Jan Schwendeler,ZSC Lions,1,6,7,3,6
+Nils Rhyn,SC Bern,0,7,7,6,12
+Yanik Burren,EHC Biel-Bienne,0,7,7,5,10
+Isacco Dotti,HC Ambri-Piotta,4,2,6,8,16
+Lukas Landry,HC Ambri-Piotta,4,2,6,4,12
+Floran Douay,Lausanne HC,3,3,6,9,45
+Yanick Sablatnig,EHC Biel-Bienne,3,3,6,12,30
+Diego Kostner,HC Ambri-Piotta,3,3,6,5,14
+Jesse Graham,EV Zug,3,3,6,4,13
+Juho Lammikko,ZSC Lions,3,3,6,3,6
+Michael Hügli,Lausanne HC,2,4,6,4,33
+Nicholas Steiner,EHC Kloten,2,4,6,11,26
+Tim Mathys,SCL Tigers,2,4,6,8,16
+Jannik Fischer,HC Ajoie,1,5,6,10,46
+Luca Capaul,SCRJ Lakers,1,5,6,9,20
+Steve Kellenberger,EHC Kloten,1,5,6,5,10
+Patrick Geering,ZSC Lions,1,5,6,4,8
+Anton Lindholm,SC Bern,0,6,6,7,21
+Samuel Guerra,EV Zug,0,6,6,5,12
+Lawrence Pilut,SCRJ Lakers,0,6,6,3,6
+Marlon Graf,SCRJ Lakers,4,1,5,11,32
+Nolan Diem,EHC Kloten,3,2,5,5,12
+Johan Sundström,ZSC Lions,3,2,5,1,2
+Mauro Dufner,SCRJ Lakers,2,3,5,4,33
+Sven Leuenberger,EV Zug,2,3,5,6,12
+Nico Dünner,SC Rapperswil-Jona Lakers,2,3,5,2,6
+Arno Nussbaumer,HC Ajoie,2,3,5,2,4
+Harrison Luc Schreiber,EHC Kloten,2,3,5,2,4
+Rasmus Kupari,HC Lugano,2,3,5,2,4
+Joel Henry,EHC Kloten,2,3,5,1,2
+Nathan Borradori,HC Ambri-Piotta,2,3,5,1,2
+Thierry Schild,SC Bern,1,4,5,3,24
+Daniele Grassi,HC Ambri-Piotta,1,4,5,5,22
+Nico Gross,HC Davos,1,4,5,10,20
+Kevin Fey,HC Ajoie,1,4,5,8,18
+Simone Terraneo,HC Ambri-Piotta,1,4,5,5,10
+Oula Palve,EHC Kloten,1,4,5,3,6
+Cal O'Reilly,SCL Tigers,1,4,5,1,2
+Lawrence Pilut,SC Rapperswil-Jona Lakers,1,4,5,0,0
+Fabian Maier,SCRJ Lakers,0,5,5,9,24
+Samuel Kreis,SC Bern,0,5,5,5,10
+Julian Parrée,HC Davos,0,5,5,4,8
+Fabian Ritzmann,SC Bern,0,5,5,3,6
+Christophe Cavalleri,HC Ajoie,3,1,4,4,8
+Nicklas Jensen,SC Rapperswil-Jona Lakers,3,1,4,0,0
+Niko Huuhtanen,EHC Biel-Bienne,2,2,4,2,29
+Eric Schneller,Genève-Servette HC,2,2,4,1,25
+Cédric Fiedler,Lausanne HC,2,2,4,9,22
+Luca Christen,EHC Biel-Bienne,2,2,4,8,16
+Beni Waidacher,HC Davos,2,2,4,1,2
+Simon Seiler,Fribourg-Gottéron,1,3,4,13,34
+Gaël Christe,HC Ajoie,1,3,4,5,10
+Makai Holdener,Lausanne HC,1,3,4,3,6
+Nicolas Petan,HC Ambri-Piotta,1,3,4,2,4
+Cyrill Henry,HC Lugano,1,3,4,0,0
+Nik Lehmann,SCL Tigers,1,3,4,0,0
+Jamiro Reber,Fribourg-Gottéron,0,4,4,3,29
+Oskari Laaksonen,EHC Biel-Bienne,0,4,4,4,11
+Tarmo Reunanen,HC Ajoie,0,4,4,0,0
+Andy Andreoff,ZSC Lions,2,1,3,4,12
+Patrick Petrini,SCL Tigers,2,1,3,3,6
+Yannick-Lennart Albrecht,SC Rapperswil-Jona Lakers,2,1,3,1,4
+Sean Malone,SCL Tigers,2,1,3,1,2
+Pontus Aberg,EHC Kloten,2,1,3,0,0
+Simon Kindschi,SC Bern,1,2,3,8,16
+Bastian Guggenheim,SCL Tigers,1,2,3,3,6
+Mika Henauer,SC Rapperswil-Jona Lakers,1,2,3,2,6
+Curtis Valk,HC Lugano,1,2,3,1,2
+Dario Sidler,EHC Kloten,1,2,3,1,2
+Jonas Taibel,SC Rapperswil-Jona Lakers,1,2,3,1,2
+Loris Wey,EV Zug,1,2,3,1,2
+Niklas Friman,HC Ajoie,1,2,3,1,2
+Basile Sansonnens,Lausanne HC,0,3,3,4,31
+Enzo Guebey,HC Davos,0,3,3,4,10
+Matthew Kellenberger,SC Rapperswil-Jona Lakers,0,3,3,3,6
+Dorian Moret,EV Zug,0,3,3,1,2
+Robin Nico Antenen,EV Zug,0,3,3,1,2
+Jason Akeson,Genève-Servette HC,0,3,3,0,0
+Nicolas Müller,EHC Biel-Bienne,2,0,2,6,12
+Yannik Boppart,Fribourg-Gottéron,2,0,2,0,0
+Louis Füllemann,SC Bern,1,1,2,6,12
+Claude-C. Paschoud,SCL Tigers,1,1,2,4,8
+Nolan Cattin,EHC Biel-Bienne,1,1,2,3,8
+Thomas Thiry,HC Ajoie,1,1,2,2,6
+Kevin Etter,Fribourg-Gottéron,1,1,2,2,4
+Leo Braillard,EHC Biel-Bienne,1,1,2,1,2
+Luca Hischier,Genève-Servette HC,1,1,2,1,2
+Alessandro Segafredo,ZSC Lions,1,1,2,0,0
+Andrin Flütsch,SCRJ Lakers,1,1,2,0,0
+Valentin Pilet,HC Ajoie,0,2,2,15,80
+Mischa Geisser,EV Zug,0,2,2,3,29
+Philippe Maillet,SC Rapperswil-Jona Lakers,0,2,2,1,20
+Dominik Schlumpf,EV Zug,0,2,2,6,14
+Jérémie Bärtschi,EHC Biel-Bienne,0,2,2,5,10
+Emils Veckaktins,HC Ajoie,0,2,2,4,8
+Kevin Bozon,HC Ajoie,0,2,2,3,6
+Sandro Zangger,SC Rapperswil-Jona Lakers,0,2,2,3,6
+Livio Truog,EV Zug,0,2,2,0,0
+Jakob Lilja,EV Zug,1,0,1,1,2
+Jan Daron,EV Zug,1,0,1,1,2
+Kelyan Barry,Lausanne HC,1,0,1,1,2
+Daniel Ljunggren,Fribourg-Gottéron,1,0,1,0,0
+Jannik Canova,SCL Tigers,1,0,1,0,0
+Levin Moser,SC Bern,1,0,1,0,0
+Léonardo Fuhrer,Lausanne HC,1,0,1,0,0
+Luca Capaul,SC Rapperswil-Jona Lakers,0,1,1,4,12
+Marlon Graf,SC Rapperswil-Jona Lakers,0,1,1,6,12
+Igor Jelovac,SC Rapperswil-Jona Lakers,0,1,1,3,8
+Leandro Hausheer,EHC Kloten,0,1,1,4,8
+Nic Balestra,EV Zug,0,1,1,4,8
+Mauro Dufner,SC Rapperswil-Jona Lakers,0,1,1,3,6
+Valentin Hofer,SC Rapperswil-Jona Lakers,0,1,1,2,4
+Florian Schenk,Lausanne HC,0,1,1,1,2
+Gael Haas,Lausanne HC,0,1,1,1,2
+Harrison Luc Schreiber,ZSC Lions,0,1,1,1,2
+Jakob Lee,HC Lugano,0,1,1,1,2
+Ryan Spooner,Lausanne HC,0,1,1,1,2
+Florian Schenk,SC Bern,0,1,1,0,0
+Kimi Körbler,EHC Kloten,0,1,1,0,0
+Luca Cunti,ZSC Lions,0,1,1,0,0
+Niklas Aebli,HC Davos,0,1,1,0,0
+Nino Niedermann,ZSC Lions,0,1,1,0,0
+Santiago Näf,EV Zug,0,1,1,0,0
+Tim Minder,HC Davos,0,1,1,0,0
+Victor Oejdemark,ZSC Lions,0,1,1,0,0
+Reto Schmutz,HC Ajoie,0,0,0,3,10
+Elvis Schläpfer,HC Ajoie,0,0,0,3,8
+Fabian Maier,SC Rapperswil-Jona Lakers,0,0,0,3,8
+Joshua Fahrni,SCL Tigers,0,0,0,3,6
+Luca Boltshauser,SCL Tigers,0,0,0,3,6
+Bastien Pouilly,HC Ajoie,0,0,0,2,4
+Gilles Senn,HC Ambri-Piotta,0,0,0,2,4
+Jan Hornecker,SCRJ Lakers,0,0,0,2,4
+Rocco Pezzullo,HC Ambri-Piotta,0,0,0,2,4
+Stéphane Charlin,Genève-Servette HC,0,0,0,2,4
+Victor Backman,EHC Kloten,0,0,0,2,4
+Alessio Guignard,Fribourg-Gottéron,0,0,0,1,2
+Antoine Keller,HC Ajoie,0,0,0,1,2
+Cole Cormier,HC Lugano,0,0,0,1,2
+Damiano Ciaccio,HC Ajoie,0,0,0,1,2
+Daniel Olsson,ZSC Lions,0,0,0,1,2
+Daniil Ustinkov,ZSC Lions,0,0,0,1,2
+Harri Säteri,EHC Biel-Bienne,0,0,0,1,2
+Ivars Punnenovs,SCRJ Lakers,0,0,0,1,2
+Julien Rod,Fribourg-Gottéron,0,0,0,1,2
+Kevin Pasche,Lausanne HC,0,0,0,1,2
+Loic Galley,Fribourg-Gottéron,0,0,0,1,2
+Ludovic Waeber,EHC Kloten,0,0,0,1,2
+Matteo Wagner,SCL Tigers,0,0,0,1,2
+Reto Berra,Fribourg-Gottéron,0,0,0,1,2
+Robert Mayer,Genève-Servette HC,0,0,0,1,2
+Simon Moser,SC Bern,0,0,0,1,2
+Taylor Beck,Genève-Servette HC,0,0,0,1,2
+Timo Jenni,SCL Tigers,0,0,0,1,2
+Aaron Till Theler,Fribourg-Gottéron,0,0,0,0,0
+Adam Reideborn,SC Bern,0,0,0,0,0
+Alessio Beglieri,HC Lugano,0,0,0,0,0
+Alexandre Pugin,Genève-Servette HC,0,0,0,0,0
+Andri Henauer,SC Bern,0,0,0,0,0
+Andrin Flütsch,SC Rapperswil-Jona Lakers,0,0,0,0,0
+Antoine Guignard,Genève-Servette HC,0,0,0,0,0
+Anton Besanidis,HC Lugano,0,0,0,0,0
+Aris Häfliger,HC Ambri-Piotta,0,0,0,0,0
+Arthur Dandois,Fribourg-Gottéron,0,0,0,0,0
+Benjamin Conz,HC Ajoie,0,0,0,0,0
+Benjamin Quinn,SC Rapperswil-Jona Lakers,0,0,0,0,0
+Benjamin Quinn,SCRJ Lakers,0,0,0,0,0
+Cedric Gerber,EHC Kloten,0,0,0,0,0
+Christof Von Burg,SC Bern,0,0,0,0,0
+Connor Hughes,Lausanne HC,0,0,0,0,0
+Cyril Keller,EHC Kloten,0,0,0,0,0
+Cédric Aeschbach,EHC Biel-Bienne,0,0,0,0,0
+Daniels Serkins,SC Bern,0,0,0,0,0
+Danyil Shulha,Genève-Servette HC,0,0,0,0,0
+David Brodecky,HC Ajoie,0,0,0,0,0
+Davide Fadani,EHC Kloten,0,0,0,0,0
+Davide Togni,HC Lugano,0,0,0,0,0
+Derick Brassard,Genève-Servette HC,0,0,0,0,0
+Edoardo Berti,Genève-Servette HC,0,0,0,0,0
+Elia Baumann,HC Davos,0,0,0,0,0
+Elijah Neuenschwander,Fribourg-Gottéron,0,0,0,0,0
+Endo Meier,ZSC Lions,0,0,0,0,0
+Enea Togni,HC Lugano,0,0,0,0,0
+Ewan Huet,EHC Kloten,0,0,0,0,0
+Fabio Haller,HC Ajoie,0,0,0,0,0
+Fadri Riatsch,SC Bern,0,0,0,0,0
+Filippo Schmidt,ZSC Lions,0,0,0,0,0
+Finn Bichsel,EHC Biel-Bienne,0,0,0,0,0
+Flavio Andri,EV Zug,0,0,0,0,0
+Flavio Sauser,EV Zug,0,0,0,0,0
+Florian Scheu,EHC Biel-Bienne,0,0,0,0,0
+Gian Keller,EHC Kloten,0,0,0,0,0
+Gregory Weber,SC Bern,0,0,0,0,0
+Hugo Cerviño,HC Ajoie,0,0,0,0,0
+Ianfranco Vargas Sanchez,SC Rapperswil-Jona Lakers,0,0,0,0,0
+Ianfranco Vargas Sanchez,SCRJ Lakers,0,0,0,0,0
+Ivars Punnenovs,SC Rapperswil-Jona Lakers,0,0,0,0,0
+Jamie Villard,EHC Biel-Bienne,0,0,0,0,0
+Jan Hornecker,SC Rapperswil-Jona Lakers,0,0,0,0,0
+Janis Embacher,SC Rapperswil-Jona Lakers,0,0,0,0,0
+Janis Embacher,SCRJ Lakers,0,0,0,0,0
+Jens Nater,EV Zug,0,0,0,0,0
+Joel Henry,ZSC Lions,0,0,0,0,0
+Jonathan Moser,EHC Biel-Bienne,0,0,0,0,0
+Joren van Pottelberghe,HC Lugano,0,0,0,0,0
+Juuso Arola,Fribourg-Gottéron,0,0,0,0,0
+Kevin Lindemann,SC Rapperswil-Jona Lakers,0,0,0,0,0
+Kevin Lindemann,SCRJ Lakers,0,0,0,0,0
+Kevin Zürcher,SC Bern,0,0,0,0,0
+Kimo Bont,SC Bern,0,0,0,0,0
+Laurin Fuhrer,SCRJ Lakers,0,0,0,0,0
+Laurin Solèr,HC Davos,0,0,0,0,0
+Leonardo Genoni,EV Zug,0,0,0,0,0
+Livio Christen,EHC Biel-Bienne,0,0,0,0,0
+Loic Fromaget,Genève-Servette HC,0,0,0,0,0
+Lorin Grüter,ZSC Lions,0,0,0,0,0
+Louis Wehrli,EHC Biel-Bienne,0,0,0,0,0
+Loïc Mukuna,Genève-Servette HC,0,0,0,0,0
+Luca Hollenstein,HC Davos,0,0,0,0,0
+Lucas Rötheli,EHC Biel-Bienne,0,0,0,0,0
+Lucien Lehmann,EV Zug,0,0,0,0,0
+Ludovic Hauser,Fribourg-Gottéron,0,0,0,0,0
+Ludvig Claesson,HC Davos,0,0,0,0,0
+Luis Janett,EHC Biel-Bienne,0,0,0,0,0
+Manuel von Rohr,EHC Biel-Bienne,0,0,0,0,0
+Marc Bissig,HC Lugano,0,0,0,0,0
+Marc Diethelm,SC Rapperswil-Jona Lakers,0,0,0,0,0
+Marc Diethelm,SCRJ Lakers,0,0,0,0,0
+Martin Grangier,Fribourg-Gottéron,0,0,0,0,0
+Martin Neckar,SCL Tigers,0,0,0,0,0
+Mathieu Croce,EHC Kloten,0,0,0,0,0
+Matia Nico Birchler,EV Zug,0,0,0,0,0
+Melvin Nyffeler,SC Rapperswil-Jona Lakers,0,0,0,0,0
+Melvin Nyffeler,SCRJ Lakers,0,0,0,0,0
+Michael Loosli,Genève-Servette HC,0,0,0,0,0
+Michal Cajkovsky,HC Ambri-Piotta,0,0,0,0,0
+Mike Aeschlimann,SCL Tigers,0,0,0,0,0
+Nassim Jaafri-Hayani,HC Ambri-Piotta,0,0,0,0,0
+Nic Wülser,Fribourg-Gottéron,0,0,0,0,0
+Nick Meile,HC Lugano,0,0,0,0,0
+Nicolas Lars Wenger,Lausanne HC,0,0,0,0,0
+Nicolò Ugazzi,SCRJ Lakers,0,0,0,0,0
+Niklas Schlegel,HC Lugano,0,0,0,0,0
+Noah Fuss,SC Bern,0,0,0,0,0
+Noah Patenaude,HC Ajoie,0,0,0,0,0
+Noel Ulrich,ZSC Lions,0,0,0,0,0
+Philip Wüthrich,HC Ambri-Piotta,0,0,0,0,0
+Robin Bisig,SCRJ Lakers,0,0,0,0,0
+Robin Meyer,SCL Tigers,0,0,0,0,0
+Robin Zumbühl,ZSC Lions,0,0,0,0,0
+Roope Taponen,HC Davos,0,0,0,0,0
+Sandro Aeschlimann,HC Davos,0,0,0,0,0
+Sandro Zurkirchen,SC Bern,0,0,0,0,0
+Santo Simmchen,EV Zug,0,0,0,0,0
+Simon Bär,SCL Tigers,0,0,0,0,0
+Simon Hrubec,ZSC Lions,0,0,0,0,0
+Simon Meier,EHC Kloten,0,0,0,0,0
+Sol Fueter,EV Zug,0,0,0,0,0
+Stefan Rüegsegger,Lausanne HC,0,0,0,0,0
+Tanner Richard,Genève-Servette HC,0,0,0,0,0
+Thibault Fatton,Lausanne HC,0,0,0,0,0
+Thibault Martin,Lausanne HC,0,0,0,0,0
+Théo Vouardoux,Genève-Servette HC,0,0,0,0,0
+Tim Muggli,HC Ambri-Piotta,0,0,0,0,0
+Tim Wolf,EV Zug,0,0,0,0,0
+Villiam Haag,ZSC Lions,0,0,0,0,0
+Vincent Ryser,SC Bern,0,0,0,0,0
+William Hedlund,HC Ambri-Piotta,0,0,0,0,0

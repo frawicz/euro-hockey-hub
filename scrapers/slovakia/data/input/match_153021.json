@@ -1,0 +1,246 @@
+{
+  "match_id": 153021,
+  "url": "https://www.hockeyslovakia.sk/sk/stats/matches/1131/tipsport-liga/match/153021/Overview",
+  "meta": {
+    "date": "",
+    "round": "",
+    "venue": "",
+    "attendance": "",
+    "info": []
+  },
+  "home_team": "Tipsport liga | HC SLOVAN Bratislava, a.s.",
+  "away_team": "HC Košice s.r.o.",
+  "score": "2 : 4",
+  "home_goals": 2,
+  "away_goals": 4,
+  "period_scores": [
+    "0:1",
+    "1:1",
+    "1:2"
+  ],
+  "goals": [
+    {
+      "time": "19:14",
+      "score_state": "0:1",
+      "type": "PH1",
+      "scorer": "PETRÁŠ Šimon (1) ROSANDIČ Mislav (1)",
+      "assists": [
+        "KRIVOŠÍK Filip (1) + 33",
+        "8",
+        "44",
+        "91",
+        "72",
+        "23 / - 31",
+        "61",
+        "6",
+        "92",
+        "95"
+      ],
+      "raw": "19:14 19:14 0:1 PH1 PETRÁŠ Šimon (1) ROSANDIČ Mislav (1) , KRIVOŠÍK Filip (1) + 33, 8, 44, 91, 72, 23 / - 31, 61, 6, 92, 95"
+    },
+    {
+      "time": "27:46",
+      "score_state": "0:2",
+      "type": "PH1",
+      "scorer": "CHOVAN Michal (1) ROSANDIČ Mislav (2)",
+      "assists": [
+        "KRIVOŠÍK Filip (2) + 33",
+        "91",
+        "44",
+        "72",
+        "23",
+        "8 / - 31",
+        "43",
+        "6",
+        "92",
+        "65"
+      ],
+      "raw": "27:46 27:46 0:2 PH1 CHOVAN Michal (1) ROSANDIČ Mislav (2) , KRIVOŠÍK Filip (2) + 33, 91, 44, 72, 23, 8 / - 31, 43, 6, 92, 65"
+    },
+    {
+      "time": "34:47",
+      "score_state": "34:47",
+      "type": "PH2",
+      "scorer": "O'CONNOR Ryan Joseph (1) PECARARO Liam (1) + 31",
+      "assists": [
+        "6",
+        "39",
+        "83",
+        "92",
+        "95 / - 33",
+        "44",
+        "24",
+        "63 34:47"
+      ],
+      "raw": "34:47 1:2 PH2 O'CONNOR Ryan Joseph (1) PECARARO Liam (1) + 31, 6, 39, 83, 92, 95 / - 33, 44, 24, 63 34:47"
+    },
+    {
+      "time": "43:35",
+      "score_state": "1:3",
+      "type": "",
+      "scorer": "ROGOŇ Patrik (1) HAVRILA Matúš (1)",
+      "assists": [
+        "LAMPER Patrik (1) + 33",
+        "77",
+        "24",
+        "63",
+        "89",
+        "44 / - 31",
+        "74",
+        "82",
+        "10",
+        "92",
+        "39"
+      ],
+      "raw": "43:35 43:35 1:3 ROGOŇ Patrik (1) HAVRILA Matúš (1) , LAMPER Patrik (1) + 33, 77, 24, 63, 89, 44 / - 31, 74, 82, 10, 92, 39"
+    },
+    {
+      "time": "46:18",
+      "score_state": "46:18",
+      "type": "TS",
+      "scorer": "DMOWSKI Ryan (1) + 10 / - 33 46:18",
+      "assists": [],
+      "raw": "46:18 2:3 TS DMOWSKI Ryan (1) + 10 / - 33 46:18"
+    },
+    {
+      "time": "47:59",
+      "score_state": "2:4",
+      "type": "",
+      "scorer": "LAMPER Patrik (1) JELLÚŠ Simon (1)",
+      "assists": [
+        "BARTOŠ Antonín (1) + 33",
+        "63",
+        "19",
+        "55",
+        "71",
+        "24 / - 31",
+        "43",
+        "6",
+        "16",
+        "44",
+        "95"
+      ],
+      "raw": "47:59 47:59 2:4 LAMPER Patrik (1) JELLÚŠ Simon (1) , BARTOŠ Antonín (1) + 33, 63, 19, 55, 71, 24 / - 31, 43, 6, 16, 44, 95"
+    }
+  ],
+  "penalties": [
+    {
+      "time": "00:42",
+      "mins": "2",
+      "player": "PETRISKA, Ján",
+      "reason": "Nedovolené bránenie v hre",
+      "raw": "00:42 2 min. PETRISKA, Ján (Nedovolené bránenie v hre) 00:42"
+    },
+    {
+      "time": "03:51",
+      "mins": "2",
+      "player": "BARTOŠ, Antonín",
+      "reason": "Napadnutie",
+      "raw": "03:51 03:51 2 min. BARTOŠ, Antonín (Napadnutie)"
+    },
+    {
+      "time": "15:49",
+      "mins": "2",
+      "player": "MIKÚŠ, Tomáš",
+      "reason": "Seknutie",
+      "raw": "15:49 15:49 2 min. MIKÚŠ, Tomáš (Seknutie)"
+    },
+    {
+      "time": "19:09",
+      "mins": "2",
+      "player": "MAIER, Patrik",
+      "reason": "Podrazenie",
+      "raw": "19:09 2 min. MAIER, Patrik (Podrazenie) 19:09"
+    },
+    {
+      "time": "27:24",
+      "mins": "2",
+      "player": "ACOLATSE, Sena Wendell",
+      "reason": "Podrazenie",
+      "raw": "27:24 2 min. ACOLATSE, Sena Wendell (Podrazenie) 27:24"
+    },
+    {
+      "time": "33:56",
+      "mins": "2",
+      "player": "RIEČICKÝ, Dominik",
+      "reason": "Podrazenie",
+      "raw": "33:56 33:56 2 min. RIEČICKÝ, Dominik (Podrazenie)"
+    },
+    {
+      "time": "34:30",
+      "mins": "2",
+      "player": "FERENC, Jakub",
+      "reason": "Zdržiavanie hry",
+      "raw": "34:30 34:30 2 min. FERENC, Jakub (Zdržiavanie hry)"
+    },
+    {
+      "time": "35:41",
+      "mins": "2",
+      "player": "ELSON, Turner Kent",
+      "reason": "Seknutie",
+      "raw": "35:41 2 min. ELSON, Turner Kent (Seknutie) 35:41"
+    },
+    {
+      "time": "46:18",
+      "mins": "0",
+      "player": "ŠEDIVÝ, Eduard",
+      "reason": "Seknutie",
+      "raw": "46:18 46:18 0 min. ŠEDIVÝ, Eduard (Seknutie)"
+    },
+    {
+      "time": "55:17",
+      "mins": "2",
+      "player": "JELLÚŠ, Simon",
+      "reason": "Zovretie puku rukou hráča",
+      "raw": "55:17 55:17 2 min. JELLÚŠ, Simon (Zovretie puku rukou hráča)"
+    },
+    {
+      "time": "57:57",
+      "mins": "2",
+      "player": "MARCINKO, Tomáš",
+      "reason": "Pästný súboj, hrubosť",
+      "raw": "57:57 2 min. MARCINKO, Tomáš (Pästný súboj, hrubosť) 57:57"
+    }
+  ],
+  "goalie_changes": [
+    {
+      "time": "00:00",
+      "action": "IN",
+      "player": "00:00 RIEČICKÝ Dominik",
+      "raw": "00:00 00:00 IN RIEČICKÝ Dominik"
+    },
+    {
+      "time": "00:00",
+      "action": "IN",
+      "player": "KIVIAHO Henri 00:00",
+      "raw": "00:00 IN KIVIAHO Henri 00:00"
+    },
+    {
+      "time": "56:45",
+      "action": "OUT",
+      "player": "KIVIAHO Henri 56:45",
+      "raw": "56:45 OUT KIVIAHO Henri 56:45"
+    },
+    {
+      "time": "57:57",
+      "action": "IN",
+      "player": "KIVIAHO Henri 57:57",
+      "raw": "57:57 IN KIVIAHO Henri 57:57"
+    },
+    {
+      "time": "58:27",
+      "action": "OUT",
+      "player": "KIVIAHO Henri 58:27",
+      "raw": "58:27 OUT KIVIAHO Henri 58:27"
+    },
+    {
+      "time": "60:00",
+      "action": "OUT",
+      "player": "60:00 RIEČICKÝ Dominik",
+      "raw": "60:00 60:00 OUT RIEČICKÝ Dominik"
+    }
+  ],
+  "other_events": [],
+  "shots": {},
+  "players": []
+}

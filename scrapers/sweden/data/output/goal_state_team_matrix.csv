@@ -1,0 +1,72 @@
+league,team,state_diff,n_score,n_total,n_concede,p_score,p_concede,next_if_score,next_if_concede
+sweden,Brynäs IF,-5,1,1,0,1.0,0.0,-4,-6
+sweden,Brynäs IF,-4,0,1,1,0.0,1.0,-3,-5
+sweden,Brynäs IF,-3,0,1,1,0.0,1.0,-2,-4
+sweden,Brynäs IF,-2,1,2,1,0.5,0.5,-1,-3
+sweden,Brynäs IF,-1,4,7,3,0.5714,0.4286,0,-2
+sweden,Brynäs IF,0,3,10,7,0.3,0.7,1,-1
+sweden,Brynäs IF,1,2,5,3,0.4,0.6,2,0
+sweden,Brynäs IF,2,0,1,1,0.0,1.0,3,1
+sweden,Djurgårdens IF,-3,1,1,0,1.0,0.0,-2,-4
+sweden,Djurgårdens IF,-2,0,1,1,0.0,1.0,-1,-3
+sweden,Djurgårdens IF,-1,3,4,1,0.75,0.25,0,-2
+sweden,Djurgårdens IF,0,0,5,5,0.0,1.0,1,-1
+sweden,Djurgårdens IF,1,1,1,0,1.0,0.0,2,0
+sweden,Frölunda HC,-1,3,4,1,0.75,0.25,0,-2
+sweden,Frölunda HC,0,2,5,3,0.4,0.6,1,-1
+sweden,Frölunda HC,1,3,5,2,0.6,0.4,2,0
+sweden,Frölunda HC,2,1,3,2,0.3333,0.6667,3,1
+sweden,Frölunda HC,3,1,1,0,1.0,0.0,4,2
+sweden,Frölunda HC,4,1,1,0,1.0,0.0,5,3
+sweden,Frölunda HC,5,1,1,0,1.0,0.0,6,4
+sweden,Frölunda HC,6,1,1,0,1.0,0.0,7,5
+sweden,Färjestad BK,-5,1,1,0,1.0,0.0,-4,-6
+sweden,Färjestad BK,-4,1,2,1,0.5,0.5,-3,-5
+sweden,Färjestad BK,-3,1,2,1,0.5,0.5,-2,-4
+sweden,Färjestad BK,-2,1,2,1,0.5,0.5,-1,-3
+sweden,Färjestad BK,-1,1,2,1,0.5,0.5,0,-2
+sweden,Färjestad BK,0,2,3,1,0.6667,0.3333,1,-1
+sweden,Färjestad BK,1,3,3,0,1.0,0.0,2,0
+sweden,Färjestad BK,2,0,1,1,0.0,1.0,3,1
+sweden,IF Malmö Redhawks,-2,1,2,1,0.5,0.5,-1,-3
+sweden,IF Malmö Redhawks,-1,0,4,4,0.0,1.0,0,-2
+sweden,IF Malmö Redhawks,0,9,12,3,0.75,0.25,1,-1
+sweden,IF Malmö Redhawks,1,3,10,7,0.3,0.7,2,0
+sweden,IF Malmö Redhawks,2,1,2,1,0.5,0.5,3,1
+sweden,IF Malmö Redhawks,3,0,1,1,0.0,1.0,4,2
+sweden,Luleå HF,-6,0,1,1,0.0,1.0,-5,-7
+sweden,Luleå HF,-5,0,1,1,0.0,1.0,-4,-6
+sweden,Luleå HF,-4,0,1,1,0.0,1.0,-3,-5
+sweden,Luleå HF,-3,0,1,1,0.0,1.0,-2,-4
+sweden,Luleå HF,-2,2,3,1,0.6667,0.3333,-1,-3
+sweden,Luleå HF,-1,5,9,4,0.5556,0.4444,0,-2
+sweden,Luleå HF,0,6,12,6,0.5,0.5,1,-1
+sweden,Luleå HF,1,3,7,4,0.4286,0.5714,2,0
+sweden,Luleå HF,2,2,2,0,1.0,0.0,3,1
+sweden,Luleå HF,3,1,2,1,0.5,0.5,4,2
+sweden,Rögle BK,-2,1,1,0,1.0,0.0,-1,-3
+sweden,Rögle BK,-1,0,3,3,0.0,1.0,0,-2
+sweden,Rögle BK,0,1,3,2,0.3333,0.6667,1,-1
+sweden,Rögle BK,1,1,2,1,0.5,0.5,2,0
+sweden,Rögle BK,2,1,2,1,0.5,0.5,3,1
+sweden,Rögle BK,3,1,2,1,0.5,0.5,4,2
+sweden,Rögle BK,4,1,2,1,0.5,0.5,5,3
+sweden,Rögle BK,5,0,1,1,0.0,1.0,6,4
+sweden,Skellefteå AIK,-2,1,1,0,1.0,0.0,-1,-3
+sweden,Skellefteå AIK,-1,4,6,2,0.6667,0.3333,0,-2
+sweden,Skellefteå AIK,0,3,7,4,0.4286,0.5714,1,-1
+sweden,Skellefteå AIK,1,3,3,0,1.0,0.0,2,0
+sweden,Skellefteå AIK,2,1,2,1,0.5,0.5,3,1
+sweden,Växjö Lakers HC,-2,1,1,0,1.0,0.0,-1,-3
+sweden,Växjö Lakers HC,-1,3,5,2,0.6,0.4,0,-2
+sweden,Växjö Lakers HC,0,7,10,3,0.7,0.3,1,-1
+sweden,Växjö Lakers HC,1,3,7,4,0.4286,0.5714,2,0
+sweden,Växjö Lakers HC,2,1,2,1,0.5,0.5,3,1
+sweden,Växjö Lakers HC,3,1,1,0,1.0,0.0,4,2
+sweden,Växjö Lakers HC,4,1,1,0,1.0,0.0,5,3
+sweden,Växjö Lakers HC,5,0,1,1,0.0,1.0,6,4
+sweden,Örebro HK,-3,1,2,1,0.5,0.5,-2,-4
+sweden,Örebro HK,-2,0,2,2,0.0,1.0,-1,-3
+sweden,Örebro HK,-1,1,3,2,0.3333,0.6667,0,-2
+sweden,Örebro HK,0,4,7,3,0.5714,0.4286,1,-1
+sweden,Örebro HK,1,1,4,3,0.25,0.75,2,0

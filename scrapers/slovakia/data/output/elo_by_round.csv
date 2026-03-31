@@ -1,0 +1,957 @@
+season,round,round_index,team,elo
+2025-26,R 1,1,HC Košice s.r.o.,1510.99
+2025-26,R 1,1,"HC SLOVAN Bratislava, a.s.",1489.01
+2025-26,R 1,1,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1516.09
+2025-26,R 1,1,"HK Nitra, s.r.o.",1486.14
+2025-26,R 1,1,"HK Rysy, s.r.o.",1490.0
+2025-26,R 1,1,HKM a.s,1483.91
+2025-26,R 1,1,"Hokejový klub DUKLA Trenčín, a.s.",1510.0
+2025-26,R 1,1,Hokejový klub Dukla Ingema Michalovce,1486.14
+2025-26,R 1,1,Hokejový klub Poprad a.s.,1490.0
+2025-26,R 1,1,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1513.86
+2025-26,R 1,1,Presov Hockey a.s.,1510.0
+2025-26,R 1,1,"VLCI ŽILINA, a.s.",1513.86
+2025-26,R 2,2,HC Košice s.r.o.,1501.07
+2025-26,R 2,2,"HC SLOVAN Bratislava, a.s.",1500.03
+2025-26,R 2,2,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1535.16
+2025-26,R 2,2,"HK Nitra, s.r.o.",1476.82
+2025-26,R 2,2,"HK Rysy, s.r.o.",1478.99
+2025-26,R 2,2,HKM a.s,1471.41
+2025-26,R 2,2,"Hokejový klub DUKLA Trenčín, a.s.",1519.31
+2025-26,R 2,2,Hokejový klub Dukla Ingema Michalovce,1476.25
+2025-26,R 2,2,Hokejový klub Poprad a.s.,1499.89
+2025-26,R 2,2,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1523.78
+2025-26,R 2,2,Presov Hockey a.s.,1490.94
+2025-26,R 2,2,"VLCI ŽILINA, a.s.",1526.36
+2025-26,R 3,3,HC Košice s.r.o.,1490.36
+2025-26,R 3,3,"HC SLOVAN Bratislava, a.s.",1489.36
+2025-26,R 3,3,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1544.15
+2025-26,R 3,3,"HK Nitra, s.r.o.",1487.49
+2025-26,R 3,3,"HK Rysy, s.r.o.",1490.27
+2025-26,R 3,3,HKM a.s,1462.78
+2025-26,R 3,3,"Hokejový klub DUKLA Trenčín, a.s.",1527.94
+2025-26,R 3,3,Hokejový klub Dukla Ingema Michalovce,1486.96
+2025-26,R 3,3,Hokejový klub Poprad a.s.,1490.9
+2025-26,R 3,3,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1512.5
+2025-26,R 3,3,Presov Hockey a.s.,1478.68
+2025-26,R 3,3,"VLCI ŽILINA, a.s.",1538.62
+2025-26,R 4,4,HC Košice s.r.o.,1504.24
+2025-26,R 4,4,"HC SLOVAN Bratislava, a.s.",1499.39
+2025-26,R 4,4,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1553.99
+2025-26,R 4,4,"HK Nitra, s.r.o.",1502.18
+2025-26,R 4,4,"HK Rysy, s.r.o.",1500.17
+2025-26,R 4,4,HKM a.s,1452.75
+2025-26,R 4,4,"Hokejový klub DUKLA Trenčín, a.s.",1537.18
+2025-26,R 4,4,Hokejový klub Dukla Ingema Michalovce,1477.06
+2025-26,R 4,4,Hokejový klub Poprad a.s.,1477.02
+2025-26,R 4,4,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1497.81
+2025-26,R 4,4,Presov Hockey a.s.,1469.45
+2025-26,R 4,4,"VLCI ŽILINA, a.s.",1528.78
+2025-26,R 5,5,HC Košice s.r.o.,1520.11
+2025-26,R 5,5,"HC SLOVAN Bratislava, a.s.",1513.9
+2025-26,R 5,5,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1563.51
+2025-26,R 5,5,"HK Nitra, s.r.o.",1511.46
+2025-26,R 5,5,"HK Rysy, s.r.o.",1484.3
+2025-26,R 5,5,HKM a.s,1468.09
+2025-26,R 5,5,"Hokejový klub DUKLA Trenčín, a.s.",1527.66
+2025-26,R 5,5,Hokejový klub Dukla Ingema Michalovce,1467.78
+2025-26,R 5,5,Hokejový klub Poprad a.s.,1468.5
+2025-26,R 5,5,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1482.47
+2025-26,R 5,5,Presov Hockey a.s.,1454.93
+2025-26,R 5,5,"VLCI ŽILINA, a.s.",1537.3
+2025-26,R 6,6,HC Košice s.r.o.,1509.86
+2025-26,R 6,6,"HC SLOVAN Bratislava, a.s.",1525.32
+2025-26,R 6,6,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1552.09
+2025-26,R 6,6,"HK Nitra, s.r.o.",1521.71
+2025-26,R 6,6,"HK Rysy, s.r.o.",1493.84
+2025-26,R 6,6,HKM a.s,1485.99
+2025-26,R 6,6,"Hokejový klub DUKLA Trenčín, a.s.",1512.08
+2025-26,R 6,6,Hokejový klub Dukla Ingema Michalovce,1449.88
+2025-26,R 6,6,Hokejový klub Poprad a.s.,1458.95
+2025-26,R 6,6,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1491.68
+2025-26,R 6,6,Presov Hockey a.s.,1445.72
+2025-26,R 6,6,"VLCI ŽILINA, a.s.",1552.88
+2025-26,R 7,7,HC Košice s.r.o.,1499.18
+2025-26,R 7,7,"HC SLOVAN Bratislava, a.s.",1542.47
+2025-26,R 7,7,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1540.37
+2025-26,R 7,7,"HK Nitra, s.r.o.",1530.91
+2025-26,R 7,7,"HK Rysy, s.r.o.",1484.64
+2025-26,R 7,7,HKM a.s,1496.67
+2025-26,R 7,7,"Hokejový klub DUKLA Trenčín, a.s.",1523.56
+2025-26,R 7,7,Hokejový klub Dukla Ingema Michalovce,1435.88
+2025-26,R 7,7,Hokejový klub Poprad a.s.,1447.47
+2025-26,R 7,7,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1503.4
+2025-26,R 7,7,Presov Hockey a.s.,1459.73
+2025-26,R 7,7,"VLCI ŽILINA, a.s.",1535.73
+2025-26,R 8,8,HC Košice s.r.o.,1516.13
+2025-26,R 8,8,"HC SLOVAN Bratislava, a.s.",1551.93
+2025-26,R 8,8,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1527.45
+2025-26,R 8,8,"HK Nitra, s.r.o.",1538.55
+2025-26,R 8,8,"HK Rysy, s.r.o.",1494.99
+2025-26,R 8,8,HKM a.s,1486.33
+2025-26,R 8,8,"Hokejový klub DUKLA Trenčín, a.s.",1514.11
+2025-26,R 8,8,Hokejový klub Dukla Ingema Michalovce,1448.8
+2025-26,R 8,8,Hokejový klub Poprad a.s.,1439.83
+2025-26,R 8,8,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1515.23
+2025-26,R 8,8,Presov Hockey a.s.,1442.77
+2025-26,R 8,8,"VLCI ŽILINA, a.s.",1523.89
+2025-26,R 9,9,HC Košice s.r.o.,1506.46
+2025-26,R 9,9,"HC SLOVAN Bratislava, a.s.",1558.81
+2025-26,R 9,9,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1537.12
+2025-26,R 9,9,"HK Nitra, s.r.o.",1547.06
+2025-26,R 9,9,"HK Rysy, s.r.o.",1503.5
+2025-26,R 9,9,HKM a.s,1477.82
+2025-26,R 9,9,"Hokejový klub DUKLA Trenčín, a.s.",1504.14
+2025-26,R 9,9,Hokejový klub Dukla Ingema Michalovce,1440.93
+2025-26,R 9,9,Hokejový klub Poprad a.s.,1432.95
+2025-26,R 9,9,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1525.2
+2025-26,R 9,9,Presov Hockey a.s.,1434.26
+2025-26,R 9,9,"VLCI ŽILINA, a.s.",1531.77
+2025-26,R 10,10,HC Košice s.r.o.,1493.75
+2025-26,R 10,10,"HC SLOVAN Bratislava, a.s.",1567.84
+2025-26,R 10,10,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1549.46
+2025-26,R 10,10,"HK Nitra, s.r.o.",1557.57
+2025-26,R 10,10,"HK Rysy, s.r.o.",1491.16
+2025-26,R 10,10,HKM a.s,1493.12
+2025-26,R 10,10,"Hokejový klub DUKLA Trenčín, a.s.",1492.34
+2025-26,R 10,10,Hokejový klub Dukla Ingema Michalovce,1452.72
+2025-26,R 10,10,Hokejový klub Poprad a.s.,1417.64
+2025-26,R 10,10,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1516.16
+2025-26,R 10,10,Presov Hockey a.s.,1423.76
+2025-26,R 10,10,"VLCI ŽILINA, a.s.",1544.48
+2025-26,R 11,11,HC Košice s.r.o.,1503.71
+2025-26,R 11,11,"HC SLOVAN Bratislava, a.s.",1574.65
+2025-26,R 11,11,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1535.97
+2025-26,R 11,11,"HK Nitra, s.r.o.",1571.06
+2025-26,R 11,11,"HK Rysy, s.r.o.",1477.84
+2025-26,R 11,11,HKM a.s,1507.07
+2025-26,R 11,11,"Hokejový klub DUKLA Trenčín, a.s.",1482.38
+2025-26,R 11,11,Hokejový klub Dukla Ingema Michalovce,1445.92
+2025-26,R 11,11,Hokejový klub Poprad a.s.,1410.4
+2025-26,R 11,11,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1523.4
+2025-26,R 11,11,Presov Hockey a.s.,1409.81
+2025-26,R 11,11,"VLCI ŽILINA, a.s.",1557.8
+2025-26,R 12,12,HC Košice s.r.o.,1495.72
+2025-26,R 12,12,"HC SLOVAN Bratislava, a.s.",1582.63
+2025-26,R 12,12,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1552.19
+2025-26,R 12,12,"HK Nitra, s.r.o.",1559.72
+2025-26,R 12,12,"HK Rysy, s.r.o.",1487.97
+2025-26,R 12,12,HKM a.s,1490.85
+2025-26,R 12,12,"Hokejový klub DUKLA Trenčín, a.s.",1472.25
+2025-26,R 12,12,Hokejový klub Dukla Ingema Michalovce,1458.12
+2025-26,R 12,12,Hokejový klub Poprad a.s.,1428.29
+2025-26,R 12,12,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1511.21
+2025-26,R 12,12,Presov Hockey a.s.,1391.93
+2025-26,R 12,12,"VLCI ŽILINA, a.s.",1569.13
+2025-26,R 13,13,HC Košice s.r.o.,1514.31
+2025-26,R 13,13,"HC SLOVAN Bratislava, a.s.",1590.36
+2025-26,R 13,13,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1533.69
+2025-26,R 13,13,"HK Nitra, s.r.o.",1569.76
+2025-26,R 13,13,"HK Rysy, s.r.o.",1480.24
+2025-26,R 13,13,HKM a.s,1483.07
+2025-26,R 13,13,"Hokejový klub DUKLA Trenčín, a.s.",1462.2
+2025-26,R 13,13,Hokejový klub Dukla Ingema Michalovce,1447.26
+2025-26,R 13,13,Hokejový klub Poprad a.s.,1439.14
+2025-26,R 13,13,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1492.62
+2025-26,R 13,13,Presov Hockey a.s.,1410.42
+2025-26,R 13,13,"VLCI ŽILINA, a.s.",1576.92
+2025-26,R 14,14,HC Košice s.r.o.,1536.59
+2025-26,R 14,14,"HC SLOVAN Bratislava, a.s.",1579.77
+2025-26,R 14,14,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1543.45
+2025-26,R 14,14,"HK Nitra, s.r.o.",1580.36
+2025-26,R 14,14,"HK Rysy, s.r.o.",1466.94
+2025-26,R 14,14,HKM a.s,1492.47
+2025-26,R 14,14,"Hokejový klub DUKLA Trenčín, a.s.",1452.8
+2025-26,R 14,14,Hokejový klub Dukla Ingema Michalovce,1434.62
+2025-26,R 14,14,Hokejový klub Poprad a.s.,1419.74
+2025-26,R 14,14,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1505.92
+2025-26,R 14,14,Presov Hockey a.s.,1403.27
+2025-26,R 14,14,"VLCI ŽILINA, a.s.",1584.06
+2025-26,R 15,15,HC Košice s.r.o.,1536.59
+2025-26,R 15,15,"HC SLOVAN Bratislava, a.s.",1587.31
+2025-26,R 15,15,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1534.62
+2025-26,R 15,15,"HK Nitra, s.r.o.",1590.94
+2025-26,R 15,15,"HK Rysy, s.r.o.",1456.02
+2025-26,R 15,15,HKM a.s,1484.93
+2025-26,R 15,15,"Hokejový klub DUKLA Trenčín, a.s.",1462.03
+2025-26,R 15,15,Hokejový klub Dukla Ingema Michalovce,1445.55
+2025-26,R 15,15,Hokejový klub Poprad a.s.,1419.74
+2025-26,R 15,15,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1495.34
+2025-26,R 15,15,Presov Hockey a.s.,1394.05
+2025-26,R 15,15,"VLCI ŽILINA, a.s.",1592.9
+2025-26,R 16,16,HC Košice s.r.o.,1544.31
+2025-26,R 16,16,"HC SLOVAN Bratislava, a.s.",1592.31
+2025-26,R 16,16,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1546.99
+2025-26,R 16,16,"HK Nitra, s.r.o.",1572.79
+2025-26,R 16,16,"HK Rysy, s.r.o.",1448.29
+2025-26,R 16,16,HKM a.s,1495.23
+2025-26,R 16,16,"Hokejový klub DUKLA Trenčín, a.s.",1449.65
+2025-26,R 16,16,Hokejový klub Dukla Ingema Michalovce,1463.69
+2025-26,R 16,16,Hokejový klub Poprad a.s.,1438.51
+2025-26,R 16,16,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1485.04
+2025-26,R 16,16,Presov Hockey a.s.,1389.05
+2025-26,R 16,16,"VLCI ŽILINA, a.s.",1574.12
+2025-26,R 17,17,HC Košice s.r.o.,1528.07
+2025-26,R 17,17,"HC SLOVAN Bratislava, a.s.",1601.01
+2025-26,R 17,17,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1538.29
+2025-26,R 17,17,"HK Nitra, s.r.o.",1589.03
+2025-26,R 17,17,"HK Rysy, s.r.o.",1458.92
+2025-26,R 17,17,HKM a.s,1509.66
+2025-26,R 17,17,"Hokejový klub DUKLA Trenčín, a.s.",1443.09
+2025-26,R 17,17,Hokejový klub Dukla Ingema Michalovce,1449.26
+2025-26,R 17,17,Hokejový klub Poprad a.s.,1427.88
+2025-26,R 17,17,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1472.34
+2025-26,R 17,17,Presov Hockey a.s.,1401.75
+2025-26,R 17,17,"VLCI ŽILINA, a.s.",1580.69
+2025-26,R 18,18,HC Košice s.r.o.,1517.54
+2025-26,R 18,18,"HC SLOVAN Bratislava, a.s.",1601.01
+2025-26,R 18,18,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1546.41
+2025-26,R 18,18,"HK Nitra, s.r.o.",1595.69
+2025-26,R 18,18,"HK Rysy, s.r.o.",1452.26
+2025-26,R 18,18,HKM a.s,1520.19
+2025-26,R 18,18,"Hokejový klub DUKLA Trenčín, a.s.",1426.41
+2025-26,R 18,18,Hokejový klub Dukla Ingema Michalovce,1437.9
+2025-26,R 18,18,Hokejový klub Poprad a.s.,1444.57
+2025-26,R 18,18,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1464.22
+2025-26,R 18,18,Presov Hockey a.s.,1413.11
+2025-26,R 18,18,"VLCI ŽILINA, a.s.",1580.69
+2025-26,R 19,19,HC Košice s.r.o.,1529.65
+2025-26,R 19,19,"HC SLOVAN Bratislava, a.s.",1582.21
+2025-26,R 19,19,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1532.77
+2025-26,R 19,19,"HK Nitra, s.r.o.",1581.6
+2025-26,R 19,19,"HK Rysy, s.r.o.",1464.19
+2025-26,R 19,19,HKM a.s,1508.26
+2025-26,R 19,19,"Hokejový klub DUKLA Trenčín, a.s.",1445.21
+2025-26,R 19,19,Hokejový klub Dukla Ingema Michalovce,1451.54
+2025-26,R 19,19,Hokejový klub Poprad a.s.,1458.66
+2025-26,R 19,19,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1478.03
+2025-26,R 19,19,Presov Hockey a.s.,1400.99
+2025-26,R 19,19,"VLCI ŽILINA, a.s.",1566.88
+2025-26,R 20,20,HC Košice s.r.o.,1539.74
+2025-26,R 20,20,"HC SLOVAN Bratislava, a.s.",1561.77
+2025-26,R 20,20,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1522.68
+2025-26,R 20,20,"HK Nitra, s.r.o.",1596.51
+2025-26,R 20,20,"HK Rysy, s.r.o.",1451.59
+2025-26,R 20,20,HKM a.s,1493.34
+2025-26,R 20,20,"Hokejový klub DUKLA Trenčín, a.s.",1457.06
+2025-26,R 20,20,Hokejový klub Dukla Ingema Michalovce,1444.74
+2025-26,R 20,20,Hokejový klub Poprad a.s.,1479.1
+2025-26,R 20,20,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1466.18
+2025-26,R 20,20,Presov Hockey a.s.,1413.6
+2025-26,R 20,20,"VLCI ŽILINA, a.s.",1573.68
+2025-26,R 21,21,HC Košice s.r.o.,1551.62
+2025-26,R 21,21,"HC SLOVAN Bratislava, a.s.",1549.08
+2025-26,R 21,21,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1522.68
+2025-26,R 21,21,"HK Nitra, s.r.o.",1601.76
+2025-26,R 21,21,"HK Rysy, s.r.o.",1451.59
+2025-26,R 21,21,HKM a.s,1482.93
+2025-26,R 21,21,"Hokejový klub DUKLA Trenčín, a.s.",1445.74
+2025-26,R 21,21,Hokejový klub Dukla Ingema Michalovce,1456.06
+2025-26,R 21,21,Hokejový klub Poprad a.s.,1489.51
+2025-26,R 21,21,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1478.86
+2025-26,R 21,21,Presov Hockey a.s.,1408.35
+2025-26,R 21,21,"VLCI ŽILINA, a.s.",1561.81
+2025-26,R 22,22,HC Košice s.r.o.,1538.66
+2025-26,R 22,22,"HC SLOVAN Bratislava, a.s.",1558.9
+2025-26,R 22,22,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1522.68
+2025-26,R 22,22,"HK Nitra, s.r.o.",1601.76
+2025-26,R 22,22,"HK Rysy, s.r.o.",1464.66
+2025-26,R 22,22,HKM a.s,1490.82
+2025-26,R 22,22,"Hokejový klub DUKLA Trenčín, a.s.",1458.7
+2025-26,R 22,22,Hokejový klub Dukla Ingema Michalovce,1446.23
+2025-26,R 22,22,Hokejový klub Poprad a.s.,1479.2
+2025-26,R 22,22,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1489.17
+2025-26,R 22,22,Presov Hockey a.s.,1400.46
+2025-26,R 22,22,"VLCI ŽILINA, a.s.",1548.74
+2025-26,R 18,18,HC Košice s.r.o.,1538.66
+2025-26,R 18,18,"HC SLOVAN Bratislava, a.s.",1569.52
+2025-26,R 18,18,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1522.68
+2025-26,R 18,18,"HK Nitra, s.r.o.",1601.76
+2025-26,R 18,18,"HK Rysy, s.r.o.",1464.66
+2025-26,R 18,18,HKM a.s,1490.82
+2025-26,R 18,18,"Hokejový klub DUKLA Trenčín, a.s.",1458.7
+2025-26,R 18,18,Hokejový klub Dukla Ingema Michalovce,1446.23
+2025-26,R 18,18,Hokejový klub Poprad a.s.,1479.2
+2025-26,R 18,18,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1489.17
+2025-26,R 18,18,Presov Hockey a.s.,1400.46
+2025-26,R 18,18,"VLCI ŽILINA, a.s.",1538.12
+2025-26,R 22,22,HC Košice s.r.o.,1538.66
+2025-26,R 22,22,"HC SLOVAN Bratislava, a.s.",1569.52
+2025-26,R 22,22,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1507.1
+2025-26,R 22,22,"HK Nitra, s.r.o.",1617.34
+2025-26,R 22,22,"HK Rysy, s.r.o.",1464.66
+2025-26,R 22,22,HKM a.s,1490.82
+2025-26,R 22,22,"Hokejový klub DUKLA Trenčín, a.s.",1458.7
+2025-26,R 22,22,Hokejový klub Dukla Ingema Michalovce,1446.23
+2025-26,R 22,22,Hokejový klub Poprad a.s.,1479.2
+2025-26,R 22,22,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1489.17
+2025-26,R 22,22,Presov Hockey a.s.,1400.46
+2025-26,R 22,22,"VLCI ŽILINA, a.s.",1538.12
+2025-26,R 23,23,HC Košice s.r.o.,1553.54
+2025-26,R 23,23,"HC SLOVAN Bratislava, a.s.",1554.64
+2025-26,R 23,23,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1490.38
+2025-26,R 23,23,"HK Nitra, s.r.o.",1625.1
+2025-26,R 23,23,"HK Rysy, s.r.o.",1453.52
+2025-26,R 23,23,HKM a.s,1507.54
+2025-26,R 23,23,"Hokejový klub DUKLA Trenčín, a.s.",1469.85
+2025-26,R 23,23,Hokejový klub Dukla Ingema Michalovce,1434.31
+2025-26,R 23,23,Hokejový klub Poprad a.s.,1491.28
+2025-26,R 23,23,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1501.1
+2025-26,R 23,23,Presov Hockey a.s.,1388.39
+2025-26,R 23,23,"VLCI ŽILINA, a.s.",1530.36
+2025-26,R 24,24,HC Košice s.r.o.,1566.91
+2025-26,R 24,24,"HC SLOVAN Bratislava, a.s.",1564.14
+2025-26,R 24,24,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1503.67
+2025-26,R 24,24,"HK Nitra, s.r.o.",1606.72
+2025-26,R 24,24,"HK Rysy, s.r.o.",1444.02
+2025-26,R 24,24,HKM a.s,1494.72
+2025-26,R 24,24,"Hokejový klub DUKLA Trenčín, a.s.",1488.22
+2025-26,R 24,24,Hokejový klub Dukla Ingema Michalovce,1445.93
+2025-26,R 24,24,Hokejový klub Poprad a.s.,1479.66
+2025-26,R 24,24,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1487.73
+2025-26,R 24,24,Presov Hockey a.s.,1375.1
+2025-26,R 24,24,"VLCI ŽILINA, a.s.",1543.18
+2025-26,R 25,25,HC Košice s.r.o.,1573.56
+2025-26,R 25,25,"HC SLOVAN Bratislava, a.s.",1579.4
+2025-26,R 25,25,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1492.98
+2025-26,R 25,25,"HK Nitra, s.r.o.",1591.46
+2025-26,R 25,25,"HK Rysy, s.r.o.",1455.27
+2025-26,R 25,25,HKM a.s,1483.56
+2025-26,R 25,25,"Hokejový klub DUKLA Trenčín, a.s.",1499.38
+2025-26,R 25,25,Hokejový klub Dukla Ingema Michalovce,1439.28
+2025-26,R 25,25,Hokejový klub Poprad a.s.,1490.35
+2025-26,R 25,25,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1476.48
+2025-26,R 25,25,Presov Hockey a.s.,1389.59
+2025-26,R 25,25,"VLCI ŽILINA, a.s.",1528.69
+2025-26,R 26,26,HC Košice s.r.o.,1550.4
+2025-26,R 26,26,"HC SLOVAN Bratislava, a.s.",1589.11
+2025-26,R 26,26,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1510.44
+2025-26,R 26,26,"HK Nitra, s.r.o.",1578.27
+2025-26,R 26,26,"HK Rysy, s.r.o.",1444.81
+2025-26,R 26,26,HKM a.s,1473.85
+2025-26,R 26,26,"Hokejový klub DUKLA Trenčín, a.s.",1486.32
+2025-26,R 26,26,Hokejový klub Dukla Ingema Michalovce,1449.74
+2025-26,R 26,26,Hokejový klub Poprad a.s.,1513.5
+2025-26,R 26,26,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1489.67
+2025-26,R 26,26,Presov Hockey a.s.,1402.65
+2025-26,R 26,26,"VLCI ŽILINA, a.s.",1511.23
+2025-26,R 27,27,HC Košice s.r.o.,1533.41
+2025-26,R 27,27,"HC SLOVAN Bratislava, a.s.",1596.23
+2025-26,R 27,27,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1510.44
+2025-26,R 27,27,"HK Nitra, s.r.o.",1565.57
+2025-26,R 27,27,"HK Rysy, s.r.o.",1436.09
+2025-26,R 27,27,HKM a.s,1473.85
+2025-26,R 27,27,"Hokejový klub DUKLA Trenčín, a.s.",1479.2
+2025-26,R 27,27,Hokejový klub Dukla Ingema Michalovce,1466.73
+2025-26,R 27,27,Hokejový klub Poprad a.s.,1520.42
+2025-26,R 27,27,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1498.39
+2025-26,R 27,27,Presov Hockey a.s.,1395.74
+2025-26,R 27,27,"VLCI ŽILINA, a.s.",1523.92
+2025-26,R 28,28,HC Košice s.r.o.,1513.34
+2025-26,R 28,28,"HC SLOVAN Bratislava, a.s.",1604.92
+2025-26,R 28,28,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1500.82
+2025-26,R 28,28,"HK Nitra, s.r.o.",1552.43
+2025-26,R 28,28,"HK Rysy, s.r.o.",1455.32
+2025-26,R 28,28,HKM a.s,1465.17
+2025-26,R 28,28,"Hokejový klub DUKLA Trenčín, a.s.",1492.35
+2025-26,R 28,28,Hokejový klub Dukla Ingema Michalovce,1447.51
+2025-26,R 28,28,Hokejový klub Poprad a.s.,1540.48
+2025-26,R 28,28,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1498.39
+2025-26,R 28,28,Presov Hockey a.s.,1395.74
+2025-26,R 28,28,"VLCI ŽILINA, a.s.",1533.54
+2025-26,R 27,27,HC Košice s.r.o.,1513.34
+2025-26,R 27,27,"HC SLOVAN Bratislava, a.s.",1604.92
+2025-26,R 27,27,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1485.79
+2025-26,R 27,27,"HK Nitra, s.r.o.",1552.43
+2025-26,R 27,27,"HK Rysy, s.r.o.",1455.32
+2025-26,R 27,27,HKM a.s,1480.2
+2025-26,R 27,27,"Hokejový klub DUKLA Trenčín, a.s.",1492.35
+2025-26,R 27,27,Hokejový klub Dukla Ingema Michalovce,1447.51
+2025-26,R 27,27,Hokejový klub Poprad a.s.,1540.48
+2025-26,R 27,27,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1498.39
+2025-26,R 27,27,Presov Hockey a.s.,1395.74
+2025-26,R 27,27,"VLCI ŽILINA, a.s.",1533.54
+2025-26,R 28,28,HC Košice s.r.o.,1513.34
+2025-26,R 28,28,"HC SLOVAN Bratislava, a.s.",1604.92
+2025-26,R 28,28,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1485.79
+2025-26,R 28,28,"HK Nitra, s.r.o.",1552.43
+2025-26,R 28,28,"HK Rysy, s.r.o.",1455.32
+2025-26,R 28,28,HKM a.s,1480.2
+2025-26,R 28,28,"Hokejový klub DUKLA Trenčín, a.s.",1492.35
+2025-26,R 28,28,Hokejový klub Dukla Ingema Michalovce,1447.51
+2025-26,R 28,28,Hokejový klub Poprad a.s.,1540.48
+2025-26,R 28,28,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1507.83
+2025-26,R 28,28,Presov Hockey a.s.,1386.29
+2025-26,R 28,28,"VLCI ŽILINA, a.s.",1533.54
+2025-26,R 29,29,HC Košice s.r.o.,1522.27
+2025-26,R 29,29,"HC SLOVAN Bratislava, a.s.",1593.42
+2025-26,R 29,29,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1495.98
+2025-26,R 29,29,"HK Nitra, s.r.o.",1563.93
+2025-26,R 29,29,"HK Rysy, s.r.o.",1446.39
+2025-26,R 29,29,HKM a.s,1468.73
+2025-26,R 29,29,"Hokejový klub DUKLA Trenčín, a.s.",1482.16
+2025-26,R 29,29,Hokejový klub Dukla Ingema Michalovce,1464.21
+2025-26,R 29,29,Hokejový klub Poprad a.s.,1554.86
+2025-26,R 29,29,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1493.46
+2025-26,R 29,29,Presov Hockey a.s.,1369.59
+2025-26,R 29,29,"VLCI ŽILINA, a.s.",1545.01
+2025-26,R 30,30,HC Košice s.r.o.,1508.14
+2025-26,R 30,30,"HC SLOVAN Bratislava, a.s.",1571.58
+2025-26,R 30,30,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1517.82
+2025-26,R 30,30,"HK Nitra, s.r.o.",1576.51
+2025-26,R 30,30,"HK Rysy, s.r.o.",1434.48
+2025-26,R 30,30,HKM a.s,1456.15
+2025-26,R 30,30,"Hokejový klub DUKLA Trenčín, a.s.",1473.39
+2025-26,R 30,30,Hokejový klub Dukla Ingema Michalovce,1481.43
+2025-26,R 30,30,Hokejový klub Poprad a.s.,1566.77
+2025-26,R 30,30,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1476.24
+2025-26,R 30,30,Presov Hockey a.s.,1383.72
+2025-26,R 30,30,"VLCI ŽILINA, a.s.",1553.78
+2025-26,R 31,31,HC Košice s.r.o.,1517.23
+2025-26,R 31,31,"HC SLOVAN Bratislava, a.s.",1586.72
+2025-26,R 31,31,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1529.5
+2025-26,R 31,31,"HK Nitra, s.r.o.",1564.84
+2025-26,R 31,31,"HK Rysy, s.r.o.",1446.06
+2025-26,R 31,31,HKM a.s,1466.64
+2025-26,R 31,31,"Hokejový klub DUKLA Trenčín, a.s.",1462.89
+2025-26,R 31,31,Hokejový klub Dukla Ingema Michalovce,1471.3
+2025-26,R 31,31,Hokejový klub Poprad a.s.,1576.9
+2025-26,R 31,31,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1467.16
+2025-26,R 31,31,Presov Hockey a.s.,1372.14
+2025-26,R 31,31,"VLCI ŽILINA, a.s.",1538.63
+2025-26,R 32,32,HC Košice s.r.o.,1525.91
+2025-26,R 32,32,"HC SLOVAN Bratislava, a.s.",1593.3
+2025-26,R 32,32,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1540.56
+2025-26,R 32,32,"HK Nitra, s.r.o.",1577.51
+2025-26,R 32,32,"HK Rysy, s.r.o.",1435.84
+2025-26,R 32,32,HKM a.s,1455.58
+2025-26,R 32,32,"Hokejový klub DUKLA Trenčín, a.s.",1456.31
+2025-26,R 32,32,Hokejový klub Dukla Ingema Michalovce,1462.61
+2025-26,R 32,32,Hokejový klub Poprad a.s.,1582.87
+2025-26,R 32,32,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1477.38
+2025-26,R 32,32,Presov Hockey a.s.,1366.17
+2025-26,R 32,32,"VLCI ŽILINA, a.s.",1525.96
+2025-26,R 33,33,HC Košice s.r.o.,1538.36
+2025-26,R 33,33,"HC SLOVAN Bratislava, a.s.",1602.74
+2025-26,R 33,33,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1550.14
+2025-26,R 33,33,"HK Nitra, s.r.o.",1564.15
+2025-26,R 33,33,"HK Rysy, s.r.o.",1425.82
+2025-26,R 33,33,HKM a.s,1446.14
+2025-26,R 33,33,"Hokejový klub DUKLA Trenčín, a.s.",1469.66
+2025-26,R 33,33,Hokejový klub Dukla Ingema Michalovce,1472.63
+2025-26,R 33,33,Hokejový klub Poprad a.s.,1570.42
+2025-26,R 33,33,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1486.49
+2025-26,R 33,33,Presov Hockey a.s.,1357.06
+2025-26,R 33,33,"VLCI ŽILINA, a.s.",1516.38
+2025-26,R 34,34,HC Košice s.r.o.,1525.23
+2025-26,R 34,34,"HC SLOVAN Bratislava, a.s.",1591.63
+2025-26,R 34,34,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1557.87
+2025-26,R 34,34,"HK Nitra, s.r.o.",1575.26
+2025-26,R 34,34,"HK Rysy, s.r.o.",1438.95
+2025-26,R 34,34,HKM a.s,1438.13
+2025-26,R 34,34,"Hokejový klub DUKLA Trenčín, a.s.",1461.94
+2025-26,R 34,34,Hokejový klub Dukla Ingema Michalovce,1459.42
+2025-26,R 34,34,Hokejový klub Poprad a.s.,1578.05
+2025-26,R 34,34,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1478.86
+2025-26,R 34,34,Presov Hockey a.s.,1370.27
+2025-26,R 34,34,"VLCI ŽILINA, a.s.",1524.39
+2025-26,R 35,35,HC Košice s.r.o.,1510.67
+2025-26,R 35,35,"HC SLOVAN Bratislava, a.s.",1579.77
+2025-26,R 35,35,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1569.74
+2025-26,R 35,35,"HK Nitra, s.r.o.",1561.03
+2025-26,R 35,35,"HK Rysy, s.r.o.",1453.21
+2025-26,R 35,35,HKM a.s,1452.36
+2025-26,R 35,35,"Hokejový klub DUKLA Trenčín, a.s.",1453.16
+2025-26,R 35,35,Hokejový klub Dukla Ingema Michalovce,1469.98
+2025-26,R 35,35,Hokejový klub Poprad a.s.,1563.79
+2025-26,R 35,35,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1468.3
+2025-26,R 35,35,Presov Hockey a.s.,1384.83
+2025-26,R 35,35,"VLCI ŽILINA, a.s.",1533.17
+2025-26,R 36,36,HC Košice s.r.o.,1520.14
+2025-26,R 36,36,"HC SLOVAN Bratislava, a.s.",1591.53
+2025-26,R 36,36,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1583.2
+2025-26,R 36,36,"HK Nitra, s.r.o.",1547.57
+2025-26,R 36,36,"HK Rysy, s.r.o.",1464.04
+2025-26,R 36,36,HKM a.s,1462.38
+2025-26,R 36,36,"Hokejový klub DUKLA Trenčín, a.s.",1443.13
+2025-26,R 36,36,Hokejový klub Dukla Ingema Michalovce,1462.62
+2025-26,R 36,36,Hokejový klub Poprad a.s.,1571.15
+2025-26,R 36,36,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1458.83
+2025-26,R 36,36,Presov Hockey a.s.,1374.0
+2025-26,R 36,36,"VLCI ŽILINA, a.s.",1521.4
+2025-26,R 37,37,HC Košice s.r.o.,1520.14
+2025-26,R 37,37,"HC SLOVAN Bratislava, a.s.",1595.98
+2025-26,R 37,37,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1592.54
+2025-26,R 37,37,"HK Nitra, s.r.o.",1555.17
+2025-26,R 37,37,"HK Rysy, s.r.o.",1464.04
+2025-26,R 37,37,HKM a.s,1472.28
+2025-26,R 37,37,"Hokejový klub DUKLA Trenčín, a.s.",1433.79
+2025-26,R 37,37,Hokejový klub Dukla Ingema Michalovce,1455.01
+2025-26,R 37,37,Hokejový klub Poprad a.s.,1558.88
+2025-26,R 37,37,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1448.93
+2025-26,R 37,37,Presov Hockey a.s.,1369.55
+2025-26,R 37,37,"VLCI ŽILINA, a.s.",1533.68
+2025-26,R 38,38,HC Košice s.r.o.,1511.15
+2025-26,R 38,38,"HC SLOVAN Bratislava, a.s.",1605.88
+2025-26,R 38,38,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1582.64
+2025-26,R 38,38,"HK Nitra, s.r.o.",1564.17
+2025-26,R 38,38,"HK Rysy, s.r.o.",1454.29
+2025-26,R 38,38,HKM a.s,1481.78
+2025-26,R 38,38,"Hokejový klub DUKLA Trenčín, a.s.",1424.24
+2025-26,R 38,38,Hokejový klub Dukla Ingema Michalovce,1445.51
+2025-26,R 38,38,Hokejový klub Poprad a.s.,1568.63
+2025-26,R 38,38,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1436.69
+2025-26,R 38,38,Presov Hockey a.s.,1381.8
+2025-26,R 38,38,"VLCI ŽILINA, a.s.",1543.23
+2025-26,R 39,39,HC Košice s.r.o.,1491.97
+2025-26,R 39,39,"HC SLOVAN Bratislava, a.s.",1614.09
+2025-26,R 39,39,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1555.4
+2025-26,R 39,39,"HK Nitra, s.r.o.",1571.11
+2025-26,R 39,39,"HK Rysy, s.r.o.",1447.36
+2025-26,R 39,39,HKM a.s,1500.95
+2025-26,R 39,39,"Hokejový klub DUKLA Trenčín, a.s.",1417.99
+2025-26,R 39,39,Hokejový klub Dukla Ingema Michalovce,1432.9
+2025-26,R 39,39,Hokejový klub Poprad a.s.,1574.89
+2025-26,R 39,39,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1463.93
+2025-26,R 39,39,Presov Hockey a.s.,1394.41
+2025-26,R 39,39,"VLCI ŽILINA, a.s.",1535.01
+2025-26,R 40,40,HC Košice s.r.o.,1499.62
+2025-26,R 40,40,"HC SLOVAN Bratislava, a.s.",1622.13
+2025-26,R 40,40,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1562.01
+2025-26,R 40,40,"HK Nitra, s.r.o.",1585.1
+2025-26,R 40,40,"HK Rysy, s.r.o.",1462.96
+2025-26,R 40,40,HKM a.s,1485.35
+2025-26,R 40,40,"Hokejový klub DUKLA Trenčín, a.s.",1409.95
+2025-26,R 40,40,Hokejový klub Dukla Ingema Michalovce,1426.28
+2025-26,R 40,40,Hokejový klub Poprad a.s.,1560.9
+2025-26,R 40,40,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1455.95
+2025-26,R 40,40,Presov Hockey a.s.,1386.77
+2025-26,R 40,40,"VLCI ŽILINA, a.s.",1542.99
+2025-26,R 42,41,HC Košice s.r.o.,1499.62
+2025-26,R 42,41,"HC SLOVAN Bratislava, a.s.",1622.13
+2025-26,R 42,41,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1569.6
+2025-26,R 42,41,"HK Nitra, s.r.o.",1585.1
+2025-26,R 42,41,"HK Rysy, s.r.o.",1455.37
+2025-26,R 42,41,HKM a.s,1485.35
+2025-26,R 42,41,"Hokejový klub DUKLA Trenčín, a.s.",1409.95
+2025-26,R 42,41,Hokejový klub Dukla Ingema Michalovce,1426.28
+2025-26,R 42,41,Hokejový klub Poprad a.s.,1560.9
+2025-26,R 42,41,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1455.95
+2025-26,R 42,41,Presov Hockey a.s.,1386.77
+2025-26,R 42,41,"VLCI ŽILINA, a.s.",1542.99
+2025-26,R 48,42,HC Košice s.r.o.,1499.62
+2025-26,R 48,42,"HC SLOVAN Bratislava, a.s.",1622.13
+2025-26,R 48,42,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1569.6
+2025-26,R 48,42,"HK Nitra, s.r.o.",1593.69
+2025-26,R 48,42,"HK Rysy, s.r.o.",1455.37
+2025-26,R 48,42,HKM a.s,1485.35
+2025-26,R 48,42,"Hokejový klub DUKLA Trenčín, a.s.",1409.95
+2025-26,R 48,42,Hokejový klub Dukla Ingema Michalovce,1417.69
+2025-26,R 48,42,Hokejový klub Poprad a.s.,1560.9
+2025-26,R 48,42,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1455.95
+2025-26,R 48,42,Presov Hockey a.s.,1386.77
+2025-26,R 48,42,"VLCI ŽILINA, a.s.",1542.99
+2025-26,R 41,43,HC Košice s.r.o.,1511.6
+2025-26,R 41,43,"HC SLOVAN Bratislava, a.s.",1630.39
+2025-26,R 41,43,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1557.62
+2025-26,R 41,43,"HK Nitra, s.r.o.",1580.67
+2025-26,R 41,43,"HK Rysy, s.r.o.",1466.19
+2025-26,R 41,43,HKM a.s,1498.37
+2025-26,R 41,43,"Hokejový klub DUKLA Trenčín, a.s.",1421.26
+2025-26,R 41,43,Hokejový klub Dukla Ingema Michalovce,1435.35
+2025-26,R 41,43,Hokejový klub Poprad a.s.,1552.64
+2025-26,R 41,43,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1444.63
+2025-26,R 41,43,Presov Hockey a.s.,1375.95
+2025-26,R 41,43,"VLCI ŽILINA, a.s.",1525.34
+2025-26,R 21,21,HC Košice s.r.o.,1511.6
+2025-26,R 21,21,"HC SLOVAN Bratislava, a.s.",1630.39
+2025-26,R 21,21,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1540.88
+2025-26,R 21,21,"HK Nitra, s.r.o.",1580.67
+2025-26,R 21,21,"HK Rysy, s.r.o.",1482.92
+2025-26,R 21,21,HKM a.s,1498.37
+2025-26,R 21,21,"Hokejový klub DUKLA Trenčín, a.s.",1421.26
+2025-26,R 21,21,Hokejový klub Dukla Ingema Michalovce,1435.35
+2025-26,R 21,21,Hokejový klub Poprad a.s.,1552.64
+2025-26,R 21,21,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1444.63
+2025-26,R 21,21,Presov Hockey a.s.,1375.95
+2025-26,R 21,21,"VLCI ŽILINA, a.s.",1525.34
+2025-26,R 42,41,HC Košice s.r.o.,1522.95
+2025-26,R 42,41,"HC SLOVAN Bratislava, a.s.",1639.56
+2025-26,R 42,41,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1540.88
+2025-26,R 42,41,"HK Nitra, s.r.o.",1585.4
+2025-26,R 42,41,"HK Rysy, s.r.o.",1482.92
+2025-26,R 42,41,HKM a.s,1509.92
+2025-26,R 42,41,"Hokejový klub DUKLA Trenčín, a.s.",1410.79
+2025-26,R 42,41,Hokejový klub Dukla Ingema Michalovce,1445.82
+2025-26,R 42,41,Hokejový klub Poprad a.s.,1541.09
+2025-26,R 42,41,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1435.46
+2025-26,R 42,41,Presov Hockey a.s.,1371.21
+2025-26,R 42,41,"VLCI ŽILINA, a.s.",1513.99
+2025-26,R 43,44,HC Košice s.r.o.,1529.83
+2025-26,R 43,44,"HC SLOVAN Bratislava, a.s.",1614.76
+2025-26,R 43,44,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1531.49
+2025-26,R 43,44,"HK Nitra, s.r.o.",1594.79
+2025-26,R 43,44,"HK Rysy, s.r.o.",1493.81
+2025-26,R 43,44,HKM a.s,1519.32
+2025-26,R 43,44,"Hokejový klub DUKLA Trenčín, a.s.",1403.91
+2025-26,R 43,44,Hokejový klub Dukla Ingema Michalovce,1470.62
+2025-26,R 43,44,Hokejový klub Poprad a.s.,1548.48
+2025-26,R 43,44,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1428.07
+2025-26,R 43,44,Presov Hockey a.s.,1361.82
+2025-26,R 43,44,"VLCI ŽILINA, a.s.",1503.1
+2025-26,R 44,45,HC Košice s.r.o.,1542.94
+2025-26,R 44,45,"HC SLOVAN Bratislava, a.s.",1601.64
+2025-26,R 44,45,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1546.93
+2025-26,R 44,45,"HK Nitra, s.r.o.",1602.62
+2025-26,R 44,45,"HK Rysy, s.r.o.",1501.28
+2025-26,R 44,45,HKM a.s,1503.87
+2025-26,R 44,45,"Hokejový klub DUKLA Trenčín, a.s.",1396.44
+2025-26,R 44,45,Hokejový klub Dukla Ingema Michalovce,1458.53
+2025-26,R 44,45,Hokejový klub Poprad a.s.,1554.99
+2025-26,R 44,45,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1440.16
+2025-26,R 44,45,Presov Hockey a.s.,1355.31
+2025-26,R 44,45,"VLCI ŽILINA, a.s.",1495.27
+2025-26,R 37,37,HC Košice s.r.o.,1552.44
+2025-26,R 37,37,"HC SLOVAN Bratislava, a.s.",1601.64
+2025-26,R 37,37,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1546.93
+2025-26,R 37,37,"HK Nitra, s.r.o.",1602.62
+2025-26,R 37,37,"HK Rysy, s.r.o.",1491.79
+2025-26,R 37,37,HKM a.s,1503.87
+2025-26,R 37,37,"Hokejový klub DUKLA Trenčín, a.s.",1396.44
+2025-26,R 37,37,Hokejový klub Dukla Ingema Michalovce,1458.53
+2025-26,R 37,37,Hokejový klub Poprad a.s.,1554.99
+2025-26,R 37,37,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1440.16
+2025-26,R 37,37,Presov Hockey a.s.,1355.31
+2025-26,R 37,37,"VLCI ŽILINA, a.s.",1495.27
+2025-26,R 45,46,HC Košice s.r.o.,1565.09
+2025-26,R 45,46,"HC SLOVAN Bratislava, a.s.",1587.83
+2025-26,R 45,46,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1533.44
+2025-26,R 45,46,"HK Nitra, s.r.o.",1616.44
+2025-26,R 45,46,"HK Rysy, s.r.o.",1503.33
+2025-26,R 45,46,HKM a.s,1514.62
+2025-26,R 45,46,"Hokejový klub DUKLA Trenčín, a.s.",1385.7
+2025-26,R 45,46,Hokejový klub Dukla Ingema Michalovce,1445.88
+2025-26,R 45,46,Hokejový klub Poprad a.s.,1568.48
+2025-26,R 45,46,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1428.61
+2025-26,R 45,46,Presov Hockey a.s.,1347.26
+2025-26,R 45,46,"VLCI ŽILINA, a.s.",1503.32
+2025-26,R 46,47,HC Košice s.r.o.,1550.88
+2025-26,R 46,47,"HC SLOVAN Bratislava, a.s.",1575.44
+2025-26,R 46,47,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1539.96
+2025-26,R 46,47,"HK Nitra, s.r.o.",1620.63
+2025-26,R 46,47,"HK Rysy, s.r.o.",1515.72
+2025-26,R 46,47,HKM a.s,1503.33
+2025-26,R 46,47,"Hokejový klub DUKLA Trenčín, a.s.",1381.51
+2025-26,R 46,47,Hokejový klub Dukla Ingema Michalovce,1463.46
+2025-26,R 46,47,Hokejový klub Poprad a.s.,1550.9
+2025-26,R 46,47,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1442.82
+2025-26,R 46,47,Presov Hockey a.s.,1340.74
+2025-26,R 46,47,"VLCI ŽILINA, a.s.",1514.61
+2025-26,R 47,48,HC Košice s.r.o.,1561.86
+2025-26,R 47,48,"HC SLOVAN Bratislava, a.s.",1583.39
+2025-26,R 47,48,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1522.89
+2025-26,R 47,48,"HK Nitra, s.r.o.",1627.41
+2025-26,R 47,48,"HK Rysy, s.r.o.",1524.23
+2025-26,R 47,48,HKM a.s,1495.38
+2025-26,R 47,48,"Hokejový klub DUKLA Trenčín, a.s.",1391.03
+2025-26,R 47,48,Hokejový klub Dukla Ingema Michalovce,1454.96
+2025-26,R 47,48,Hokejový klub Poprad a.s.,1539.91
+2025-26,R 47,48,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1436.04
+2025-26,R 47,48,Presov Hockey a.s.,1331.21
+2025-26,R 47,48,"VLCI ŽILINA, a.s.",1531.68
+2025-26,R 48,42,HC Košice s.r.o.,1544.33
+2025-26,R 48,42,"HC SLOVAN Bratislava, a.s.",1587.19
+2025-26,R 48,42,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1531.23
+2025-26,R 48,42,"HK Nitra, s.r.o.",1627.41
+2025-26,R 48,42,"HK Rysy, s.r.o.",1541.76
+2025-26,R 48,42,HKM a.s,1482.87
+2025-26,R 48,42,"Hokejový klub DUKLA Trenčín, a.s.",1382.69
+2025-26,R 48,42,Hokejový klub Dukla Ingema Michalovce,1454.96
+2025-26,R 48,42,Hokejový klub Poprad a.s.,1553.4
+2025-26,R 48,42,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1448.55
+2025-26,R 48,42,Presov Hockey a.s.,1327.42
+2025-26,R 48,42,"VLCI ŽILINA, a.s.",1518.19
+2025-26,R 49,49,HC Košice s.r.o.,1536.23
+2025-26,R 49,49,"HC SLOVAN Bratislava, a.s.",1598.55
+2025-26,R 49,49,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1519.87
+2025-26,R 49,49,"HK Nitra, s.r.o.",1635.51
+2025-26,R 49,49,"HK Rysy, s.r.o.",1532.09
+2025-26,R 49,49,HKM a.s,1472.07
+2025-26,R 49,49,"Hokejový klub DUKLA Trenčín, a.s.",1373.16
+2025-26,R 49,49,Hokejový klub Dukla Ingema Michalovce,1465.76
+2025-26,R 49,49,Hokejový klub Poprad a.s.,1563.06
+2025-26,R 49,49,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1460.81
+2025-26,R 49,49,Presov Hockey a.s.,1315.16
+2025-26,R 49,49,"VLCI ŽILINA, a.s.",1527.73
+2025-26,R 50,50,HC Košice s.r.o.,1524.41
+2025-26,R 50,50,"HC SLOVAN Bratislava, a.s.",1586.54
+2025-26,R 50,50,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1528.19
+2025-26,R 50,50,"HK Nitra, s.r.o.",1642.97
+2025-26,R 50,50,"HK Rysy, s.r.o.",1524.63
+2025-26,R 50,50,HKM a.s,1483.9
+2025-26,R 50,50,"Hokejový klub DUKLA Trenčín, a.s.",1368.14
+2025-26,R 50,50,Hokejový klub Dukla Ingema Michalovce,1475.68
+2025-26,R 50,50,Hokejový klub Poprad a.s.,1568.08
+2025-26,R 50,50,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1452.5
+2025-26,R 50,50,Presov Hockey a.s.,1305.23
+2025-26,R 50,50,"VLCI ŽILINA, a.s.",1539.74
+2025-26,R 51,51,HC Košice s.r.o.,1530.87
+2025-26,R 51,51,"HC SLOVAN Bratislava, a.s.",1570.98
+2025-26,R 51,51,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1516.69
+2025-26,R 51,51,"HK Nitra, s.r.o.",1650.85
+2025-26,R 51,51,"HK Rysy, s.r.o.",1512.59
+2025-26,R 51,51,HKM a.s,1495.94
+2025-26,R 51,51,"Hokejový klub DUKLA Trenčín, a.s.",1383.7
+2025-26,R 51,51,Hokejový klub Dukla Ingema Michalovce,1487.18
+2025-26,R 51,51,Hokejový klub Poprad a.s.,1560.2
+2025-26,R 51,51,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1465.66
+2025-26,R 51,51,Presov Hockey a.s.,1298.77
+2025-26,R 51,51,"VLCI ŽILINA, a.s.",1526.57
+2025-26,R 52,52,HC Košice s.r.o.,1541.34
+2025-26,R 52,52,"HC SLOVAN Bratislava, a.s.",1560.67
+2025-26,R 52,52,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1506.22
+2025-26,R 52,52,"HK Nitra, s.r.o.",1636.66
+2025-26,R 52,52,"HK Rysy, s.r.o.",1519.22
+2025-26,R 52,52,HKM a.s,1510.13
+2025-26,R 52,52,"Hokejový klub DUKLA Trenčín, a.s.",1375.56
+2025-26,R 52,52,Hokejový klub Dukla Ingema Michalovce,1478.31
+2025-26,R 52,52,Hokejový klub Poprad a.s.,1570.51
+2025-26,R 52,52,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1473.8
+2025-26,R 52,52,Presov Hockey a.s.,1292.14
+2025-26,R 52,52,"VLCI ŽILINA, a.s.",1535.44
+2025-26,R 53,53,HC Košice s.r.o.,1551.17
+2025-26,R 53,53,"HC SLOVAN Bratislava, a.s.",1568.65
+2025-26,R 53,53,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1496.59
+2025-26,R 53,53,"HK Nitra, s.r.o.",1638.96
+2025-26,R 53,53,"HK Rysy, s.r.o.",1528.85
+2025-26,R 53,53,HKM a.s,1501.85
+2025-26,R 53,53,"Hokejový klub DUKLA Trenčín, a.s.",1395.36
+2025-26,R 53,53,Hokejový klub Dukla Ingema Michalovce,1458.52
+2025-26,R 53,53,Hokejový klub Poprad a.s.,1578.79
+2025-26,R 53,53,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1465.82
+2025-26,R 53,53,Presov Hockey a.s.,1289.84
+2025-26,R 53,53,"VLCI ŽILINA, a.s.",1525.61
+2025-26,R 54,54,HC Košice s.r.o.,1556.96
+2025-26,R 54,54,"HC SLOVAN Bratislava, a.s.",1555.58
+2025-26,R 54,54,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1488.63
+2025-26,R 54,54,"HK Nitra, s.r.o.",1646.92
+2025-26,R 54,54,"HK Rysy, s.r.o.",1514.87
+2025-26,R 54,54,HKM a.s,1506.4
+2025-26,R 54,54,"Hokejový klub DUKLA Trenčín, a.s.",1389.57
+2025-26,R 54,54,Hokejový klub Dukla Ingema Michalovce,1471.58
+2025-26,R 54,54,Hokejový klub Poprad a.s.,1591.49
+2025-26,R 54,54,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1453.13
+2025-26,R 54,54,Presov Hockey a.s.,1285.29
+2025-26,R 54,54,"VLCI ŽILINA, a.s.",1539.58
+2025-26,R 1,1,HC Košice s.r.o.,1556.96
+2025-26,R 1,1,"HC SLOVAN Bratislava, a.s.",1555.58
+2025-26,R 1,1,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1488.63
+2025-26,R 1,1,"HK Nitra, s.r.o.",1646.92
+2025-26,R 1,1,"HK Rysy, s.r.o.",1503.64
+2025-26,R 1,1,HKM a.s,1494.88
+2025-26,R 1,1,"Hokejový klub DUKLA Trenčín, a.s.",1389.57
+2025-26,R 1,1,Hokejový klub Dukla Ingema Michalovce,1482.82
+2025-26,R 1,1,Hokejový klub Poprad a.s.,1591.49
+2025-26,R 1,1,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1464.65
+2025-26,R 1,1,Presov Hockey a.s.,1285.29
+2025-26,R 1,1,"VLCI ŽILINA, a.s.",1539.58
+2025-26,R 2,2,HC Košice s.r.o.,1556.96
+2025-26,R 2,2,"HC SLOVAN Bratislava, a.s.",1555.58
+2025-26,R 2,2,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1488.63
+2025-26,R 2,2,"HK Nitra, s.r.o.",1646.92
+2025-26,R 2,2,"HK Rysy, s.r.o.",1520.32
+2025-26,R 2,2,HKM a.s,1475.67
+2025-26,R 2,2,"Hokejový klub DUKLA Trenčín, a.s.",1389.57
+2025-26,R 2,2,Hokejový klub Dukla Ingema Michalovce,1466.14
+2025-26,R 2,2,Hokejový klub Poprad a.s.,1591.49
+2025-26,R 2,2,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1483.86
+2025-26,R 2,2,Presov Hockey a.s.,1285.29
+2025-26,R 2,2,"VLCI ŽILINA, a.s.",1539.58
+2025-26,R 3,3,HC Košice s.r.o.,1556.96
+2025-26,R 3,3,"HC SLOVAN Bratislava, a.s.",1555.58
+2025-26,R 3,3,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1488.63
+2025-26,R 3,3,"HK Nitra, s.r.o.",1646.92
+2025-26,R 3,3,"HK Rysy, s.r.o.",1508.78
+2025-26,R 3,3,HKM a.s,1492.09
+2025-26,R 3,3,"Hokejový klub DUKLA Trenčín, a.s.",1389.57
+2025-26,R 3,3,Hokejový klub Dukla Ingema Michalovce,1477.68
+2025-26,R 3,3,Hokejový klub Poprad a.s.,1591.49
+2025-26,R 3,3,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1467.44
+2025-26,R 3,3,Presov Hockey a.s.,1285.29
+2025-26,R 3,3,"VLCI ŽILINA, a.s.",1539.58
+2025-26,R 4,4,HC Košice s.r.o.,1556.96
+2025-26,R 4,4,"HC SLOVAN Bratislava, a.s.",1555.58
+2025-26,R 4,4,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1488.63
+2025-26,R 4,4,"HK Nitra, s.r.o.",1646.92
+2025-26,R 4,4,"HK Rysy, s.r.o.",1487.88
+2025-26,R 4,4,HKM a.s,1477.41
+2025-26,R 4,4,"Hokejový klub DUKLA Trenčín, a.s.",1389.57
+2025-26,R 4,4,Hokejový klub Dukla Ingema Michalovce,1498.58
+2025-26,R 4,4,Hokejový klub Poprad a.s.,1591.49
+2025-26,R 4,4,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1482.12
+2025-26,R 4,4,Presov Hockey a.s.,1285.29
+2025-26,R 4,4,"VLCI ŽILINA, a.s.",1539.58
+2025-26,R 1,1,HC Košice s.r.o.,1565.02
+2025-26,R 1,1,"HC SLOVAN Bratislava, a.s.",1555.58
+2025-26,R 1,1,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1480.57
+2025-26,R 1,1,"HK Nitra, s.r.o.",1646.92
+2025-26,R 1,1,"HK Rysy, s.r.o.",1487.88
+2025-26,R 1,1,HKM a.s,1477.41
+2025-26,R 1,1,"Hokejový klub DUKLA Trenčín, a.s.",1389.57
+2025-26,R 1,1,Hokejový klub Dukla Ingema Michalovce,1498.58
+2025-26,R 1,1,Hokejový klub Poprad a.s.,1575.93
+2025-26,R 1,1,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1482.12
+2025-26,R 1,1,Presov Hockey a.s.,1285.29
+2025-26,R 1,1,"VLCI ŽILINA, a.s.",1555.13
+2025-26,R 2,2,HC Košice s.r.o.,1552.63
+2025-26,R 2,2,"HC SLOVAN Bratislava, a.s.",1555.58
+2025-26,R 2,2,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1492.95
+2025-26,R 2,2,"HK Nitra, s.r.o.",1646.92
+2025-26,R 2,2,"HK Rysy, s.r.o.",1487.88
+2025-26,R 2,2,HKM a.s,1477.41
+2025-26,R 2,2,"Hokejový klub DUKLA Trenčín, a.s.",1389.57
+2025-26,R 2,2,Hokejový klub Dukla Ingema Michalovce,1498.58
+2025-26,R 2,2,Hokejový klub Poprad a.s.,1561.38
+2025-26,R 2,2,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1482.12
+2025-26,R 2,2,Presov Hockey a.s.,1285.29
+2025-26,R 2,2,"VLCI ŽILINA, a.s.",1569.69
+2025-26,R 1,1,HC Košice s.r.o.,1552.63
+2025-26,R 1,1,"HC SLOVAN Bratislava, a.s.",1566.2
+2025-26,R 1,1,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1492.95
+2025-26,R 1,1,"HK Nitra, s.r.o.",1652.9
+2025-26,R 1,1,"HK Rysy, s.r.o.",1487.88
+2025-26,R 1,1,HKM a.s,1477.41
+2025-26,R 1,1,"Hokejový klub DUKLA Trenčín, a.s.",1389.57
+2025-26,R 1,1,Hokejový klub Dukla Ingema Michalovce,1492.61
+2025-26,R 1,1,Hokejový klub Poprad a.s.,1561.38
+2025-26,R 1,1,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1471.5
+2025-26,R 1,1,Presov Hockey a.s.,1285.29
+2025-26,R 1,1,"VLCI ŽILINA, a.s.",1569.69
+2025-26,R 2,2,HC Košice s.r.o.,1552.63
+2025-26,R 2,2,"HC SLOVAN Bratislava, a.s.",1573.54
+2025-26,R 2,2,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1492.95
+2025-26,R 2,2,"HK Nitra, s.r.o.",1638.58
+2025-26,R 2,2,"HK Rysy, s.r.o.",1487.88
+2025-26,R 2,2,HKM a.s,1477.41
+2025-26,R 2,2,"Hokejový klub DUKLA Trenčín, a.s.",1389.57
+2025-26,R 2,2,Hokejový klub Dukla Ingema Michalovce,1506.92
+2025-26,R 2,2,Hokejový klub Poprad a.s.,1561.38
+2025-26,R 2,2,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1464.16
+2025-26,R 2,2,Presov Hockey a.s.,1285.29
+2025-26,R 2,2,"VLCI ŽILINA, a.s.",1569.69
+2025-26,R 3,3,HC Košice s.r.o.,1540.93
+2025-26,R 3,3,"HC SLOVAN Bratislava, a.s.",1573.54
+2025-26,R 3,3,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1504.65
+2025-26,R 3,3,"HK Nitra, s.r.o.",1638.58
+2025-26,R 3,3,"HK Rysy, s.r.o.",1487.88
+2025-26,R 3,3,HKM a.s,1477.41
+2025-26,R 3,3,"Hokejový klub DUKLA Trenčín, a.s.",1389.57
+2025-26,R 3,3,Hokejový klub Dukla Ingema Michalovce,1506.92
+2025-26,R 3,3,Hokejový klub Poprad a.s.,1571.62
+2025-26,R 3,3,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1464.16
+2025-26,R 3,3,Presov Hockey a.s.,1285.29
+2025-26,R 3,3,"VLCI ŽILINA, a.s.",1559.45
+2025-26,R 4,4,HC Košice s.r.o.,1529.89
+2025-26,R 4,4,"HC SLOVAN Bratislava, a.s.",1573.54
+2025-26,R 4,4,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1515.69
+2025-26,R 4,4,"HK Nitra, s.r.o.",1638.58
+2025-26,R 4,4,"HK Rysy, s.r.o.",1487.88
+2025-26,R 4,4,HKM a.s,1477.41
+2025-26,R 4,4,"Hokejový klub DUKLA Trenčín, a.s.",1389.57
+2025-26,R 4,4,Hokejový klub Dukla Ingema Michalovce,1506.92
+2025-26,R 4,4,Hokejový klub Poprad a.s.,1581.27
+2025-26,R 4,4,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1464.16
+2025-26,R 4,4,Presov Hockey a.s.,1285.29
+2025-26,R 4,4,"VLCI ŽILINA, a.s.",1549.8
+2025-26,R 3,3,HC Košice s.r.o.,1529.89
+2025-26,R 3,3,"HC SLOVAN Bratislava, a.s.",1580.49
+2025-26,R 3,3,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1515.69
+2025-26,R 3,3,"HK Nitra, s.r.o.",1624.47
+2025-26,R 3,3,"HK Rysy, s.r.o.",1487.88
+2025-26,R 3,3,HKM a.s,1477.41
+2025-26,R 3,3,"Hokejový klub DUKLA Trenčín, a.s.",1389.57
+2025-26,R 3,3,Hokejový klub Dukla Ingema Michalovce,1521.04
+2025-26,R 3,3,Hokejový klub Poprad a.s.,1581.27
+2025-26,R 3,3,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1457.21
+2025-26,R 3,3,Presov Hockey a.s.,1285.29
+2025-26,R 3,3,"VLCI ŽILINA, a.s.",1549.8
+2025-26,R 4,4,HC Košice s.r.o.,1529.89
+2025-26,R 4,4,"HC SLOVAN Bratislava, a.s.",1587.09
+2025-26,R 4,4,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1515.69
+2025-26,R 4,4,"HK Nitra, s.r.o.",1631.58
+2025-26,R 4,4,"HK Rysy, s.r.o.",1487.88
+2025-26,R 4,4,HKM a.s,1477.41
+2025-26,R 4,4,"Hokejový klub DUKLA Trenčín, a.s.",1389.57
+2025-26,R 4,4,Hokejový klub Dukla Ingema Michalovce,1513.93
+2025-26,R 4,4,Hokejový klub Poprad a.s.,1581.27
+2025-26,R 4,4,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1450.62
+2025-26,R 4,4,Presov Hockey a.s.,1285.29
+2025-26,R 4,4,"VLCI ŽILINA, a.s.",1549.8
+2025-26,R 5,5,HC Košice s.r.o.,1540.36
+2025-26,R 5,5,"HC SLOVAN Bratislava, a.s.",1587.09
+2025-26,R 5,5,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1505.22
+2025-26,R 5,5,"HK Nitra, s.r.o.",1638.6
+2025-26,R 5,5,"HK Rysy, s.r.o.",1487.88
+2025-26,R 5,5,HKM a.s,1477.41
+2025-26,R 5,5,"Hokejový klub DUKLA Trenčín, a.s.",1389.57
+2025-26,R 5,5,Hokejový klub Dukla Ingema Michalovce,1506.9
+2025-26,R 5,5,Hokejový klub Poprad a.s.,1593.7
+2025-26,R 5,5,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1450.62
+2025-26,R 5,5,Presov Hockey a.s.,1285.29
+2025-26,R 5,5,"VLCI ŽILINA, a.s.",1537.37
+2025-26,R 1,1,HC 19 Humenné,1486.92
+2025-26,R 1,1,HC Košice s.r.o.,1540.36
+2025-26,R 1,1,"HC SLOVAN Bratislava, a.s.",1587.09
+2025-26,R 1,1,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1505.22
+2025-26,R 1,1,"HK Nitra, s.r.o.",1638.6
+2025-26,R 1,1,"HK Rysy, s.r.o.",1487.88
+2025-26,R 1,1,"HK Skalica, s.r.o.",1480.43
+2025-26,R 1,1,HKM a.s,1477.41
+2025-26,R 1,1,"Hokejový klub DUKLA Trenčín, a.s.",1402.64
+2025-26,R 1,1,Hokejový klub Dukla Ingema Michalovce,1506.9
+2025-26,R 1,1,Hokejový klub Poprad a.s.,1593.7
+2025-26,R 1,1,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1450.62
+2025-26,R 1,1,Presov Hockey a.s.,1304.86
+2025-26,R 1,1,"VLCI ŽILINA, a.s.",1537.37
+2025-26,R 6,6,HC 19 Humenné,1486.92
+2025-26,R 6,6,HC Košice s.r.o.,1549.35
+2025-26,R 6,6,"HC SLOVAN Bratislava, a.s.",1587.09
+2025-26,R 6,6,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1496.23
+2025-26,R 6,6,"HK Nitra, s.r.o.",1624.49
+2025-26,R 6,6,"HK Rysy, s.r.o.",1487.88
+2025-26,R 6,6,"HK Skalica, s.r.o.",1480.43
+2025-26,R 6,6,HKM a.s,1477.41
+2025-26,R 6,6,"Hokejový klub DUKLA Trenčín, a.s.",1402.64
+2025-26,R 6,6,Hokejový klub Dukla Ingema Michalovce,1521.02
+2025-26,R 6,6,Hokejový klub Poprad a.s.,1602.69
+2025-26,R 6,6,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1450.62
+2025-26,R 6,6,Presov Hockey a.s.,1304.86
+2025-26,R 6,6,"VLCI ŽILINA, a.s.",1528.38
+2025-26,R 2,2,HC 19 Humenné,1496.74
+2025-26,R 2,2,HC Košice s.r.o.,1549.35
+2025-26,R 2,2,"HC SLOVAN Bratislava, a.s.",1587.09
+2025-26,R 2,2,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1496.23
+2025-26,R 2,2,"HK Nitra, s.r.o.",1624.49
+2025-26,R 2,2,"HK Rysy, s.r.o.",1487.88
+2025-26,R 2,2,"HK Skalica, s.r.o.",1470.61
+2025-26,R 2,2,HKM a.s,1477.41
+2025-26,R 2,2,"Hokejový klub DUKLA Trenčín, a.s.",1409.9
+2025-26,R 2,2,Hokejový klub Dukla Ingema Michalovce,1521.02
+2025-26,R 2,2,Hokejový klub Poprad a.s.,1602.69
+2025-26,R 2,2,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1450.62
+2025-26,R 2,2,Presov Hockey a.s.,1297.6
+2025-26,R 2,2,"VLCI ŽILINA, a.s.",1528.38
+2025-26,R 7,7,HC 19 Humenné,1496.74
+2025-26,R 7,7,HC Košice s.r.o.,1558.45
+2025-26,R 7,7,"HC SLOVAN Bratislava, a.s.",1587.09
+2025-26,R 7,7,"HC ‘05 BANSKÁ BYSTRICA, a.s.",1487.13
+2025-26,R 7,7,"HK Nitra, s.r.o.",1624.49
+2025-26,R 7,7,"HK Rysy, s.r.o.",1487.88
+2025-26,R 7,7,"HK Skalica, s.r.o.",1470.61
+2025-26,R 7,7,HKM a.s,1477.41
+2025-26,R 7,7,"Hokejový klub DUKLA Trenčín, a.s.",1409.9
+2025-26,R 7,7,Hokejový klub Dukla Ingema Michalovce,1521.02
+2025-26,R 7,7,Hokejový klub Poprad a.s.,1602.69
+2025-26,R 7,7,"Mestský Hokejový klub 32 Liptovský Mikuláš, a.s.",1450.62
+2025-26,R 7,7,Presov Hockey a.s.,1297.6
+2025-26,R 7,7,"VLCI ŽILINA, a.s.",1528.38

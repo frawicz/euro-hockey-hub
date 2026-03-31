@@ -1,0 +1,14 @@
+league,league_label,team,wiki_title,wiki_api,wikidata_qid,logo_filename,logo_url,local_path,status,score
+austria,ICE Hockey League,EC Red Bull Salzburg,EC Red Bull Salzburg,https://de.wikipedia.org/w/api.php,Q36936,,,,no_logo_url,1.0
+austria,ICE Hockey League,EC iDM Wärmepumpen VSV,EC VSV,https://de.wikipedia.org/w/api.php,Q698169,Eishockey Club Villacher Sportverein 1209.jpg,https://upload.wikimedia.org/wikipedia/commons/6/65/Eishockey_Club_Villacher_Sportverein_1209.jpg,assets/club_symbols/austria/ec-idm-w-rmepumpen-vsv.jpg,ok,0.5
+austria,ICE Hockey League,EC-KAC,EC KAC,https://de.wikipedia.org/w/api.php,Q166510,,https://upload.wikimedia.org/wikipedia/de/b/b6/KAC_Logo.svg,assets/club_symbols/austria/ec-kac.svg,ok,1.0
+austria,ICE Hockey League,FTC-Telekom,,,,,,,no_good_title,0.0
+austria,ICE Hockey League,HC Falkensteiner Pustertal,HC Pustertal,https://de.wikipedia.org/w/api.php,Q1478958,,,,no_logo_url,0.667
+austria,ICE Hockey League,HC TIWAG Innsbruck - Die Haie,HC Innsbruck,https://de.wikipedia.org/w/api.php,Q690612,,,,no_logo_url,0.4
+austria,ICE Hockey League,HCB Südtirol Alperia,,,,,,,no_good_title,0.0
+austria,ICE Hockey League,Hydro Fehervar AV 19,,,,,,,no_good_title,0.0
+austria,ICE Hockey League,Moser Medical Graz99ers,,,,,,,no_good_title,0.0
+austria,ICE Hockey League,Olimpija Ljubljana,,,,,,,no_good_title,0.0
+austria,ICE Hockey League,Pioneers Vorarlberg,,,,,,,no_good_title,0.0
+austria,ICE Hockey League,Steinbach Black Wings Linz,,,,,,,no_good_title,0.0
+austria,ICE Hockey League,Vienna Capitals,,,,,,,no_good_title,0.0

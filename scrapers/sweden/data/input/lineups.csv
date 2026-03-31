@@ -1,0 +1,956 @@
+﻿game_id,season_id,team,jersey,name,position,role
+1079004,19791,Örebro HK,1,"Enroth, Jhonas",,skater
+1079004,19791,Örebro HK,31,"Arntzen, Jonas",,skater
+1079004,19791,Örebro HK,30,"Liv, Herman",,skater
+1079004,19791,Örebro HK,55,"Quenneville, David",,skater
+1079004,19791,Örebro HK,28,"Arnesson, Linus",,skater
+1079004,19791,Örebro HK,89,"Karlkvist, Patrik",,skater
+1079004,19791,Örebro HK,11,"Kossila, Kalle",,skater
+1079004,19791,Örebro HK,77,"Turunen, Teemu",,skater
+1079004,19791,Örebro HK,7,"Martin, Luke",,skater
+1079004,19791,Örebro HK,5,"Backström, Gustav",,skater
+1079004,19791,Örebro HK,72,"Ylönen, Jesse",,skater
+1079004,19791,Örebro HK,80,"Miketinac, Kalle",,skater
+1079004,19791,Örebro HK,21,"Puistola, Patrik",,skater
+1079004,19791,Örebro HK,6,"Berglund, Filip",,skater
+1079004,19791,Örebro HK,27,"Seppälä, Peetro",,skater
+1079004,19791,Örebro HK,23,"Polin, Egor",,skater
+1079004,19791,Örebro HK,29,"Oscarson, Milton",,skater
+1079004,19791,Örebro HK,12,"Steen, Noah",,skater
+1079004,19791,Örebro HK,9,"Nilsson, Niklas",,skater
+1079004,19791,Örebro HK,37,"Gustafsson, Glenn",,skater
+1079004,19791,Örebro HK,33,"Mastomäki, Christopher",,skater
+1079004,19791,Örebro HK,17,"Wikman, William",,skater
+1079004,19791,Örebro HK,46,"Sjödin, Svante",LW,skater
+1079004,19791,Luleå HF,72,"Tardif, Ben",,skater
+1079004,19791,Luleå HF,9,"Liedes, Heikki",,skater
+1079004,19791,Luleå HF,24,"Shinnimin, Brendan",,skater
+1079004,19791,Luleå HF,32,"Engsund, Oscar",,skater
+1079004,19791,Luleå HF,86,"Bromé, Mathias",,skater
+1079004,19791,Luleå HF,13,"Koivistoinen, Eetu",,skater
+1079004,19791,Luleå HF,67,"Omark, Linus",,skater
+1079004,19791,Luleå HF,23,"Sellgren, Jesper",,skater
+1079004,19791,Luleå HF,39,"Själin, Pontus",,skater
+1079004,19791,Luleå HF,76,"Levtchi, Anton",,skater
+1079004,19791,Luleå HF,96,"Andreasson, Pontus",,skater
+1079004,19791,Luleå HF,51,"Nurmi, Markus",,skater
+1079004,19791,Luleå HF,82,"Leskinen, Otto",,skater
+1079004,19791,Luleå HF,27,"Laaksonen, Oskari",,skater
+1079004,19791,Luleå HF,6,"Hedqvist, Isac",,skater
+1079004,19791,Luleå HF,91,"O'neill, Brian",,skater
+1079004,19791,Luleå HF,25,"Eriksson, Filip",,skater
+1079004,19791,Luleå HF,29,"Gustafsson, Erik",,skater
+1079004,19791,Luleå HF,3,"Allard, Frederic",,skater
+1079004,19791,Luleå HF,34,"Lassinantti, Joel",,skater
+1079004,19791,Luleå HF,31,"Ward, Matteus",,skater
+1079004,19791,Luleå HF,15,"Granberg, David",RW,skater
+1079005,19791,Djurgårdens IF,74,"Marmenlind, Daniel",,skater
+1079005,19791,Djurgårdens IF,30,"Hävelid, Hugo",,skater
+1079005,19791,Djurgårdens IF,52,"Holm, Philip",,skater
+1079005,19791,Djurgårdens IF,82,"Sissons, Colby",,skater
+1079005,19791,Djurgårdens IF,7,"Snively, Joseph",,skater
+1079005,19791,Djurgårdens IF,61,"Björck, Viggo",,skater
+1079005,19791,Djurgårdens IF,55,"Hudon, Charles",,skater
+1079005,19791,Djurgårdens IF,28,"Lindström, Gustav",,skater
+1079005,19791,Djurgårdens IF,10,"Kylington, Oliver",,skater
+1079005,19791,Djurgårdens IF,38,"Eklund, Victor",,skater
+1079005,19791,Djurgårdens IF,29,"Salsten, Håvard",,skater
+1079005,19791,Djurgårdens IF,14,"Frondell, Anton",,skater
+1079005,19791,Djurgårdens IF,37,"Pettersson, Jesper",,skater
+1079005,19791,Djurgårdens IF,21,"Laleggia, Joseph",,skater
+1079005,19791,Djurgårdens IF,20,"Pettersen, Mathias",,skater
+1079005,19791,Djurgårdens IF,40,"Josefson, Jacob",,skater
+1079005,19791,Djurgårdens IF,53,"Blomgren, David",,skater
+1079005,19791,Djurgårdens IF,45,"Blixt, Hugo",,skater
+1079005,19791,Djurgårdens IF,26,"Solem, Samuel",,skater
+1079005,19791,Djurgårdens IF,32,"Krüger, Marcus",,skater
+1079005,19791,Djurgårdens IF,42,"Stockselius, Theo",,skater
+1079005,19791,Djurgårdens IF,24,"Rensfeldt, Ludvig",RW,skater
+1079005,19791,IF Malmö Redhawks,71,"Nilsson, Isac",,skater
+1079005,19791,IF Malmö Redhawks,10,"Von Barnekow, William",,skater
+1079005,19791,IF Malmö Redhawks,24,"Björkman, Filip",,skater
+1079005,19791,IF Malmö Redhawks,4,"Schreiber, Martin",,skater
+1079005,19791,IF Malmö Redhawks,13,"Vesterheim, Petter",,skater
+1079005,19791,IF Malmö Redhawks,78,"Hanzl, Robin",,skater
+1079005,19791,IF Malmö Redhawks,12,"Öberg, Linus",,skater
+1079005,19791,IF Malmö Redhawks,74,"Carell, Felix",,skater
+1079005,19791,IF Malmö Redhawks,11,"Pedrotti, Elia",,skater
+1079005,19791,IF Malmö Redhawks,32,"Ikonen, Joona",,skater
+1079005,19791,IF Malmö Redhawks,22,"Kuokkanen, Janne",,skater
+1079005,19791,IF Malmö Redhawks,48,"Pajuniemi, Lauri",,skater
+1079005,19791,IF Malmö Redhawks,6,"Viro, Eemil",,skater
+1079005,19791,IF Malmö Redhawks,7,"Niemelä, Topi",,skater
+1079005,19791,IF Malmö Redhawks,95,"Persson, Carl",,skater
+1079005,19791,IF Malmö Redhawks,63,"Händemark, Fredrik",,skater
+1079005,19791,IF Malmö Redhawks,91,"Sundberg, Axel",,skater
+1079005,19791,IF Malmö Redhawks,42,"Salo, Robin",,skater
+1079005,19791,IF Malmö Redhawks,49,"Barton, Seth",,skater
+1079005,19791,IF Malmö Redhawks,35,"Göransson, Axel",,skater
+1079005,19791,IF Malmö Redhawks,72,"Brodén, Markus",,skater
+1079005,19791,IF Malmö Redhawks,40,"Blomgren, Oskar",,skater
+1079005,19791,IF Malmö Redhawks,16,"Olofsson, Viktor",LW,skater
+1079006,19791,Luleå HF,31,"Ward, Matteus",,skater
+1079006,19791,Luleå HF,34,"Lassinantti, Joel",,skater
+1079006,19791,Luleå HF,23,"Sellgren, Jesper",,skater
+1079006,19791,Luleå HF,29,"Gustafsson, Erik",,skater
+1079006,19791,Luleå HF,25,"Eriksson, Filip",,skater
+1079006,19791,Luleå HF,91,"O'neill, Brian",,skater
+1079006,19791,Luleå HF,6,"Hedqvist, Isac",,skater
+1079006,19791,Luleå HF,27,"Laaksonen, Oskari",,skater
+1079006,19791,Luleå HF,82,"Leskinen, Otto",,skater
+1079006,19791,Luleå HF,51,"Nurmi, Markus",,skater
+1079006,19791,Luleå HF,96,"Andreasson, Pontus",,skater
+1079006,19791,Luleå HF,76,"Levtchi, Anton",,skater
+1079006,19791,Luleå HF,39,"Själin, Pontus",,skater
+1079006,19791,Luleå HF,32,"Engsund, Oscar",,skater
+1079006,19791,Luleå HF,67,"Omark, Linus",,skater
+1079006,19791,Luleå HF,13,"Koivistoinen, Eetu",,skater
+1079006,19791,Luleå HF,86,"Bromé, Mathias",,skater
+1079006,19791,Luleå HF,8,"Håkansson, William",,skater
+1079006,19791,Luleå HF,24,"Shinnimin, Brendan",,skater
+1079006,19791,Luleå HF,9,"Liedes, Heikki",,skater
+1079006,19791,Luleå HF,72,"Tardif, Ben",,skater
+1079006,19791,Luleå HF,15,"Granberg, David",RW,skater
+1079006,19791,Örebro HK,46,"Sjödin, Svante",,skater
+1079006,19791,Örebro HK,33,"Mastomäki, Christopher",,skater
+1079006,19791,Örebro HK,37,"Gustafsson, Glenn",,skater
+1079006,19791,Örebro HK,48,"Vainio, Juuso",,skater
+1079006,19791,Örebro HK,12,"Steen, Noah",,skater
+1079006,19791,Örebro HK,29,"Oscarson, Milton",,skater
+1079006,19791,Örebro HK,23,"Polin, Egor",,skater
+1079006,19791,Örebro HK,9,"Nilsson, Niklas",,skater
+1079006,19791,Örebro HK,6,"Berglund, Filip",,skater
+1079006,19791,Örebro HK,21,"Puistola, Patrik",,skater
+1079006,19791,Örebro HK,80,"Miketinac, Kalle",,skater
+1079006,19791,Örebro HK,72,"Ylönen, Jesse",,skater
+1079006,19791,Örebro HK,5,"Backström, Gustav",,skater
+1079006,19791,Örebro HK,7,"Martin, Luke",,skater
+1079006,19791,Örebro HK,77,"Turunen, Teemu",,skater
+1079006,19791,Örebro HK,11,"Kossila, Kalle",,skater
+1079006,19791,Örebro HK,89,"Karlkvist, Patrik",,skater
+1079006,19791,Örebro HK,28,"Arnesson, Linus",,skater
+1079006,19791,Örebro HK,55,"Quenneville, David",,skater
+1079006,19791,Örebro HK,31,"Arntzen, Jonas",,skater
+1079006,19791,Örebro HK,30,"Liv, Herman",,skater
+1079006,19791,Örebro HK,1,"Enroth, Jhonas",,skater
+1079007,19791,IF Malmö Redhawks,40,"Blomgren, Oskar",,skater
+1079007,19791,IF Malmö Redhawks,94,"Langhamer, Marek",,skater
+1079007,19791,IF Malmö Redhawks,35,"Göransson, Axel",,skater
+1079007,19791,IF Malmö Redhawks,49,"Barton, Seth",,skater
+1079007,19791,IF Malmö Redhawks,42,"Salo, Robin",,skater
+1079007,19791,IF Malmö Redhawks,91,"Sundberg, Axel",,skater
+1079007,19791,IF Malmö Redhawks,63,"Händemark, Fredrik",,skater
+1079007,19791,IF Malmö Redhawks,95,"Persson, Carl",,skater
+1079007,19791,IF Malmö Redhawks,7,"Niemelä, Topi",,skater
+1079007,19791,IF Malmö Redhawks,6,"Viro, Eemil",,skater
+1079007,19791,IF Malmö Redhawks,48,"Pajuniemi, Lauri",,skater
+1079007,19791,IF Malmö Redhawks,22,"Kuokkanen, Janne",,skater
+1079007,19791,IF Malmö Redhawks,32,"Ikonen, Joona",,skater
+1079007,19791,IF Malmö Redhawks,74,"Carell, Felix",,skater
+1079007,19791,IF Malmö Redhawks,11,"Pedrotti, Elia",,skater
+1079007,19791,IF Malmö Redhawks,12,"Öberg, Linus",,skater
+1079007,19791,IF Malmö Redhawks,78,"Hanzl, Robin",,skater
+1079007,19791,IF Malmö Redhawks,13,"Vesterheim, Petter",,skater
+1079007,19791,IF Malmö Redhawks,4,"Schreiber, Martin",,skater
+1079007,19791,IF Malmö Redhawks,24,"Björkman, Filip",,skater
+1079007,19791,IF Malmö Redhawks,10,"Von Barnekow, William",,skater
+1079007,19791,IF Malmö Redhawks,71,"Nilsson, Isac",,skater
+1079007,19791,IF Malmö Redhawks,16,"Olofsson, Viktor",LW,skater
+1079007,19791,Djurgårdens IF,42,"Stockselius, Theo",,skater
+1079007,19791,Djurgårdens IF,24,"Rensfeldt, Ludvig",,skater
+1079007,19791,Djurgårdens IF,26,"Solem, Samuel",,skater
+1079007,19791,Djurgårdens IF,10,"Kylington, Oliver",,skater
+1079007,19791,Djurgårdens IF,53,"Blomgren, David",,skater
+1079007,19791,Djurgårdens IF,40,"Josefson, Jacob",,skater
+1079007,19791,Djurgårdens IF,20,"Pettersen, Mathias",,skater
+1079007,19791,Djurgårdens IF,45,"Blixt, Hugo",,skater
+1079007,19791,Djurgårdens IF,28,"Lindström, Gustav",,skater
+1079007,19791,Djurgårdens IF,38,"Eklund, Victor",,skater
+1079007,19791,Djurgårdens IF,29,"Salsten, Håvard",,skater
+1079007,19791,Djurgårdens IF,14,"Frondell, Anton",,skater
+1079007,19791,Djurgårdens IF,37,"Pettersson, Jesper",,skater
+1079007,19791,Djurgårdens IF,21,"Laleggia, Joseph",,skater
+1079007,19791,Djurgårdens IF,55,"Hudon, Charles",,skater
+1079007,19791,Djurgårdens IF,61,"Björck, Viggo",,skater
+1079007,19791,Djurgårdens IF,7,"Snively, Joseph",,skater
+1079007,19791,Djurgårdens IF,82,"Sissons, Colby",,skater
+1079007,19791,Djurgårdens IF,52,"Holm, Philip",,skater
+1079007,19791,Djurgårdens IF,74,"Marmenlind, Daniel",,skater
+1079007,19791,Djurgårdens IF,35,"Hellberg, Magnus",,skater
+1079007,19791,Djurgårdens IF,89,"Palve, Oula",RW,skater
+1079008,19791,Luleå HF,31,"Ward, Matteus",,skater
+1079008,19791,Luleå HF,34,"Lassinantti, Joel",,skater
+1079008,19791,Luleå HF,3,"Allard, Frederic",,skater
+1079008,19791,Luleå HF,29,"Gustafsson, Erik",,skater
+1079008,19791,Luleå HF,24,"Shinnimin, Brendan",,skater
+1079008,19791,Luleå HF,91,"O'neill, Brian",,skater
+1079008,19791,Luleå HF,72,"Tardif, Ben",,skater
+1079008,19791,Luleå HF,27,"Laaksonen, Oskari",,skater
+1079008,19791,Luleå HF,82,"Leskinen, Otto",,skater
+1079008,19791,Luleå HF,51,"Nurmi, Markus",,skater
+1079008,19791,Luleå HF,96,"Andreasson, Pontus",,skater
+1079008,19791,Luleå HF,76,"Levtchi, Anton",,skater
+1079008,19791,Luleå HF,39,"Själin, Pontus",,skater
+1079008,19791,Luleå HF,32,"Engsund, Oscar",,skater
+1079008,19791,Luleå HF,67,"Omark, Linus",,skater
+1079008,19791,Luleå HF,13,"Koivistoinen, Eetu",,skater
+1079008,19791,Luleå HF,86,"Bromé, Mathias",,skater
+1079008,19791,Luleå HF,8,"Håkansson, William",,skater
+1079008,19791,Luleå HF,25,"Eriksson, Filip",,skater
+1079008,19791,Luleå HF,9,"Liedes, Heikki",,skater
+1079008,19791,Luleå HF,6,"Hedqvist, Isac",,skater
+1079008,19791,Luleå HF,15,"Granberg, David",RW,skater
+1079008,19791,Örebro HK,46,"Sjödin, Svante",,skater
+1079008,19791,Örebro HK,33,"Mastomäki, Christopher",,skater
+1079008,19791,Örebro HK,37,"Gustafsson, Glenn",,skater
+1079008,19791,Örebro HK,48,"Vainio, Juuso",,skater
+1079008,19791,Örebro HK,12,"Steen, Noah",,skater
+1079008,19791,Örebro HK,29,"Oscarson, Milton",,skater
+1079008,19791,Örebro HK,23,"Polin, Egor",,skater
+1079008,19791,Örebro HK,9,"Nilsson, Niklas",,skater
+1079008,19791,Örebro HK,6,"Berglund, Filip",,skater
+1079008,19791,Örebro HK,21,"Puistola, Patrik",,skater
+1079008,19791,Örebro HK,80,"Miketinac, Kalle",,skater
+1079008,19791,Örebro HK,72,"Ylönen, Jesse",,skater
+1079008,19791,Örebro HK,5,"Backström, Gustav",,skater
+1079008,19791,Örebro HK,7,"Martin, Luke",,skater
+1079008,19791,Örebro HK,77,"Turunen, Teemu",,skater
+1079008,19791,Örebro HK,11,"Kossila, Kalle",,skater
+1079008,19791,Örebro HK,89,"Karlkvist, Patrik",,skater
+1079008,19791,Örebro HK,28,"Arnesson, Linus",,skater
+1079008,19791,Örebro HK,55,"Quenneville, David",,skater
+1079008,19791,Örebro HK,31,"Arntzen, Jonas",,skater
+1079008,19791,Örebro HK,30,"Liv, Herman",,skater
+1079008,19791,Örebro HK,1,"Enroth, Jhonas",,skater
+1079008,19791,Örebro HK,17,"Wikman, William",LW,skater
+1079009,19791,IF Malmö Redhawks,40,"Blomgren, Oskar",,skater
+1079009,19791,IF Malmö Redhawks,94,"Langhamer, Marek",,skater
+1079009,19791,IF Malmö Redhawks,35,"Göransson, Axel",,skater
+1079009,19791,IF Malmö Redhawks,49,"Barton, Seth",,skater
+1079009,19791,IF Malmö Redhawks,42,"Salo, Robin",,skater
+1079009,19791,IF Malmö Redhawks,91,"Sundberg, Axel",,skater
+1079009,19791,IF Malmö Redhawks,63,"Händemark, Fredrik",,skater
+1079009,19791,IF Malmö Redhawks,95,"Persson, Carl",,skater
+1079009,19791,IF Malmö Redhawks,7,"Niemelä, Topi",,skater
+1079009,19791,IF Malmö Redhawks,6,"Viro, Eemil",,skater
+1079009,19791,IF Malmö Redhawks,48,"Pajuniemi, Lauri",,skater
+1079009,19791,IF Malmö Redhawks,22,"Kuokkanen, Janne",,skater
+1079009,19791,IF Malmö Redhawks,32,"Ikonen, Joona",,skater
+1079009,19791,IF Malmö Redhawks,74,"Carell, Felix",,skater
+1079009,19791,IF Malmö Redhawks,11,"Pedrotti, Elia",,skater
+1079009,19791,IF Malmö Redhawks,12,"Öberg, Linus",,skater
+1079009,19791,IF Malmö Redhawks,78,"Hanzl, Robin",,skater
+1079009,19791,IF Malmö Redhawks,13,"Vesterheim, Petter",,skater
+1079009,19791,IF Malmö Redhawks,4,"Schreiber, Martin",,skater
+1079009,19791,IF Malmö Redhawks,24,"Björkman, Filip",,skater
+1079009,19791,IF Malmö Redhawks,10,"Von Barnekow, William",,skater
+1079009,19791,IF Malmö Redhawks,71,"Nilsson, Isac",,skater
+1079009,19791,IF Malmö Redhawks,16,"Olofsson, Viktor",LW,skater
+1079009,19791,Djurgårdens IF,42,"Stockselius, Theo",,skater
+1079009,19791,Djurgårdens IF,24,"Rensfeldt, Ludvig",,skater
+1079009,19791,Djurgårdens IF,26,"Solem, Samuel",,skater
+1079009,19791,Djurgårdens IF,10,"Kylington, Oliver",,skater
+1079009,19791,Djurgårdens IF,20,"Pettersen, Mathias",,skater
+1079009,19791,Djurgårdens IF,40,"Josefson, Jacob",,skater
+1079009,19791,Djurgårdens IF,53,"Blomgren, David",,skater
+1079009,19791,Djurgårdens IF,45,"Blixt, Hugo",,skater
+1079009,19791,Djurgårdens IF,28,"Lindström, Gustav",,skater
+1079009,19791,Djurgårdens IF,14,"Frondell, Anton",,skater
+1079009,19791,Djurgårdens IF,29,"Salsten, Håvard",,skater
+1079009,19791,Djurgårdens IF,38,"Eklund, Victor",,skater
+1079009,19791,Djurgårdens IF,37,"Pettersson, Jesper",,skater
+1079009,19791,Djurgårdens IF,21,"Laleggia, Joseph",,skater
+1079009,19791,Djurgårdens IF,55,"Hudon, Charles",,skater
+1079009,19791,Djurgårdens IF,61,"Björck, Viggo",,skater
+1079009,19791,Djurgårdens IF,7,"Snively, Joseph",,skater
+1079009,19791,Djurgårdens IF,82,"Sissons, Colby",,skater
+1079009,19791,Djurgårdens IF,52,"Holm, Philip",,skater
+1079009,19791,Djurgårdens IF,74,"Marmenlind, Daniel",,skater
+1079009,19791,Djurgårdens IF,35,"Hellberg, Magnus",,skater
+1079009,19791,Djurgårdens IF,89,"Palve, Oula",RW,skater
+1079010,19791,Skellefteå AIK,32,"Söderström, Linus",,skater
+1079010,19791,Skellefteå AIK,31,"Lampinen, Jani",,skater
+1079010,19791,Skellefteå AIK,38,"Mann, Strauss",,skater
+1079010,19791,Skellefteå AIK,25,"Johansson, Pontus",,skater
+1079010,19791,Skellefteå AIK,52,"Lundberg, Arvid",,skater
+1079010,19791,Skellefteå AIK,12,"Lindberg, Valter",,skater
+1079010,19791,Skellefteå AIK,33,"Forsfjäll, Zeb",,skater
+1079010,19791,Skellefteå AIK,72,"Vuollet, Oskar",,skater
+1079010,19791,Skellefteå AIK,64,"Pudas, Jonathan",,skater
+1079010,19791,Skellefteå AIK,3,"Grahn, Viktor",,skater
+1079010,19791,Skellefteå AIK,29,"Aagaard, Mikkel",,skater
+1079010,19791,Skellefteå AIK,24,"Lindberg, Oscar",,skater
+1079010,19791,Skellefteå AIK,96,"Hugg, Rickard",,skater
+1079010,19791,Skellefteå AIK,43,"Krogdahl, Max",,skater
+1079010,19791,Skellefteå AIK,57,"Djuse, Emil",,skater
+1079010,19791,Skellefteå AIK,15,"Bryggman, Lars",,skater
+1079010,19791,Skellefteå AIK,9,"Stjernborg, Victor",,skater
+1079010,19791,Skellefteå AIK,14,"Johnson, Andreas",,skater
+1079010,19791,Skellefteå AIK,6,"Forsfjäll, Måns",,skater
+1079010,19791,Skellefteå AIK,71,"Davidsson, Jonathan",,skater
+1079010,19791,Skellefteå AIK,22,"Johnson, Jonathan",,skater
+1079010,19791,Skellefteå AIK,8,"Okuliar, Oliver",,skater
+1079010,19791,Skellefteå AIK,27,"Lundberg, Martin",LW,skater
+1079010,19791,IF Malmö Redhawks,71,"Nilsson, Isac",,skater
+1079010,19791,IF Malmö Redhawks,10,"Von Barnekow, William",,skater
+1079010,19791,IF Malmö Redhawks,24,"Björkman, Filip",,skater
+1079010,19791,IF Malmö Redhawks,4,"Schreiber, Martin",,skater
+1079010,19791,IF Malmö Redhawks,13,"Vesterheim, Petter",,skater
+1079010,19791,IF Malmö Redhawks,78,"Hanzl, Robin",,skater
+1079010,19791,IF Malmö Redhawks,12,"Öberg, Linus",,skater
+1079010,19791,IF Malmö Redhawks,11,"Pedrotti, Elia",,skater
+1079010,19791,IF Malmö Redhawks,74,"Carell, Felix",,skater
+1079010,19791,IF Malmö Redhawks,32,"Ikonen, Joona",,skater
+1079010,19791,IF Malmö Redhawks,22,"Kuokkanen, Janne",,skater
+1079010,19791,IF Malmö Redhawks,48,"Pajuniemi, Lauri",,skater
+1079010,19791,IF Malmö Redhawks,6,"Viro, Eemil",,skater
+1079010,19791,IF Malmö Redhawks,7,"Niemelä, Topi",,skater
+1079010,19791,IF Malmö Redhawks,95,"Persson, Carl",,skater
+1079010,19791,IF Malmö Redhawks,63,"Händemark, Fredrik",,skater
+1079010,19791,IF Malmö Redhawks,91,"Sundberg, Axel",,skater
+1079010,19791,IF Malmö Redhawks,42,"Salo, Robin",,skater
+1079010,19791,IF Malmö Redhawks,49,"Barton, Seth",,skater
+1079010,19791,IF Malmö Redhawks,94,"Langhamer, Marek",,skater
+1079010,19791,IF Malmö Redhawks,35,"Göransson, Axel",,skater
+1079010,19791,IF Malmö Redhawks,40,"Blomgren, Oskar",,skater
+1079010,19791,IF Malmö Redhawks,9,"Hemström, Kalle",LW,skater
+1079013,19791,Frölunda HC,30,"Normann, Tobias",,skater
+1079013,19791,Frölunda HC,1,"Johansson, Lars",,skater
+1079013,19791,Frölunda HC,50,"Eltonius, Pontus",,skater
+1079013,19791,Frölunda HC,8,"Johannesson, Samuel",,skater
+1079013,19791,Frölunda HC,7,"Tömmernes, Henrik",,skater
+1079013,19791,Frölunda HC,12,"Friberg, Max",,skater
+1079013,19791,Frölunda HC,40,"Peterson, Jacob",,skater
+1079013,19791,Frölunda HC,92,"Cederqvist, Filip",,skater
+1079013,19791,Frölunda HC,43,"Nilsson, Tom",,skater
+1079013,19791,Frölunda HC,33,"Högberg, Linus",,skater
+1079013,19791,Frölunda HC,32,"Hasa, Noah",,skater
+1079013,19791,Frölunda HC,31,"Lasu, Nicklas",,skater
+1079013,19791,Frölunda HC,17,"Born, Isac",,skater
+1079013,19791,Frölunda HC,2,"Folin, Christian",,skater
+1079013,19791,Frölunda HC,26,"Heens, Isac",,skater
+1079013,19791,Frölunda HC,11,"Lindholm, Max",,skater
+1079013,19791,Frölunda HC,25,"Ruotsalainen, Arttu",,skater
+1079013,19791,Frölunda HC,21,"Innala, Jere",,skater
+1079013,19791,Frölunda HC,6,"Hasa, Filip",,skater
+1079013,19791,Frölunda HC,41,"Stenberg, Ivar",,skater
+1079013,19791,Frölunda HC,27,"Niederbach, Theodor",,skater
+1079013,19791,Frölunda HC,44,"Dower Nilsson, Noah",,skater
+1079013,19791,Frölunda HC,86,"Thorell, Erik",LW,skater
+1079013,19791,Luleå HF,6,"Hedqvist, Isac",,skater
+1079013,19791,Luleå HF,9,"Liedes, Heikki",,skater
+1079013,19791,Luleå HF,25,"Eriksson, Filip",,skater
+1079013,19791,Luleå HF,8,"Håkansson, William",,skater
+1079013,19791,Luleå HF,86,"Bromé, Mathias",,skater
+1079013,19791,Luleå HF,13,"Koivistoinen, Eetu",,skater
+1079013,19791,Luleå HF,67,"Omark, Linus",,skater
+1079013,19791,Luleå HF,32,"Engsund, Oscar",,skater
+1079013,19791,Luleå HF,39,"Själin, Pontus",,skater
+1079013,19791,Luleå HF,76,"Levtchi, Anton",,skater
+1079013,19791,Luleå HF,96,"Andreasson, Pontus",,skater
+1079013,19791,Luleå HF,51,"Nurmi, Markus",,skater
+1079013,19791,Luleå HF,82,"Leskinen, Otto",,skater
+1079013,19791,Luleå HF,27,"Laaksonen, Oskari",,skater
+1079013,19791,Luleå HF,72,"Tardif, Ben",,skater
+1079013,19791,Luleå HF,91,"O'neill, Brian",,skater
+1079013,19791,Luleå HF,24,"Shinnimin, Brendan",,skater
+1079013,19791,Luleå HF,29,"Gustafsson, Erik",,skater
+1079013,19791,Luleå HF,3,"Allard, Frederic",,skater
+1079013,19791,Luleå HF,1,"Sörqvist, Isak",,skater
+1079013,19791,Luleå HF,34,"Lassinantti, Joel",,skater
+1079013,19791,Luleå HF,31,"Ward, Matteus",,skater
+1079013,19791,Luleå HF,15,"Granberg, David",RW,skater
+1079011,19791,Rögle BK,65,"Rifalk, Christoffer",,skater
+1079011,19791,Rögle BK,75,"Holm, Arvid",,skater
+1079011,19791,Rögle BK,30,"Tjärnlund, Milo",,skater
+1079011,19791,Rögle BK,95,"Friedman, Mark",,skater
+1079011,19791,Rögle BK,16,"Ekeståhl-Jonsson, Lukas",,skater
+1079011,19791,Rögle BK,52,"Nilsson, Felix",,skater
+1079011,19791,Rögle BK,22,"Olofsson, Fredrik",,skater
+1079011,19791,Rögle BK,62,"Horky, Lubos",,skater
+1079011,19791,Rögle BK,58,"Johansson, Filip",,skater
+1079011,19791,Rögle BK,45,"Biber, Gregor",,skater
+1079011,19791,Rögle BK,67,"Bristedt, Leon",,skater
+1079011,19791,Rögle BK,23,"Dickinson, Josh",,skater
+1079011,19791,Rögle BK,83,"Kuhlman, Karson",,skater
+1079011,19791,Rögle BK,6,"Ladue, Paul",,skater
+1079011,19791,Rögle BK,51,"Själin, Calle",,skater
+1079011,19791,Rögle BK,18,"Everberg, Dennis",,skater
+1079011,19791,Rögle BK,28,"Bengtsson, Anton",,skater
+1079011,19791,Rögle BK,8,"Sandin, Linus",,skater
+1079011,19791,Rögle BK,24,"Göransson, Mattias",,skater
+1079011,19791,Rögle BK,27,"Sjödin, Linus",,skater
+1079011,19791,Rögle BK,37,"Sundsvik, Albin",,skater
+1079011,19791,Rögle BK,41,"Zether, Simon",,skater
+1079011,19791,Rögle BK,72,"Zaar, Daniel",RW,skater
+1079011,19791,Färjestad BK,15,"Berglund, Jack",,skater
+1079011,19791,Färjestad BK,59,"Johansson, Linus",,skater
+1079011,19791,Färjestad BK,29,"Steen, Oskar",,skater
+1079011,19791,Färjestad BK,6,"Wikman, Albert",,skater
+1079011,19791,Färjestad BK,71,"Lodin, Viktor",,skater
+1079011,19791,Färjestad BK,67,"Zohorna, Radim",,skater
+1079011,19791,Färjestad BK,39,"Philp, Luke",,skater
+1079011,19791,Färjestad BK,7,"Bergkvist, Axel",,skater
+1079011,19791,Färjestad BK,48,"Roos, Filip",,skater
+1079011,19791,Färjestad BK,11,"Nygård, Joakim",,skater
+1079011,19791,Färjestad BK,13,"Kellman, Joel",,skater
+1079011,19791,Färjestad BK,28,"Alba, Emil",,skater
+1079011,19791,Färjestad BK,27,"Carlsson, Gabriel",,skater
+1079011,19791,Färjestad BK,74,"Leivermann, Nick",,skater
+1079011,19791,Färjestad BK,98,"Studenic, Marian",,skater
+1079011,19791,Färjestad BK,96,"Tomasek, David",,skater
+1079011,19791,Färjestad BK,22,"Åslund, Per",,skater
+1079011,19791,Färjestad BK,73,"Ollas Mattsson, Adam",,skater
+1079011,19791,Färjestad BK,32,"Nygren, Magnus",,skater
+1079011,19791,Färjestad BK,60,"Goos, Måns",,skater
+1079011,19791,Färjestad BK,1,"Nilsson, Douglas",,skater
+1079011,19791,Färjestad BK,35,"Thelin, Melker",,skater
+1079011,19791,Färjestad BK,92,"Forsell, Lucas",RW,skater
+1079012,19791,Växjö Lakers HC,70,"Åhman, Adam",,skater
+1079012,19791,Växjö Lakers HC,32,"Persson, Ludvig",,skater
+1079012,19791,Växjö Lakers HC,39,"Håkansson, Oliver",,skater
+1079012,19791,Växjö Lakers HC,94,"Persson, Joel",,skater
+1079012,19791,Växjö Lakers HC,21,"Cooper, Brian",,skater
+1079012,19791,Växjö Lakers HC,62,"Ågren, Manuel",,skater
+1079012,19791,Växjö Lakers HC,40,"Rasmussen, Dennis",,skater
+1079012,19791,Växjö Lakers HC,25,"Elvenes, Lucas",,skater
+1079012,19791,Växjö Lakers HC,6,"Granberg, Petter",,skater
+1079012,19791,Växjö Lakers HC,4,"Lowe, Keegan",,skater
+1079012,19791,Växjö Lakers HC,10,"Suomi, Eemeli",,skater
+1079012,19791,Växjö Lakers HC,24,"Henriksson, Karl",,skater
+1079012,19791,Växjö Lakers HC,28,"Gustafsson, Hugo",,skater
+1079012,19791,Växjö Lakers HC,11,"Rafferty, Brogan",,skater
+1079012,19791,Växjö Lakers HC,49,"Sahlin Wallenius, Leo",,skater
+1079012,19791,Växjö Lakers HC,91,"Robert, Felix",,skater
+1079012,19791,Växjö Lakers HC,69,"Anderberg, Morgan",,skater
+1079012,19791,Växjö Lakers HC,13,"Mclaughlin, Dylan",,skater
+1079012,19791,Växjö Lakers HC,8,"Giuttari, Zachary",,skater
+1079012,19791,Växjö Lakers HC,19,"Gardiner, Reid",,skater
+1079012,19791,Växjö Lakers HC,17,"Andersson, Erik",,skater
+1079012,19791,Växjö Lakers HC,42,"Kratz, Kalle",,skater
+1079012,19791,Växjö Lakers HC,16,"Svensson, Ville",LW,skater
+1079012,19791,Brynäs IF,52,"Kopacka, Jack",,skater
+1079012,19791,Brynäs IF,20,"Vesel, Tyler",,skater
+1079012,19791,Brynäs IF,41,"Scott, Greg",,skater
+1079012,19791,Brynäs IF,71,"Jonsson-Fjällby, Axel",,skater
+1079012,19791,Brynäs IF,36,"Ölund, Linus",,skater
+1079012,19791,Brynäs IF,8,"Trivigno, Bobby",,skater
+1079012,19791,Brynäs IF,5,"Kempny, Michal",,skater
+1079012,19791,Brynäs IF,27,"Norlinder, Mattias",,skater
+1079012,19791,Brynäs IF,23,"Lindblom, Oskar",,skater
+1079012,19791,Brynäs IF,19,"Bäckström, Nicklas",,skater
+1079012,19791,Brynäs IF,18,"Rödin, Anton",,skater
+1079012,19791,Brynäs IF,14,"Hägg, Robert",,skater
+1079012,19791,Brynäs IF,29,"Andersson, Axel",,skater
+1079012,19791,Brynäs IF,81,"Bellows, Kieffer",,skater
+1079012,19791,Brynäs IF,10,"Larsson, Johan",,skater
+1079012,19791,Brynäs IF,33,"Silfverberg, Jakob",,skater
+1079012,19791,Brynäs IF,15,"Bertilsson, Simon",,skater
+1079012,19791,Brynäs IF,28,"Kinnvall, Johannes",,skater
+1079012,19791,Brynäs IF,45,"Clara, Damian",,skater
+1079012,19791,Brynäs IF,1,"Forsberg, William",,skater
+1079012,19791,Brynäs IF,31,"Källgren, Erik",,skater
+1079012,19791,Brynäs IF,47,"Pettersson, Lucas",LW,skater
+1079014,19791,Skellefteå AIK,38,"Mann, Strauss",,skater
+1079014,19791,Skellefteå AIK,32,"Söderström, Linus",,skater
+1079014,19791,Skellefteå AIK,31,"Lampinen, Jani",,skater
+1079014,19791,Skellefteå AIK,25,"Johansson, Pontus",,skater
+1079014,19791,Skellefteå AIK,52,"Lundberg, Arvid",,skater
+1079014,19791,Skellefteå AIK,12,"Lindberg, Valter",,skater
+1079014,19791,Skellefteå AIK,33,"Forsfjäll, Zeb",,skater
+1079014,19791,Skellefteå AIK,72,"Vuollet, Oskar",,skater
+1079014,19791,Skellefteå AIK,64,"Pudas, Jonathan",,skater
+1079014,19791,Skellefteå AIK,3,"Grahn, Viktor",,skater
+1079014,19791,Skellefteå AIK,96,"Hugg, Rickard",,skater
+1079014,19791,Skellefteå AIK,24,"Lindberg, Oscar",,skater
+1079014,19791,Skellefteå AIK,29,"Aagaard, Mikkel",,skater
+1079014,19791,Skellefteå AIK,43,"Krogdahl, Max",,skater
+1079014,19791,Skellefteå AIK,57,"Djuse, Emil",,skater
+1079014,19791,Skellefteå AIK,15,"Bryggman, Lars",,skater
+1079014,19791,Skellefteå AIK,9,"Stjernborg, Victor",,skater
+1079014,19791,Skellefteå AIK,14,"Johnson, Andreas",,skater
+1079014,19791,Skellefteå AIK,6,"Forsfjäll, Måns",,skater
+1079014,19791,Skellefteå AIK,71,"Davidsson, Jonathan",,skater
+1079014,19791,Skellefteå AIK,22,"Johnson, Jonathan",,skater
+1079014,19791,Skellefteå AIK,8,"Okuliar, Oliver",,skater
+1079014,19791,Skellefteå AIK,27,"Lundberg, Martin",LW,skater
+1079014,19791,IF Malmö Redhawks,71,"Nilsson, Isac",,skater
+1079014,19791,IF Malmö Redhawks,10,"Von Barnekow, William",,skater
+1079014,19791,IF Malmö Redhawks,24,"Björkman, Filip",,skater
+1079014,19791,IF Malmö Redhawks,16,"Olofsson, Viktor",,skater
+1079014,19791,IF Malmö Redhawks,13,"Vesterheim, Petter",,skater
+1079014,19791,IF Malmö Redhawks,78,"Hanzl, Robin",,skater
+1079014,19791,IF Malmö Redhawks,12,"Öberg, Linus",,skater
+1079014,19791,IF Malmö Redhawks,4,"Schreiber, Martin",,skater
+1079014,19791,IF Malmö Redhawks,74,"Carell, Felix",,skater
+1079014,19791,IF Malmö Redhawks,32,"Ikonen, Joona",,skater
+1079014,19791,IF Malmö Redhawks,22,"Kuokkanen, Janne",,skater
+1079014,19791,IF Malmö Redhawks,48,"Pajuniemi, Lauri",,skater
+1079014,19791,IF Malmö Redhawks,6,"Viro, Eemil",,skater
+1079014,19791,IF Malmö Redhawks,7,"Niemelä, Topi",,skater
+1079014,19791,IF Malmö Redhawks,95,"Persson, Carl",,skater
+1079014,19791,IF Malmö Redhawks,63,"Händemark, Fredrik",,skater
+1079014,19791,IF Malmö Redhawks,91,"Sundberg, Axel",,skater
+1079014,19791,IF Malmö Redhawks,42,"Salo, Robin",,skater
+1079014,19791,IF Malmö Redhawks,11,"Pedrotti, Elia",,skater
+1079014,19791,IF Malmö Redhawks,94,"Langhamer, Marek",,skater
+1079014,19791,IF Malmö Redhawks,35,"Göransson, Axel",,skater
+1079014,19791,IF Malmö Redhawks,40,"Blomgren, Oskar",,skater
+1079014,19791,IF Malmö Redhawks,9,"Hemström, Kalle",LW,skater
+1079017,19791,Frölunda HC,30,"Normann, Tobias",,skater
+1079017,19791,Frölunda HC,1,"Johansson, Lars",,skater
+1079017,19791,Frölunda HC,50,"Eltonius, Pontus",,skater
+1079017,19791,Frölunda HC,8,"Johannesson, Samuel",,skater
+1079017,19791,Frölunda HC,7,"Tömmernes, Henrik",,skater
+1079017,19791,Frölunda HC,12,"Friberg, Max",,skater
+1079017,19791,Frölunda HC,40,"Peterson, Jacob",,skater
+1079017,19791,Frölunda HC,92,"Cederqvist, Filip",,skater
+1079017,19791,Frölunda HC,43,"Nilsson, Tom",,skater
+1079017,19791,Frölunda HC,33,"Högberg, Linus",,skater
+1079017,19791,Frölunda HC,17,"Born, Isac",,skater
+1079017,19791,Frölunda HC,31,"Lasu, Nicklas",,skater
+1079017,19791,Frölunda HC,86,"Thorell, Erik",,skater
+1079017,19791,Frölunda HC,2,"Folin, Christian",,skater
+1079017,19791,Frölunda HC,26,"Heens, Isac",,skater
+1079017,19791,Frölunda HC,11,"Lindholm, Max",,skater
+1079017,19791,Frölunda HC,25,"Ruotsalainen, Arttu",,skater
+1079017,19791,Frölunda HC,21,"Innala, Jere",,skater
+1079017,19791,Frölunda HC,46,"Egli, Dominik",,skater
+1079017,19791,Frölunda HC,41,"Stenberg, Ivar",,skater
+1079017,19791,Frölunda HC,27,"Niederbach, Theodor",,skater
+1079017,19791,Frölunda HC,44,"Dower Nilsson, Noah",,skater
+1079017,19791,Frölunda HC,32,"Hasa, Noah",LW,skater
+1079017,19791,Luleå HF,6,"Hedqvist, Isac",,skater
+1079017,19791,Luleå HF,9,"Liedes, Heikki",,skater
+1079017,19791,Luleå HF,25,"Eriksson, Filip",,skater
+1079017,19791,Luleå HF,8,"Håkansson, William",,skater
+1079017,19791,Luleå HF,86,"Bromé, Mathias",,skater
+1079017,19791,Luleå HF,13,"Koivistoinen, Eetu",,skater
+1079017,19791,Luleå HF,67,"Omark, Linus",,skater
+1079017,19791,Luleå HF,32,"Engsund, Oscar",,skater
+1079017,19791,Luleå HF,26,"Sjöström, Oliwer",,skater
+1079017,19791,Luleå HF,76,"Levtchi, Anton",,skater
+1079017,19791,Luleå HF,96,"Andreasson, Pontus",,skater
+1079017,19791,Luleå HF,51,"Nurmi, Markus",,skater
+1079017,19791,Luleå HF,82,"Leskinen, Otto",,skater
+1079017,19791,Luleå HF,27,"Laaksonen, Oskari",,skater
+1079017,19791,Luleå HF,72,"Tardif, Ben",,skater
+1079017,19791,Luleå HF,91,"O'neill, Brian",,skater
+1079017,19791,Luleå HF,24,"Shinnimin, Brendan",,skater
+1079017,19791,Luleå HF,29,"Gustafsson, Erik",,skater
+1079017,19791,Luleå HF,39,"Själin, Pontus",,skater
+1079017,19791,Luleå HF,1,"Sörqvist, Isak",,skater
+1079017,19791,Luleå HF,34,"Lassinantti, Joel",,skater
+1079017,19791,Luleå HF,31,"Ward, Matteus",,skater
+1079017,19791,Luleå HF,15,"Granberg, David",RW,skater
+1079015,19791,Rögle BK,65,"Rifalk, Christoffer",,skater
+1079015,19791,Rögle BK,75,"Holm, Arvid",,skater
+1079015,19791,Rögle BK,30,"Nyman, Axel",,skater
+1079015,19791,Rögle BK,95,"Friedman, Mark",,skater
+1079015,19791,Rögle BK,45,"Biber, Gregor",,skater
+1079015,19791,Rögle BK,52,"Nilsson, Felix",,skater
+1079015,19791,Rögle BK,22,"Olofsson, Fredrik",,skater
+1079015,19791,Rögle BK,62,"Horky, Lubos",,skater
+1079015,19791,Rögle BK,58,"Johansson, Filip",,skater
+1079015,19791,Rögle BK,24,"Göransson, Mattias",,skater
+1079015,19791,Rögle BK,67,"Bristedt, Leon",,skater
+1079015,19791,Rögle BK,83,"Kuhlman, Karson",,skater
+1079015,19791,Rögle BK,72,"Zaar, Daniel",,skater
+1079015,19791,Rögle BK,6,"Ladue, Paul",,skater
+1079015,19791,Rögle BK,51,"Själin, Calle",,skater
+1079015,19791,Rögle BK,18,"Everberg, Dennis",,skater
+1079015,19791,Rögle BK,28,"Bengtsson, Anton",,skater
+1079015,19791,Rögle BK,8,"Sandin, Linus",,skater
+1079015,19791,Rögle BK,17,"Norlin, Isak",,skater
+1079015,19791,Rögle BK,27,"Sjödin, Linus",,skater
+1079015,19791,Rögle BK,37,"Sundsvik, Albin",,skater
+1079015,19791,Rögle BK,32,"Solberg, Isac",,skater
+1079015,19791,Rögle BK,20,"Jarbsjö, Marwin",RW,skater
+1079015,19791,Färjestad BK,15,"Berglund, Jack",,skater
+1079015,19791,Färjestad BK,59,"Johansson, Linus",,skater
+1079015,19791,Färjestad BK,29,"Steen, Oskar",,skater
+1079015,19791,Färjestad BK,6,"Wikman, Albert",,skater
+1079015,19791,Färjestad BK,71,"Lodin, Viktor",,skater
+1079015,19791,Färjestad BK,67,"Zohorna, Radim",,skater
+1079015,19791,Färjestad BK,39,"Philp, Luke",,skater
+1079015,19791,Färjestad BK,7,"Bergkvist, Axel",,skater
+1079015,19791,Färjestad BK,48,"Roos, Filip",,skater
+1079015,19791,Färjestad BK,11,"Nygård, Joakim",,skater
+1079015,19791,Färjestad BK,13,"Kellman, Joel",,skater
+1079015,19791,Färjestad BK,28,"Alba, Emil",,skater
+1079015,19791,Färjestad BK,27,"Carlsson, Gabriel",,skater
+1079015,19791,Färjestad BK,74,"Leivermann, Nick",,skater
+1079015,19791,Färjestad BK,98,"Studenic, Marian",,skater
+1079015,19791,Färjestad BK,96,"Tomasek, David",,skater
+1079015,19791,Färjestad BK,22,"Åslund, Per",,skater
+1079015,19791,Färjestad BK,73,"Ollas Mattsson, Adam",,skater
+1079015,19791,Färjestad BK,32,"Nygren, Magnus",,skater
+1079015,19791,Färjestad BK,33,"Larmi, Emil",,skater
+1079015,19791,Färjestad BK,1,"Nilsson, Douglas",,skater
+1079015,19791,Färjestad BK,35,"Thelin, Melker",,skater
+1079015,19791,Färjestad BK,92,"Forsell, Lucas",RW,skater
+1079016,19791,Växjö Lakers HC,70,"Åhman, Adam",,skater
+1079016,19791,Växjö Lakers HC,32,"Persson, Ludvig",,skater
+1079016,19791,Växjö Lakers HC,39,"Håkansson, Oliver",,skater
+1079016,19791,Växjö Lakers HC,94,"Persson, Joel",,skater
+1079016,19791,Växjö Lakers HC,21,"Cooper, Brian",,skater
+1079016,19791,Växjö Lakers HC,62,"Ågren, Manuel",,skater
+1079016,19791,Växjö Lakers HC,40,"Rasmussen, Dennis",,skater
+1079016,19791,Växjö Lakers HC,25,"Elvenes, Lucas",,skater
+1079016,19791,Växjö Lakers HC,6,"Granberg, Petter",,skater
+1079016,19791,Växjö Lakers HC,4,"Lowe, Keegan",,skater
+1079016,19791,Växjö Lakers HC,10,"Suomi, Eemeli",,skater
+1079016,19791,Växjö Lakers HC,24,"Henriksson, Karl",,skater
+1079016,19791,Växjö Lakers HC,28,"Gustafsson, Hugo",,skater
+1079016,19791,Växjö Lakers HC,11,"Rafferty, Brogan",,skater
+1079016,19791,Växjö Lakers HC,49,"Sahlin Wallenius, Leo",,skater
+1079016,19791,Växjö Lakers HC,91,"Robert, Felix",,skater
+1079016,19791,Växjö Lakers HC,69,"Anderberg, Morgan",,skater
+1079016,19791,Växjö Lakers HC,13,"Mclaughlin, Dylan",,skater
+1079016,19791,Växjö Lakers HC,8,"Giuttari, Zachary",,skater
+1079016,19791,Växjö Lakers HC,19,"Gardiner, Reid",,skater
+1079016,19791,Växjö Lakers HC,17,"Andersson, Erik",,skater
+1079016,19791,Växjö Lakers HC,42,"Kratz, Kalle",,skater
+1079016,19791,Växjö Lakers HC,16,"Svensson, Ville",LW,skater
+1079016,19791,Brynäs IF,52,"Kopacka, Jack",,skater
+1079016,19791,Brynäs IF,20,"Vesel, Tyler",,skater
+1079016,19791,Brynäs IF,41,"Scott, Greg",,skater
+1079016,19791,Brynäs IF,53,"Witkowski, Luke",,skater
+1079016,19791,Brynäs IF,71,"Jonsson-Fjällby, Axel",,skater
+1079016,19791,Brynäs IF,36,"Ölund, Linus",,skater
+1079016,19791,Brynäs IF,8,"Trivigno, Bobby",,skater
+1079016,19791,Brynäs IF,5,"Kempny, Michal",,skater
+1079016,19791,Brynäs IF,27,"Norlinder, Mattias",,skater
+1079016,19791,Brynäs IF,23,"Lindblom, Oskar",,skater
+1079016,19791,Brynäs IF,19,"Bäckström, Nicklas",,skater
+1079016,19791,Brynäs IF,18,"Rödin, Anton",,skater
+1079016,19791,Brynäs IF,14,"Hägg, Robert",,skater
+1079016,19791,Brynäs IF,29,"Andersson, Axel",,skater
+1079016,19791,Brynäs IF,81,"Bellows, Kieffer",,skater
+1079016,19791,Brynäs IF,10,"Larsson, Johan",,skater
+1079016,19791,Brynäs IF,33,"Silfverberg, Jakob",,skater
+1079016,19791,Brynäs IF,15,"Bertilsson, Simon",,skater
+1079016,19791,Brynäs IF,28,"Kinnvall, Johannes",,skater
+1079016,19791,Brynäs IF,45,"Clara, Damian",,skater
+1079016,19791,Brynäs IF,31,"Källgren, Erik",,skater
+1079016,19791,Brynäs IF,47,"Pettersson, Lucas",LW,skater
+1079018,19791,IF Malmö Redhawks,40,"Blomgren, Oskar",,skater
+1079018,19791,IF Malmö Redhawks,94,"Langhamer, Marek",,skater
+1079018,19791,IF Malmö Redhawks,35,"Göransson, Axel",,skater
+1079018,19791,IF Malmö Redhawks,49,"Barton, Seth",,skater
+1079018,19791,IF Malmö Redhawks,42,"Salo, Robin",,skater
+1079018,19791,IF Malmö Redhawks,91,"Sundberg, Axel",,skater
+1079018,19791,IF Malmö Redhawks,63,"Händemark, Fredrik",,skater
+1079018,19791,IF Malmö Redhawks,95,"Persson, Carl",,skater
+1079018,19791,IF Malmö Redhawks,7,"Niemelä, Topi",,skater
+1079018,19791,IF Malmö Redhawks,6,"Viro, Eemil",,skater
+1079018,19791,IF Malmö Redhawks,12,"Öberg, Linus",,skater
+1079018,19791,IF Malmö Redhawks,78,"Hanzl, Robin",,skater
+1079018,19791,IF Malmö Redhawks,13,"Vesterheim, Petter",,skater
+1079018,19791,IF Malmö Redhawks,74,"Carell, Felix",,skater
+1079018,19791,IF Malmö Redhawks,4,"Schreiber, Martin",,skater
+1079018,19791,IF Malmö Redhawks,48,"Pajuniemi, Lauri",,skater
+1079018,19791,IF Malmö Redhawks,22,"Kuokkanen, Janne",,skater
+1079018,19791,IF Malmö Redhawks,32,"Ikonen, Joona",,skater
+1079018,19791,IF Malmö Redhawks,11,"Pedrotti, Elia",,skater
+1079018,19791,IF Malmö Redhawks,24,"Björkman, Filip",,skater
+1079018,19791,IF Malmö Redhawks,10,"Von Barnekow, William",,skater
+1079018,19791,IF Malmö Redhawks,71,"Nilsson, Isac",,skater
+1079018,19791,IF Malmö Redhawks,9,"Hemström, Kalle",LW,skater
+1079018,19791,Skellefteå AIK,8,"Okuliar, Oliver",,skater
+1079018,19791,Skellefteå AIK,22,"Johnson, Jonathan",,skater
+1079018,19791,Skellefteå AIK,71,"Davidsson, Jonathan",,skater
+1079018,19791,Skellefteå AIK,6,"Forsfjäll, Måns",,skater
+1079018,19791,Skellefteå AIK,15,"Bryggman, Lars",,skater
+1079018,19791,Skellefteå AIK,9,"Stjernborg, Victor",,skater
+1079018,19791,Skellefteå AIK,14,"Johnson, Andreas",,skater
+1079018,19791,Skellefteå AIK,57,"Djuse, Emil",,skater
+1079018,19791,Skellefteå AIK,43,"Krogdahl, Max",,skater
+1079018,19791,Skellefteå AIK,96,"Hugg, Rickard",,skater
+1079018,19791,Skellefteå AIK,24,"Lindberg, Oscar",,skater
+1079018,19791,Skellefteå AIK,29,"Aagaard, Mikkel",,skater
+1079018,19791,Skellefteå AIK,3,"Grahn, Viktor",,skater
+1079018,19791,Skellefteå AIK,64,"Pudas, Jonathan",,skater
+1079018,19791,Skellefteå AIK,72,"Vuollet, Oskar",,skater
+1079018,19791,Skellefteå AIK,33,"Forsfjäll, Zeb",,skater
+1079018,19791,Skellefteå AIK,12,"Lindberg, Valter",,skater
+1079018,19791,Skellefteå AIK,52,"Lundberg, Arvid",,skater
+1079018,19791,Skellefteå AIK,25,"Johansson, Pontus",,skater
+1079018,19791,Skellefteå AIK,31,"Lampinen, Jani",,skater
+1079018,19791,Skellefteå AIK,38,"Mann, Strauss",,skater
+1079018,19791,Skellefteå AIK,32,"Söderström, Linus",,skater
+1079018,19791,Skellefteå AIK,27,"Lundberg, Martin",LW,skater
+1079021,19791,Luleå HF,31,"Ward, Matteus",,skater
+1079021,19791,Luleå HF,1,"Sörqvist, Isak",,skater
+1079021,19791,Luleå HF,34,"Lassinantti, Joel",,skater
+1079021,19791,Luleå HF,39,"Själin, Pontus",,skater
+1079021,19791,Luleå HF,29,"Gustafsson, Erik",,skater
+1079021,19791,Luleå HF,6,"Hedqvist, Isac",,skater
+1079021,19791,Luleå HF,91,"O'neill, Brian",,skater
+1079021,19791,Luleå HF,72,"Tardif, Ben",,skater
+1079021,19791,Luleå HF,27,"Laaksonen, Oskari",,skater
+1079021,19791,Luleå HF,82,"Leskinen, Otto",,skater
+1079021,19791,Luleå HF,51,"Nurmi, Markus",,skater
+1079021,19791,Luleå HF,96,"Andreasson, Pontus",,skater
+1079021,19791,Luleå HF,76,"Levtchi, Anton",,skater
+1079021,19791,Luleå HF,26,"Sjöström, Oliwer",,skater
+1079021,19791,Luleå HF,32,"Engsund, Oscar",,skater
+1079021,19791,Luleå HF,67,"Omark, Linus",,skater
+1079021,19791,Luleå HF,13,"Koivistoinen, Eetu",,skater
+1079021,19791,Luleå HF,86,"Bromé, Mathias",,skater
+1079021,19791,Luleå HF,8,"Håkansson, William",,skater
+1079021,19791,Luleå HF,25,"Eriksson, Filip",,skater
+1079021,19791,Luleå HF,9,"Liedes, Heikki",,skater
+1079021,19791,Luleå HF,24,"Shinnimin, Brendan",,skater
+1079021,19791,Luleå HF,15,"Granberg, David",RW,skater
+1079021,19791,Frölunda HC,44,"Dower Nilsson, Noah",,skater
+1079021,19791,Frölunda HC,27,"Niederbach, Theodor",,skater
+1079021,19791,Frölunda HC,41,"Stenberg, Ivar",,skater
+1079021,19791,Frölunda HC,46,"Egli, Dominik",,skater
+1079021,19791,Frölunda HC,21,"Innala, Jere",,skater
+1079021,19791,Frölunda HC,25,"Ruotsalainen, Arttu",,skater
+1079021,19791,Frölunda HC,11,"Lindholm, Max",,skater
+1079021,19791,Frölunda HC,26,"Heens, Isac",,skater
+1079021,19791,Frölunda HC,2,"Folin, Christian",,skater
+1079021,19791,Frölunda HC,86,"Thorell, Erik",,skater
+1079021,19791,Frölunda HC,31,"Lasu, Nicklas",,skater
+1079021,19791,Frölunda HC,32,"Hasa, Noah",,skater
+1079021,19791,Frölunda HC,33,"Högberg, Linus",,skater
+1079021,19791,Frölunda HC,43,"Nilsson, Tom",,skater
+1079021,19791,Frölunda HC,92,"Cederqvist, Filip",,skater
+1079021,19791,Frölunda HC,40,"Peterson, Jacob",,skater
+1079021,19791,Frölunda HC,12,"Friberg, Max",,skater
+1079021,19791,Frölunda HC,7,"Tömmernes, Henrik",,skater
+1079021,19791,Frölunda HC,8,"Johannesson, Samuel",,skater
+1079021,19791,Frölunda HC,1,"Johansson, Lars",,skater
+1079021,19791,Frölunda HC,50,"Eltonius, Pontus",,skater
+1079021,19791,Frölunda HC,30,"Normann, Tobias",,skater
+1079021,19791,Frölunda HC,17,"Born, Isac",LW,skater
+1079019,19791,Färjestad BK,33,"Larmi, Emil",,skater
+1079019,19791,Färjestad BK,35,"Thelin, Melker",,skater
+1079019,19791,Färjestad BK,60,"Goos, Måns",,skater
+1079019,19791,Färjestad BK,32,"Nygren, Magnus",,skater
+1079019,19791,Färjestad BK,73,"Ollas Mattsson, Adam",,skater
+1079019,19791,Färjestad BK,22,"Åslund, Per",,skater
+1079019,19791,Färjestad BK,59,"Johansson, Linus",,skater
+1079019,19791,Färjestad BK,11,"Nygård, Joakim",,skater
+1079019,19791,Färjestad BK,74,"Leivermann, Nick",,skater
+1079019,19791,Färjestad BK,27,"Carlsson, Gabriel",,skater
+1079019,19791,Färjestad BK,29,"Steen, Oskar",,skater
+1079019,19791,Färjestad BK,13,"Kellman, Joel",,skater
+1079019,19791,Färjestad BK,98,"Studenic, Marian",,skater
+1079019,19791,Färjestad BK,48,"Roos, Filip",,skater
+1079019,19791,Färjestad BK,7,"Bergkvist, Axel",,skater
+1079019,19791,Färjestad BK,96,"Tomasek, David",,skater
+1079019,19791,Färjestad BK,67,"Zohorna, Radim",,skater
+1079019,19791,Färjestad BK,71,"Lodin, Viktor",,skater
+1079019,19791,Färjestad BK,6,"Wikman, Albert",,skater
+1079019,19791,Färjestad BK,92,"Forsell, Lucas",,skater
+1079019,19791,Färjestad BK,12,"Jansson, Christoffer",,skater
+1079019,19791,Färjestad BK,15,"Berglund, Jack",,skater
+1079019,19791,Färjestad BK,23,"Eriksen, Mikkel",LW,skater
+1079019,19791,Rögle BK,27,"Sjödin, Linus",,skater
+1079019,19791,Rögle BK,37,"Sundsvik, Albin",,skater
+1079019,19791,Rögle BK,32,"Solberg, Isac",,skater
+1079019,19791,Rögle BK,24,"Göransson, Mattias",,skater
+1079019,19791,Rögle BK,72,"Zaar, Daniel",,skater
+1079019,19791,Rögle BK,83,"Kuhlman, Karson",,skater
+1079019,19791,Rögle BK,67,"Bristedt, Leon",,skater
+1079019,19791,Rögle BK,51,"Själin, Calle",,skater
+1079019,19791,Rögle BK,6,"Ladue, Paul",,skater
+1079019,19791,Rögle BK,62,"Horky, Lubos",,skater
+1079019,19791,Rögle BK,22,"Olofsson, Fredrik",,skater
+1079019,19791,Rögle BK,52,"Nilsson, Felix",,skater
+1079019,19791,Rögle BK,45,"Biber, Gregor",,skater
+1079019,19791,Rögle BK,95,"Friedman, Mark",,skater
+1079019,19791,Rögle BK,8,"Sandin, Linus",,skater
+1079019,19791,Rögle BK,28,"Bengtsson, Anton",,skater
+1079019,19791,Rögle BK,18,"Everberg, Dennis",,skater
+1079019,19791,Rögle BK,44,"De Haan, Calvin",,skater
+1079019,19791,Rögle BK,58,"Johansson, Filip",,skater
+1079019,19791,Rögle BK,65,"Rifalk, Christoffer",,skater
+1079019,19791,Rögle BK,75,"Holm, Arvid",,skater
+1079019,19791,Rögle BK,20,"Jarbsjö, Marwin",RW,skater
+1079020,19791,Brynäs IF,45,"Clara, Damian",,skater
+1079020,19791,Brynäs IF,31,"Källgren, Erik",,skater
+1079020,19791,Brynäs IF,35,"Hansen Ahlström, Sander",,skater
+1079020,19791,Brynäs IF,28,"Kinnvall, Johannes",,skater
+1079020,19791,Brynäs IF,15,"Bertilsson, Simon",,skater
+1079020,19791,Brynäs IF,33,"Silfverberg, Jakob",,skater
+1079020,19791,Brynäs IF,10,"Larsson, Johan",,skater
+1079020,19791,Brynäs IF,81,"Bellows, Kieffer",,skater
+1079020,19791,Brynäs IF,29,"Andersson, Axel",,skater
+1079020,19791,Brynäs IF,14,"Hägg, Robert",,skater
+1079020,19791,Brynäs IF,18,"Rödin, Anton",,skater
+1079020,19791,Brynäs IF,19,"Bäckström, Nicklas",,skater
+1079020,19791,Brynäs IF,52,"Kopacka, Jack",,skater
+1079020,19791,Brynäs IF,27,"Norlinder, Mattias",,skater
+1079020,19791,Brynäs IF,5,"Kempny, Michal",,skater
+1079020,19791,Brynäs IF,71,"Jonsson-Fjällby, Axel",,skater
+1079020,19791,Brynäs IF,47,"Pettersson, Lucas",,skater
+1079020,19791,Brynäs IF,8,"Trivigno, Bobby",,skater
+1079020,19791,Brynäs IF,41,"Scott, Greg",,skater
+1079020,19791,Brynäs IF,20,"Vesel, Tyler",,skater
+1079020,19791,Brynäs IF,17,"Svrcek, Michal",,skater
+1079020,19791,Brynäs IF,22,"Sundqvist, Leo",RW,skater
+1079020,19791,Växjö Lakers HC,42,"Kratz, Kalle",,skater
+1079020,19791,Växjö Lakers HC,17,"Andersson, Erik",,skater
+1079020,19791,Växjö Lakers HC,19,"Gardiner, Reid",,skater
+1079020,19791,Växjö Lakers HC,36,"Rosén, Elias",,skater
+1079020,19791,Växjö Lakers HC,13,"Mclaughlin, Dylan",,skater
+1079020,19791,Växjö Lakers HC,69,"Anderberg, Morgan",,skater
+1079020,19791,Växjö Lakers HC,91,"Robert, Felix",,skater
+1079020,19791,Växjö Lakers HC,49,"Sahlin Wallenius, Leo",,skater
+1079020,19791,Växjö Lakers HC,8,"Giuttari, Zachary",,skater
+1079020,19791,Växjö Lakers HC,28,"Gustafsson, Hugo",,skater
+1079020,19791,Växjö Lakers HC,24,"Henriksson, Karl",,skater
+1079020,19791,Växjö Lakers HC,10,"Suomi, Eemeli",,skater
+1079020,19791,Växjö Lakers HC,4,"Lowe, Keegan",,skater
+1079020,19791,Växjö Lakers HC,6,"Granberg, Petter",,skater
+1079020,19791,Växjö Lakers HC,25,"Elvenes, Lucas",,skater
+1079020,19791,Växjö Lakers HC,40,"Rasmussen, Dennis",,skater
+1079020,19791,Växjö Lakers HC,62,"Ågren, Manuel",,skater
+1079020,19791,Växjö Lakers HC,21,"Cooper, Brian",,skater
+1079020,19791,Växjö Lakers HC,94,"Persson, Joel",,skater
+1079020,19791,Växjö Lakers HC,32,"Persson, Ludvig",,skater
+1079020,19791,Växjö Lakers HC,39,"Håkansson, Oliver",,skater
+1079020,19791,Växjö Lakers HC,70,"Åhman, Adam",,skater
+1079020,19791,Växjö Lakers HC,16,"Svensson, Ville",LW,skater
+1079022,19791,IF Malmö Redhawks,94,"Langhamer, Marek",,skater
+1079022,19791,IF Malmö Redhawks,40,"Blomgren, Oskar",,skater
+1079022,19791,IF Malmö Redhawks,35,"Göransson, Axel",,skater
+1079022,19791,IF Malmö Redhawks,49,"Barton, Seth",,skater
+1079022,19791,IF Malmö Redhawks,42,"Salo, Robin",,skater
+1079022,19791,IF Malmö Redhawks,91,"Sundberg, Axel",,skater
+1079022,19791,IF Malmö Redhawks,63,"Händemark, Fredrik",,skater
+1079022,19791,IF Malmö Redhawks,95,"Persson, Carl",,skater
+1079022,19791,IF Malmö Redhawks,7,"Niemelä, Topi",,skater
+1079022,19791,IF Malmö Redhawks,6,"Viro, Eemil",,skater
+1079022,19791,IF Malmö Redhawks,12,"Öberg, Linus",,skater
+1079022,19791,IF Malmö Redhawks,78,"Hanzl, Robin",,skater
+1079022,19791,IF Malmö Redhawks,13,"Vesterheim, Petter",,skater
+1079022,19791,IF Malmö Redhawks,74,"Carell, Felix",,skater
+1079022,19791,IF Malmö Redhawks,11,"Pedrotti, Elia",,skater
+1079022,19791,IF Malmö Redhawks,48,"Pajuniemi, Lauri",,skater
+1079022,19791,IF Malmö Redhawks,22,"Kuokkanen, Janne",,skater
+1079022,19791,IF Malmö Redhawks,32,"Ikonen, Joona",,skater
+1079022,19791,IF Malmö Redhawks,41,"Pagels, Isac",,skater
+1079022,19791,IF Malmö Redhawks,24,"Björkman, Filip",,skater
+1079022,19791,IF Malmö Redhawks,10,"Von Barnekow, William",,skater
+1079022,19791,IF Malmö Redhawks,71,"Nilsson, Isac",,skater
+1079022,19791,IF Malmö Redhawks,9,"Hemström, Kalle",LW,skater
+1079022,19791,Skellefteå AIK,8,"Okuliar, Oliver",,skater
+1079022,19791,Skellefteå AIK,22,"Johnson, Jonathan",,skater
+1079022,19791,Skellefteå AIK,71,"Davidsson, Jonathan",,skater
+1079022,19791,Skellefteå AIK,6,"Forsfjäll, Måns",,skater
+1079022,19791,Skellefteå AIK,15,"Bryggman, Lars",,skater
+1079022,19791,Skellefteå AIK,9,"Stjernborg, Victor",,skater
+1079022,19791,Skellefteå AIK,14,"Johnson, Andreas",,skater
+1079022,19791,Skellefteå AIK,57,"Djuse, Emil",,skater
+1079022,19791,Skellefteå AIK,43,"Krogdahl, Max",,skater
+1079022,19791,Skellefteå AIK,96,"Hugg, Rickard",,skater
+1079022,19791,Skellefteå AIK,24,"Lindberg, Oscar",,skater
+1079022,19791,Skellefteå AIK,29,"Aagaard, Mikkel",,skater
+1079022,19791,Skellefteå AIK,3,"Grahn, Viktor",,skater
+1079022,19791,Skellefteå AIK,64,"Pudas, Jonathan",,skater
+1079022,19791,Skellefteå AIK,12,"Lindberg, Valter",,skater
+1079022,19791,Skellefteå AIK,33,"Forsfjäll, Zeb",,skater
+1079022,19791,Skellefteå AIK,72,"Vuollet, Oskar",,skater
+1079022,19791,Skellefteå AIK,52,"Lundberg, Arvid",,skater
+1079022,19791,Skellefteå AIK,25,"Johansson, Pontus",,skater
+1079022,19791,Skellefteå AIK,32,"Söderström, Linus",,skater
+1079022,19791,Skellefteå AIK,31,"Lampinen, Jani",,skater
+1079022,19791,Skellefteå AIK,38,"Mann, Strauss",,skater
+1079022,19791,Skellefteå AIK,27,"Lundberg, Martin",LW,skater
+1079025,19791,Luleå HF,31,"Ward, Matteus",,skater
+1079025,19791,Luleå HF,1,"Sörqvist, Isak",,skater
+1079025,19791,Luleå HF,34,"Lassinantti, Joel",,skater
+1079025,19791,Luleå HF,39,"Själin, Pontus",,skater
+1079025,19791,Luleå HF,29,"Gustafsson, Erik",,skater
+1079025,19791,Luleå HF,51,"Nurmi, Markus",,skater
+1079025,19791,Luleå HF,96,"Andreasson, Pontus",,skater
+1079025,19791,Luleå HF,76,"Levtchi, Anton",,skater
+1079025,19791,Luleå HF,27,"Laaksonen, Oskari",,skater
+1079025,19791,Luleå HF,82,"Leskinen, Otto",,skater
+1079025,19791,Luleå HF,6,"Hedqvist, Isac",,skater
+1079025,19791,Luleå HF,91,"O'neill, Brian",,skater
+1079025,19791,Luleå HF,24,"Shinnimin, Brendan",,skater
+1079025,19791,Luleå HF,26,"Sjöström, Oliwer",,skater
+1079025,19791,Luleå HF,32,"Engsund, Oscar",,skater
+1079025,19791,Luleå HF,67,"Omark, Linus",,skater
+1079025,19791,Luleå HF,13,"Koivistoinen, Eetu",,skater
+1079025,19791,Luleå HF,86,"Bromé, Mathias",,skater
+1079025,19791,Luleå HF,8,"Håkansson, William",,skater
+1079025,19791,Luleå HF,25,"Eriksson, Filip",,skater
+1079025,19791,Luleå HF,9,"Liedes, Heikki",,skater
+1079025,19791,Luleå HF,72,"Tardif, Ben",,skater
+1079025,19791,Luleå HF,15,"Granberg, David",RW,skater
+1079025,19791,Frölunda HC,44,"Dower Nilsson, Noah",,skater
+1079025,19791,Frölunda HC,27,"Niederbach, Theodor",,skater
+1079025,19791,Frölunda HC,41,"Stenberg, Ivar",,skater
+1079025,19791,Frölunda HC,6,"Hasa, Filip",,skater
+1079025,19791,Frölunda HC,21,"Innala, Jere",,skater
+1079025,19791,Frölunda HC,25,"Ruotsalainen, Arttu",,skater
+1079025,19791,Frölunda HC,11,"Lindholm, Max",,skater
+1079025,19791,Frölunda HC,46,"Egli, Dominik",,skater
+1079025,19791,Frölunda HC,2,"Folin, Christian",,skater
+1079025,19791,Frölunda HC,86,"Thorell, Erik",,skater
+1079025,19791,Frölunda HC,31,"Lasu, Nicklas",,skater
+1079025,19791,Frölunda HC,32,"Hasa, Noah",,skater
+1079025,19791,Frölunda HC,33,"Högberg, Linus",,skater
+1079025,19791,Frölunda HC,43,"Nilsson, Tom",,skater
+1079025,19791,Frölunda HC,92,"Cederqvist, Filip",,skater
+1079025,19791,Frölunda HC,40,"Peterson, Jacob",,skater
+1079025,19791,Frölunda HC,12,"Friberg, Max",,skater
+1079025,19791,Frölunda HC,7,"Tömmernes, Henrik",,skater
+1079025,19791,Frölunda HC,8,"Johannesson, Samuel",,skater
+1079025,19791,Frölunda HC,30,"Normann, Tobias",,skater
+1079025,19791,Frölunda HC,50,"Eltonius, Pontus",,skater
+1079025,19791,Frölunda HC,1,"Johansson, Lars",,skater
+1079025,19791,Frölunda HC,9,"Weissbach, Linus",LW,skater
+1079024,19791,Brynäs IF,45,"Clara, Damian",,skater
+1079024,19791,Brynäs IF,31,"Källgren, Erik",,skater
+1079024,19791,Brynäs IF,30,"Westman, Oscar",,skater
+1079024,19791,Brynäs IF,28,"Kinnvall, Johannes",,skater
+1079024,19791,Brynäs IF,15,"Bertilsson, Simon",,skater
+1079024,19791,Brynäs IF,33,"Silfverberg, Jakob",,skater
+1079024,19791,Brynäs IF,10,"Larsson, Johan",,skater
+1079024,19791,Brynäs IF,81,"Bellows, Kieffer",,skater
+1079024,19791,Brynäs IF,29,"Andersson, Axel",,skater
+1079024,19791,Brynäs IF,14,"Hägg, Robert",,skater
+1079024,19791,Brynäs IF,18,"Rödin, Anton",,skater
+1079024,19791,Brynäs IF,19,"Bäckström, Nicklas",,skater
+1079024,19791,Brynäs IF,23,"Lindblom, Oskar",,skater
+1079024,19791,Brynäs IF,27,"Norlinder, Mattias",,skater
+1079024,19791,Brynäs IF,5,"Kempny, Michal",,skater
+1079024,19791,Brynäs IF,8,"Trivigno, Bobby",,skater
+1079024,19791,Brynäs IF,47,"Pettersson, Lucas",,skater
+1079024,19791,Brynäs IF,71,"Jonsson-Fjällby, Axel",,skater
+1079024,19791,Brynäs IF,24,"Dahlqvist, Aron",,skater
+1079024,19791,Brynäs IF,41,"Scott, Greg",,skater
+1079024,19791,Brynäs IF,20,"Vesel, Tyler",,skater
+1079024,19791,Brynäs IF,17,"Svrcek, Michal",,skater
+1079024,19791,Brynäs IF,22,"Sundqvist, Leo",RW,skater
+1079024,19791,Växjö Lakers HC,42,"Kratz, Kalle",,skater
+1079024,19791,Växjö Lakers HC,17,"Andersson, Erik",,skater
+1079024,19791,Växjö Lakers HC,19,"Gardiner, Reid",,skater
+1079024,19791,Växjö Lakers HC,36,"Rosén, Elias",,skater
+1079024,19791,Växjö Lakers HC,28,"Gustafsson, Hugo",,skater
+1079024,19791,Växjö Lakers HC,24,"Henriksson, Karl",,skater
+1079024,19791,Växjö Lakers HC,10,"Suomi, Eemeli",,skater
+1079024,19791,Växjö Lakers HC,49,"Sahlin Wallenius, Leo",,skater
+1079024,19791,Växjö Lakers HC,11,"Rafferty, Brogan",,skater
+1079024,19791,Växjö Lakers HC,13,"Mclaughlin, Dylan",,skater
+1079024,19791,Växjö Lakers HC,69,"Anderberg, Morgan",,skater
+1079024,19791,Växjö Lakers HC,91,"Robert, Felix",,skater
+1079024,19791,Växjö Lakers HC,4,"Lowe, Keegan",,skater
+1079024,19791,Växjö Lakers HC,6,"Granberg, Petter",,skater
+1079024,19791,Växjö Lakers HC,25,"Elvenes, Lucas",,skater
+1079024,19791,Växjö Lakers HC,40,"Rasmussen, Dennis",,skater
+1079024,19791,Växjö Lakers HC,62,"Ågren, Manuel",,skater
+1079024,19791,Växjö Lakers HC,21,"Cooper, Brian",,skater
+1079024,19791,Växjö Lakers HC,94,"Persson, Joel",,skater
+1079024,19791,Växjö Lakers HC,32,"Persson, Ludvig",,skater
+1079024,19791,Växjö Lakers HC,39,"Håkansson, Oliver",,skater
+1079024,19791,Växjö Lakers HC,70,"Åhman, Adam",,skater
+1079024,19791,Växjö Lakers HC,16,"Svensson, Ville",LW,skater

@@ -1,0 +1,420 @@
+﻿game_id,season_id,period,time,event_type,team,on_ice_neg,on_ice_pos,penalty_end,penalty_minutes,penalty_reason,penalty_start,player1_name,player1_number,player2_name,player2_number,player3_name,player3_number,score_state
+1079004,19791,3rd period,60:00,gk_out,ÖHK,,,,,,,"Enroth, Jhonas",1,,,,,
+1079004,19791,3rd period,60:00,gk_out,LHF,,,,,,,"Ward, Matteus",31,,,,,
+1079004,19791,3rd period,60:00,penalty,LHF,,,60:00,2,Crosschecking,60:00,"O'neill, Brian",91,,,,,
+1079004,19791,3rd period,57:50,gk_in,ÖHK,,,,,,,"Enroth, Jhonas",1,,,,,
+1079004,19791,3rd period,57:50,goal,LHF,"11 , 12 , 21 , 28 , 55 , 89","23 , 31 , 39 , 51 , 76 , 96",,,,,"Levtchi, Anton",76,"Sellgren, Jesper",23,"Själin, Pontus",39,2-6 (EQ) ENG
+1079004,19791,3rd period,57:48,gk_out,ÖHK,,,,,,,"Enroth, Jhonas",1,,,,,
+1079004,19791,3rd period,57:21,goal,LHF,"1 , 6 , 7 , 33 , 37 , 77","3 , 6 , 25 , 29 , 31 , 91",,,,,"Gustafsson, Erik",29,,,,,2-5 (EQ)
+1079004,19791,3rd period,51:21,penalty,ÖHK,,,,2,High Sticking,,"Wikman, William",17,,,,,
+1079004,19791,3rd period,51:21,penalty,LHF,,,,2,Interference,,"Gustafsson, Erik",29,,,,,
+1079004,19791,3rd period,40:41,penalty,LHF,,,42:41,2,Slashing,40:41,"Allard, Frederic",3,,,,,
+1079004,19791,2nd period,37:41,penalty,LHF,,,39:41,2,Hooking,37:41,"Levtchi, Anton",76,,,,,
+1079004,19791,2nd period,35:55,goal,ÖHK,"24 , 29 , 31 , 32 , 72 , 91","1 , 7 , 9 , 11 , 77 , 89",,,,,"Kossila, Kalle",11,"Nilsson, Niklas",9,"Karlkvist, Patrik",89,2-4 (EQ)
+1079004,19791,2nd period,33:58,goal,LHF,"1 , 7 , 21 , 55 , 72 , 80","6 , 25 , 27 , 31 , 82 , 91",,,,,"Hedqvist, Isac",6,"Laaksonen, Oskari",27,"Eriksson, Filip",25,1-4 (EQ)
+1079004,19791,2nd period,32:43,goal,LHF,"1 , 7 , 9 , 11 , 12 , 89","13 , 23 , 31 , 39 , 67 , 86",,,,,"Bromé, Mathias",86,"Sellgren, Jesper",23,"Omark, Linus",67,1-3 (EQ)
+1079004,19791,2nd period,31:51,goal,LHF,"1 , 6 , 29 , 33 , 37 , 55","27 , 31 , 51 , 76 , 82 , 96",,,,,"Andreasson, Pontus",96,"Levtchi, Anton",76,"Laaksonen, Oskari",27,1-2 (EQ)
+1079004,19791,2nd period,26:08,goal,LHF,"1 , 21 , 28 , 55 , 72 , 80","13 , 23 , 31 , 67 , 82 , 86",,,,,"Koivistoinen, Eetu",13,"Omark, Linus",67,"Sellgren, Jesper",23,1-1 (EQ)
+1079004,19791,2nd period,22:41,goal,ÖHK,"6 , 23 , 31 , 39 , 96","1 , 11 , 21 , 55 , 72 , 89",,,,,"Puistola, Patrik",21,"Kossila, Kalle",11,"Quenneville, David",55,1-0 (PP1)
+1079004,19791,2nd period,22:21,penalty,LHF,,,22:41,2,Hooking,22:21,"Omark, Linus",67,,,,,
+1079004,19791,1st period,11:16,penalty,ÖHK,,,13:16,2,High Sticking,11:16,"Backström, Gustav",5,,,,,
+1079004,19791,1st period,00:00,gk_in,LHF,,,,,,,"Ward, Matteus",31,,,,,
+1079004,19791,1st period,00:00,gk_in,ÖHK,,,,,,,"Enroth, Jhonas",1,,,,,
+1079005,19791,1st overtime,69:08,penalty,MIF,,,,20,Game Misconduct,,,,,,,,
+1079005,19791,1st overtime,69:08,goal,DIF,"4 , 6 , 12 , 13 , 40","14 , 38 , 53 , 61 , 74 , 82",,,,,"Frondell, Anton",14,"Eklund, Victor",38,"Björck, Viggo",61,3-2 (PP1)
+1079005,19791,1st overtime,69:08,gk_out,DIF,,,,,,,"Marmenlind, Daniel",74,,,,,
+1079005,19791,1st overtime,69:08,gk_out,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079005,19791,1st overtime,68:04,penalty,MIF,,,69:08,2,Hooking,68:04,"Pajuniemi, Lauri",48,,,,,
+1079005,19791,3rd period,59:22,penalty,MIF,,,61:22,2,Tripping,59:22,"Hanzl, Robin",78,,,,,
+1079005,19791,3rd period,59:22,unknown,DIF,,,,,,,,,,,,,
+1079005,19791,3rd period,48:09,penalty,MIF,,,,2,Roughing,,"Öberg, Linus",12,,,,,
+1079005,19791,3rd period,48:09,penalty,DIF,,,,2,Roughing,,"Sissons, Colby",82,,,,,
+1079005,19791,3rd period,40:52,goal,DIF,"6 , 12 , 13 , 40 , 42 , 78","14 , 21 , 37 , 38 , 61 , 74",,,,,"Björck, Viggo",61,"Frondell, Anton",14,"Eklund, Victor",38,2-2 (EQ)
+1079005,19791,2nd period,36:26,goal,MIF,"29 , 37 , 52 , 53 , 74","22 , 40 , 42 , 48 , 63 , 95",,,,,"Persson, Carl",95,"Kuokkanen, Janne",22,"Pajuniemi, Lauri",48,1-2 (PP1)
+1079005,19791,2nd period,35:13,penalty,DIF,,,36:26,2,Slashing,35:13,"Lindström, Gustav",28,,,,,
+1079005,19791,2nd period,26:21,goal,DIF,"22 , 32 , 40 , 42 , 49","14 , 38 , 53 , 61 , 74 , 82",,,,,"Sissons, Colby",82,"Eklund, Victor",38,"Björck, Viggo",61,1-1 (PP1)
+1079005,19791,2nd period,24:25,penalty,MIF,,,26:21,2,Too many players on the ice,24:25,,,,,,,
+1079005,19791,1st period,18:37,goal,MIF,"20 , 40 , 42 , 52 , 74 , 82","6 , 7 , 22 , 32 , 40 , 48",,,,,"Ikonen, Joona",32,"Niemelä, Topi",7,"Kuokkanen, Janne",22,0-1 (EQ)
+1079005,19791,1st period,09:43,penalty,MIF,,,11:43,2,Too many players on the ice,09:43,,,,,,,
+1079005,19791,1st period,00:00,gk_in,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079005,19791,1st period,00:00,gk_in,DIF,,,,,,,"Marmenlind, Daniel",74,,,,,
+1079006,19791,3rd period,60:00,gk_out,ÖHK,,,,,,,"Enroth, Jhonas",1,,,,,
+1079006,19791,3rd period,57:57,unknown,LHF,,,,,,,,,,,,,
+1079006,19791,3rd period,56:45,gk_out,LHF,,,,,,,"Ward, Matteus",31,,,,,
+1079006,19791,3rd period,52:10,goal,ÖHK,"13 , 31 , 39 , 67 , 72 , 82","1 , 5 , 7 , 23 , 72 , 80",,,,,"Miketinac, Kalle",80,"Ylönen, Jesse",72,"Karlkvist, Patrik",89,1-3 (EQ)
+1079006,19791,3rd period,46:57,goal,ÖHK,"13 , 27 , 31 , 67 , 82 , 86","1 , 6 , 9 , 21 , 72 , 80",,,,,"Miketinac, Kalle",80,"Berglund, Filip",6,"Puistola, Patrik",21,1-2 (EQ)
+1079006,19791,3rd period,41:56,goal,LHF,"1 , 5 , 7 , 12 , 23 , 33","24 , 27 , 29 , 31 , 76 , 96",,,,,"Levtchi, Anton",76,"Andreasson, Pontus",96,,,1-1 (EQ)
+1079006,19791,2nd period,40:00,penalty,LHF,,,,2,Unsportsmanlike Conduct,,"Nurmi, Markus",51,,,,,
+1079006,19791,2nd period,40:00,penalty,ÖHK,,,,2,Unsportsmanlike Conduct,,"Berglund, Filip",6,,,,,
+1079006,19791,2nd period,40:00,penalty,ÖHK,,,,2,Roughing,,"Berglund, Filip",6,,,,,
+1079006,19791,2nd period,40:00,penalty,LHF,,,,2,Roughing,,"Nurmi, Markus",51,,,,,
+1079006,19791,2nd period,39:49,penalty,LHF,,,41:49,2,Boarding,39:49,"Shinnimin, Brendan",24,,,,,
+1079006,19791,2nd period,37:48,penalty,ÖHK,,,39:48,2,Hooking,37:48,"Gustafsson, Glenn",37,,,,,
+1079006,19791,2nd period,35:58,goal,ÖHK,"13 , 29 , 31 , 32 , 86","1 , 11 , 21 , 55 , 72 , 89",,,,,"Kossila, Kalle",11,"Quenneville, David",55,"Karlkvist, Patrik",89,0-1 (PP1)
+1079006,19791,2nd period,35:28,penalty,LHF,,,35:58,2,Tripping,35:28,"Laaksonen, Oskari",27,,,,,
+1079006,19791,2nd period,30:36,penalty,LHF,,,32:36,2,Crosschecking,30:36,"O'neill, Brian",91,,,,,
+1079006,19791,1st period,11:38,penalty,LHF,,,13:38,2,Hooking,11:38,"Omark, Linus",67,,,,,
+1079006,19791,1st period,00:00,gk_in,ÖHK,,,,,,,"Enroth, Jhonas",1,,,,,
+1079006,19791,1st period,00:00,gk_in,LHF,,,,,,,"Ward, Matteus",31,,,,,
+1079007,19791,3rd period,60:00,gk_out,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079007,19791,3rd period,59:00,unknown,DIF,,,,,,,,,,,,,
+1079007,19791,3rd period,58:32,gk_out,DIF,,,,,,,"Hellberg, Magnus",35,,,,,
+1079007,19791,3rd period,56:10,penalty,DIF,,,,2,Slashing,,"Pettersen, Mathias",20,,,,,
+1079007,19791,3rd period,56:10,penalty,MIF,,,,2,Diving or embellishment,,"Niemelä, Topi",7,,,,,
+1079007,19791,3rd period,55:20,goal,MIF,"14 , 29 , 35 , 38 , 52 , 82","10 , 24 , 40 , 42 , 49 , 71",,,,,"Von Barnekow, William",10,"Barton, Seth",49,"Salo, Robin",42,2-1 (EQ)
+1079007,19791,3rd period,49:01,goal,DIF,"6 , 7 , 12 , 13 , 40 , 78","20 , 28 , 35 , 40 , 53 , 82",,,,,"Josefson, Jacob",40,"Blomgren, David",53,"Lindström, Gustav",28,1-1 (EQ)
+1079007,19791,2nd period,34:40,penalty,DIF,,,36:40,2,Hooking,34:40,"Josefson, Jacob",40,,,,,
+1079007,19791,2nd period,23:35,penalty,MIF,,,25:35,2,Hooking,23:35,"Kuokkanen, Janne",22,,,,,
+1079007,19791,2nd period,21:21,penalty,DIF,,,23:21,2,Too many players on the ice,21:21,,,,,,,
+1079007,19791,1st period,20:00,penalty,DIF,,,,2,Unsportsmanlike Conduct,,"Salsten, Håvard",29,,,,,
+1079007,19791,1st period,20:00,penalty,DIF,,,,2,Unsportsmanlike Conduct,,"Pettersson, Jesper",37,,,,,
+1079007,19791,1st period,20:00,penalty,MIF,,,,2,Unsportsmanlike Conduct,,"Händemark, Fredrik",63,,,,,
+1079007,19791,1st period,20:00,penalty,MIF,,,,2,Unsportsmanlike Conduct,,"Niemelä, Topi",7,,,,,
+1079007,19791,1st period,02:28,goal,MIF,"24 , 26 , 28 , 35 , 42 , 45","10 , 24 , 40 , 42 , 49 , 71",,,,,"Björkman, Filip",24,"Von Barnekow, William",10,,,1-0 (EQ)
+1079007,19791,1st period,00:00,gk_in,DIF,,,,,,,"Hellberg, Magnus",35,,,,,
+1079007,19791,1st period,00:00,gk_in,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079008,19791,3rd period,60:00,gk_out,LHF,,,,,,,"Ward, Matteus",31,,,,,
+1079008,19791,3rd period,59:22,gk_out,ÖHK,,,,,,,"Enroth, Jhonas",1,,,,,
+1079008,19791,3rd period,56:31,gk_in,ÖHK,,,,,,,"Enroth, Jhonas",1,,,,,
+1079008,19791,3rd period,56:31,penalty,ÖHK,,,58:31,2,Interference,56:31,"Puistola, Patrik",21,,,,,
+1079008,19791,3rd period,56:03,gk_out,ÖHK,,,,,,,"Enroth, Jhonas",1,,,,,
+1079008,19791,3rd period,56:03,unknown,ÖHK,,,,,,,,,,,,,
+1079008,19791,3rd period,50:24,penalty,LHF,,,52:24,2,Hooking,50:24,"Laaksonen, Oskari",27,,,,,
+1079008,19791,3rd period,43:58,goal,LHF,"1 , 6 , 7 , 11 , 77 , 89","24 , 27 , 31 , 39 , 72 , 91",,,,,"Tardif, Ben",72,"O'neill, Brian",91,"Shinnimin, Brendan",24,4-2 (EQ)
+1079008,19791,2nd period,24:20,penalty,LHF,,,26:20,2,Delay of game,24:20,"Ward, Matteus",31,,,,,
+1079008,19791,1st period,18:35,goal,LHF,"1 , 6 , 9 , 33 , 37 , 46","24 , 31 , 32 , 39 , 72 , 91",,,,,"Tardif, Ben",72,,,,,3-2 (EQ)
+1079008,19791,1st period,18:09,goal,ÖHK,"13 , 25 , 29 , 31 , 39 , 86","1 , 11 , 28 , 55 , 77 , 89",,,,,"Kossila, Kalle",11,"Turunen, Teemu",77,"Quenneville, David",55,2-2 (EQ)
+1079008,19791,1st period,17:43,goal,LHF,"1 , 5 , 7 , 29 , 80","27 , 31 , 51 , 67 , 76 , 96",,,,,"Omark, Linus",67,"Laaksonen, Oskari",27,"Levtchi, Anton",76,2-1 (PP1)
+1079008,19791,1st period,16:09,penalty,ÖHK,,,17:43,2,High Sticking,16:09,"Berglund, Filip",6,,,,,
+1079008,19791,1st period,06:45,goal,LHF,"1 , 5 , 7 , 21 , 23 , 80","3 , 29 , 31 , 51 , 76 , 96",,,,,"Levtchi, Anton",76,"Andreasson, Pontus",96,"Nurmi, Markus",51,1-1 (EQ)
+1079008,19791,1st period,02:59,goal,ÖHK,"3 , 24 , 27 , 31 , 72 , 91","1 , 5 , 7 , 11 , 77 , 89",,,,,"Kossila, Kalle",11,"Backström, Gustav",5,"Turunen, Teemu",77,0-1 (EQ)
+1079008,19791,1st period,00:00,gk_in,ÖHK,,,,,,,"Enroth, Jhonas",1,,,,,
+1079008,19791,1st period,00:00,gk_in,LHF,,,,,,,"Ward, Matteus",31,,,,,
+1079009,19791,3rd period,60:00,gk_out,DIF,,,,,,,"Hellberg, Magnus",35,,,,,
+1079009,19791,3rd period,60:00,gk_out,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079009,19791,3rd period,59:53,gk_in,DIF,,,,,,,"Hellberg, Magnus",35,,,,,
+1079009,19791,3rd period,59:49,goal,DIF,"4 , 12 , 40 , 74 , 78 , 95","21 , 24 , 28 , 52 , 53 , 89",,,,,"Rensfeldt, Ludvig",24,"Laleggia, Joseph",21,"Holm, Philip",52,3-1 (EQ)
+1079009,19791,3rd period,57:33,gk_out,DIF,,,,,,,"Hellberg, Magnus",35,,,,,
+1079009,19791,3rd period,57:08,gk_in,DIF,,,,,,,"Hellberg, Magnus",35,,,,,
+1079009,19791,3rd period,57:08,goal,MIF,"7 , 14 , 38 , 55 , 61 , 82","10 , 32 , 40 , 42 , 49 , 63",,,,,"Ikonen, Joona",32,,,,,3-0 (EQ) ENG
+1079009,19791,3rd period,56:47,unknown,DIF,,,,,,,,,,,,,
+1079009,19791,3rd period,56:42,gk_out,DIF,,,,,,,"Hellberg, Magnus",35,,,,,
+1079009,19791,3rd period,52:03,goal,MIF,"24 , 35 , 45 , 53 , 82","7 , 10 , 12 , 40 , 78 , 91",,,,,"Sundberg, Axel",91,"Niemelä, Topi",7,"Hanzl, Robin",78,2-0 (PP1)
+1079009,19791,3rd period,51:00,penalty,DIF,,,52:03,2,Crosschecking,51:00,"Pettersen, Mathias",20,,,,,
+1079009,19791,3rd period,44:05,penalty,DIF,,,46:05,2,Tripping,44:05,"Holm, Philip",52,,,,,
+1079009,19791,2nd period,38:06,penalty,MIF,,,40:06,2,Unsportsmanlike Conduct,38:06,"Persson, Carl",95,,,,,
+1079009,19791,2nd period,38:06,penalty,MIF,,,,2,Roughing,,"Persson, Carl",95,,,,,
+1079009,19791,2nd period,38:06,penalty,DIF,,,,2,Crosschecking,,"Eklund, Victor",38,,,,,
+1079009,19791,2nd period,37:12,penalty,MIF,,,,2,Roughing,,"Schreiber, Martin",4,,,,,
+1079009,19791,2nd period,37:12,penalty,DIF,,,,2,Roughing,,"Pettersen, Mathias",20,,,,,
+1079009,19791,2nd period,27:55,goal,MIF,"14 , 21 , 28 , 29 , 35 , 38","6 , 10 , 24 , 40 , 42 , 71",,,,,"Von Barnekow, William",10,"Nilsson, Isac",71,"Viro, Eemil",6,1-0 (EQ)
+1079009,19791,2nd period,22:19,penalty,DIF,,,24:19,2,Slashing,22:19,"Blixt, Hugo",45,,,,,
+1079009,19791,1st period,06:15,penalty,DIF,,,08:15,2,Tripping,06:15,"Eklund, Victor",38,,,,,
+1079009,19791,1st period,00:00,gk_in,DIF,,,,,,,"Hellberg, Magnus",35,,,,,
+1079009,19791,1st period,00:00,gk_in,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079010,19791,3rd period,60:00,gk_out,SKE,,,,,,,"Söderström, Linus",32,,,,,
+1079010,19791,3rd period,60:00,gk_out,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079010,19791,3rd period,59:06,penalty,MIF,,,,2,Unsportsmanlike Conduct,,"Björkman, Filip",24,,,,,
+1079010,19791,3rd period,59:06,penalty,SKE,,,,2,Unsportsmanlike Conduct,,"Krogdahl, Max",43,,,,,
+1079010,19791,3rd period,58:36,gk_in,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079010,19791,3rd period,58:36,goal,SKE,"11 , 42 , 63 , 78 , 91 , 95","3 , 8 , 14 , 22 , 25 , 32",,,,,"Johnson, Andreas",14,"Okuliar, Oliver",8,,,4-1 (EQ) ENG
+1079010,19791,3rd period,57:48,gk_out,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079010,19791,3rd period,52:22,penalty,MIF,,,54:22,2,Tripping,52:22,"Schreiber, Martin",4,,,,,
+1079010,19791,3rd period,51:39,goal,SKE,"4 , 40 , 63 , 74 , 91 , 95","8 , 22 , 32 , 43 , 57 , 71",,,,,"Djuse, Emil",57,"Okuliar, Oliver",8,"Davidsson, Jonathan",71,3-1 (EQ)
+1079010,19791,2nd period,39:24,penalty,SKE,,,,2,Roughing,,"Pudas, Jonathan",64,,,,,
+1079010,19791,2nd period,39:24,penalty,MIF,,,,2,Roughing,,"Pajuniemi, Lauri",48,,,,,
+1079010,19791,2nd period,38:21,goal,SKE,"6 , 32 , 40 , 42 , 78","22 , 24 , 29 , 32 , 64 , 96",,,,,"Aagaard, Mikkel",29,"Lindberg, Oscar",24,"Pudas, Jonathan",64,2-1 (PP1)
+1079010,19791,2nd period,37:26,penalty,MIF,,,38:21,2,Hooking,37:26,"Kuokkanen, Janne",22,,,,,
+1079010,19791,2nd period,26:30,goal,SKE,"6 , 7 , 10 , 24 , 40 , 71","8 , 22 , 25 , 32 , 52 , 71",,,,,"Johnson, Jonathan",22,"Okuliar, Oliver",8,"Davidsson, Jonathan",71,1-1 (EQ)
+1079010,19791,2nd period,26:15,goal,MIF,"12 , 32 , 33 , 43 , 57 , 72","11 , 22 , 32 , 40 , 48 , 74",,,,,"Pajuniemi, Lauri",48,"Nilsson, Isac",71,"Carell, Felix",74,0-1 (EQ)
+1079010,19791,1st period,00:00,gk_in,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079010,19791,1st period,00:00,gk_in,SKE,,,,,,,"Söderström, Linus",32,,,,,
+1079013,19791,1st overtime,67:05,goal,LHF,"7 , 12 , 30 , 31 , 33","27 , 31 , 51 , 67 , 76 , 96",,,,,"Levtchi, Anton",76,"Laaksonen, Oskari",27,"Andreasson, Pontus",96,2-3 (PP1)
+1079013,19791,1st overtime,67:05,gk_out,FRÖ,,,,,,,"Normann, Tobias",30,,,,,
+1079013,19791,1st overtime,67:05,gk_out,LHF,,,,,,,"Ward, Matteus",31,,,,,
+1079013,19791,1st overtime,66:25,penalty,FRÖ,,,67:05,2,Tripping,66:25,"Nilsson, Tom",43,,,,,
+1079013,19791,3rd period,57:24,penalty,LHF,,,59:24,2,Too many players on the ice,57:24,,,,,,,
+1079013,19791,3rd period,44:12,unknown,LHF,,,,,,,,,,,,,
+1079013,19791,3rd period,43:01,goal,FRÖ,"3 , 6 , 9 , 25 , 29 , 31","7 , 8 , 27 , 30 , 41 , 44",,,,,"Dower Nilsson, Noah",44,"Stenberg, Ivar",41,"Niederbach, Theodor",27,2-2 (EQ)
+1079013,19791,2nd period,34:07,goal,LHF,"7 , 8 , 27 , 30 , 41 , 92","6 , 9 , 25 , 27 , 31 , 82",,,,,"Hedqvist, Isac",6,"Laaksonen, Oskari",27,,,1-2 (EQ)
+1079013,19791,2nd period,29:06,penalty,LHF,,,31:06,2,Tripping,29:06,"O'neill, Brian",91,,,,,
+1079013,19791,2nd period,29:06,penalty,LHF,,,,2,Roughing,,"Tardif, Ben",72,,,,,
+1079013,19791,2nd period,29:06,penalty,FRÖ,,,,2,Roughing,,"Folin, Christian",2,,,,,
+1079013,19791,1st period,19:50,penalty,FRÖ,,,21:50,2,Holding,19:50,"Nilsson, Tom",43,,,,,
+1079013,19791,1st period,13:19,goal,FRÖ,"13 , 31 , 32 , 39 , 86","7 , 11 , 21 , 30 , 31 , 92",,,,,"Cederqvist, Filip",92,"Lindholm, Max",11,"Tömmernes, Henrik",7,1-1 (PP1)
+1079013,19791,1st period,12:09,penalty,LHF,,,13:19,2,High Sticking,12:09,"Hedqvist, Isac",6,,,,,
+1079013,19791,1st period,08:20,goal,LHF,"27 , 30 , 33 , 41 , 43 , 44","13 , 27 , 31 , 67 , 82 , 86",,,,,"Koivistoinen, Eetu",13,"Omark, Linus",67,"Bromé, Mathias",86,0-1 (EQ)
+1079013,19791,1st period,00:00,gk_in,LHF,,,,,,,"Ward, Matteus",31,,,,,
+1079013,19791,1st period,00:00,gk_in,FRÖ,,,,,,,"Normann, Tobias",30,,,,,
+1079011,19791,3rd period,60:00,penalty,RBK,,,60:00,20,Game Misconduct,00:00,"Friedman, Mark",95,,,,,
+1079011,19791,3rd period,60:00,gk_out,FBK,,,,,,,"Thelin, Melker",35,,,,,
+1079011,19791,3rd period,59:40,unknown,RBK,,,,,,,,,,,,,
+1079011,19791,3rd period,59:15,gk_out,RBK,,,,,,,"Rifalk, Christoffer",65,,,,,
+1079011,19791,3rd period,55:35,unknown,FBK,,,,,,,"Tomasek, David",96,"Rifalk, Christoffer",65,,,
+1079011,19791,3rd period,55:35,unknown,RBK,,,,,,,,,,,,,
+1079011,19791,3rd period,48:35,goal,RBK,"13 , 15 , 29 , 32 , 35 , 73","6 , 27 , 37 , 51 , 65 , 72",,,,,"Zaar, Daniel",72,,,,,1-2 (EQ)
+1079011,19791,3rd period,43:32,goal,FBK,"6 , 8 , 18 , 28 , 51 , 65","7 , 15 , 29 , 35 , 48 , 59",,,,,"Bergkvist, Axel",7,"Berglund, Jack",15,"Johansson, Linus",59,0-2 (EQ)
+1079011,19791,2nd period,29:20,penalty,FBK,,,31:20,2,High Sticking,29:20,"Berglund, Jack",15,,,,,
+1079011,19791,2nd period,25:02,goal,FBK,"22 , 45 , 52 , 58 , 62 , 65","7 , 15 , 29 , 35 , 48 , 59",,,,,"Johansson, Linus",59,"Bergkvist, Axel",7,"Roos, Filip",48,0-1 (EQ)
+1079011,19791,1st period,19:51,penalty,RBK,,,,2,Roughing,,"Friedman, Mark",95,,,,,
+1079011,19791,1st period,19:51,penalty,FBK,,,,2,Holding,,"Johansson, Linus",59,,,,,
+1079011,19791,1st period,13:56,penalty,RBK,,,15:56,2,Too many players on the ice,13:56,,,,,,,
+1079011,19791,1st period,04:49,penalty,RBK,,,,2,Roughing,,"Dickinson, Josh",23,,,,,
+1079011,19791,1st period,04:49,penalty,FBK,,,,2,Roughing,,"Tomasek, David",96,,,,,
+1079011,19791,1st period,00:00,gk_in,FBK,,,,,,,"Thelin, Melker",35,,,,,
+1079011,19791,1st period,00:00,gk_in,RBK,,,,,,,"Rifalk, Christoffer",65,,,,,
+1079012,19791,3rd period,60:00,gk_out,BIF,,,,,,,"Källgren, Erik",31,,,,,
+1079012,19791,3rd period,60:00,gk_out,VÄX,,,,,,,"Åhman, Adam",70,,,,,
+1079012,19791,3rd period,55:32,goal,BIF,"8 , 10 , 21 , 62 , 70","10 , 23 , 28 , 31 , 47 , 81",,,,,"Kinnvall, Johannes",28,,,,,6-2 (PP1)
+1079012,19791,3rd period,53:47,penalty,VÄX,,,55:32,2,Tripping,53:47,"Lowe, Keegan",4,,,,,
+1079012,19791,3rd period,52:53,unknown,BIF,,,,,,,,,,,,,
+1079012,19791,3rd period,52:53,goal,VÄX,"5 , 27 , 31 , 41 , 47 , 52","10 , 11 , 24 , 28 , 49 , 70",,,,,"Gustafsson, Hugo",28,"Henriksson, Karl",24,,,6-1 (EQ)
+1079012,19791,3rd period,52:38,goal,VÄX,"10 , 14 , 29 , 31 , 33 , 81","21 , 25 , 40 , 62 , 70 , 94",,,,,"Rasmussen, Dennis",40,"Persson, Joel",94,"Cooper, Brian",21,5-1 (EQ)
+1079012,19791,3rd period,48:34,goal,VÄX,"18 , 19 , 23 , 27 , 28 , 31","21 , 25 , 40 , 62 , 70 , 94",,,,,"Elvenes, Lucas",25,"Ågren, Manuel",62,,,4-1 (EQ)
+1079012,19791,3rd period,47:45,goal,VÄX,"8 , 14 , 15 , 31 , 36","13 , 24 , 49 , 69 , 70 , 91",,,,,"Anderberg, Morgan",69,"Sahlin Wallenius, Leo",49,"Mclaughlin, Dylan",13,3-1 (PP1)
+1079012,19791,3rd period,45:55,penalty,BIF,,,47:45,2,Slashing,45:55,"Rödin, Anton",18,,,,,
+1079012,19791,3rd period,45:17,goal,VÄX,"5 , 18 , 29 , 31 , 41","11 , 19 , 25 , 40 , 70 , 94",,,,,"Gardiner, Reid",19,"Elvenes, Lucas",25,"Persson, Joel",94,2-1 (PP1)
+1079012,19791,3rd period,44:54,penalty,BIF,,,45:17,2,Hooking,44:54,"Hägg, Robert",14,,,,,
+1079012,19791,2nd period,39:59,goal,BIF,"6 , 21 , 24 , 40 , 70","10 , 23 , 28 , 31 , 47 , 81",,,,,"Larsson, Johan",10,"Bellows, Kieffer",81,"Pettersson, Lucas",47,1-1 (PP1)
+1079012,19791,2nd period,38:34,penalty,VÄX,,,39:59,2,Delay of game,38:34,"Anderberg, Morgan",69,,,,,
+1079012,19791,2nd period,28:51,penalty,BIF,,,,2,Roughing,,"Trivigno, Bobby",8,,,,,
+1079012,19791,2nd period,28:51,penalty,VÄX,,,,2,Roughing,,"Lowe, Keegan",4,,,,,
+1079012,19791,2nd period,26:20,penalty,VÄX,,,28:20,2,High Sticking,26:20,"Persson, Joel",94,,,,,
+1079012,19791,1st period,15:23,penalty,BIF,,,17:23,2,Hooking,15:23,"Pettersson, Lucas",47,,,,,
+1079012,19791,1st period,07:19,goal,VÄX,"10 , 27 , 29 , 31 , 33 , 81","4 , 6 , 10 , 24 , 28 , 70",,,,,"Henriksson, Karl",24,"Gustafsson, Hugo",28,"Granberg, Petter",6,1-0 (EQ)
+1079012,19791,1st period,00:00,gk_in,BIF,,,,,,,"Källgren, Erik",31,,,,,
+1079012,19791,1st period,00:00,gk_in,VÄX,,,,,,,"Åhman, Adam",70,,,,,
+1079014,19791,3rd period,60:00,gk_out,SKE,,,,,,,"Mann, Strauss",38,,,,,
+1079014,19791,3rd period,60:00,gk_out,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079014,19791,3rd period,59:55,gk_in,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079014,19791,3rd period,59:49,goal,SKE,"7 , 40 , 42 , 63 , 91 , 95","14 , 15 , 22 , 38 , 43 , 57",,,,,"Bryggman, Lars",15,"Krogdahl, Max",43,"Johnson, Andreas",14,3-2 (EQ)
+1079014,19791,3rd period,59:49,gk_out,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079014,19791,3rd period,59:49,unknown,MIF,,,,,,,,,,,,,
+1079014,19791,3rd period,55:05,goal,SKE,"6 , 7 , 12 , 32 , 40 , 78","3 , 8 , 22 , 25 , 38 , 71",,,,,"Grahn, Viktor",3,"Davidsson, Jonathan",71,"Johnson, Jonathan",22,2-2 (EQ)
+1079014,19791,3rd period,41:34,goal,SKE,"11 , 12 , 40 , 42 , 78 , 95","3 , 24 , 29 , 38 , 64 , 96",,,,,"Lindberg, Oscar",24,"Aagaard, Mikkel",29,"Pudas, Jonathan",64,1-2 (EQ)
+1079014,19791,2nd period,38:39,goal,MIF,"15 , 24 , 25 , 29 , 38 , 52","7 , 12 , 13 , 40 , 42 , 78",,,,,"Öberg, Linus",12,"Hanzl, Robin",78,"Vesterheim, Petter",13,0-2 (EQ)
+1079014,19791,2nd period,35:12,goal,MIF,"3 , 8 , 22 , 38 , 64 , 71","12 , 13 , 40 , 42 , 74 , 78",,,,,"Vesterheim, Petter",13,"Öberg, Linus",12,"Carell, Felix",74,0-1 (EQ)
+1079014,19791,1st period,15:58,penalty,SKE,,,,2,Roughing,,"Okuliar, Oliver",8,,,,,
+1079014,19791,1st period,15:58,penalty,MIF,,,,2,Roughing,,"Niemelä, Topi",7,,,,,
+1079014,19791,1st period,02:58,penalty,MIF,,,04:58,2,Hooking,02:58,"Händemark, Fredrik",63,,,,,
+1079014,19791,1st period,00:20,penalty,SKE,,,02:20,2,Interference,00:20,"Johnson, Jonathan",22,,,,,
+1079014,19791,1st period,00:00,gk_in,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079014,19791,1st period,00:00,gk_in,SKE,,,,,,,"Mann, Strauss",38,,,,,
+1079017,19791,3rd period,60:00,penalty,LHF,,,60:00,20,Game Misconduct,00:00,"Koivistoinen, Eetu",13,,,,,
+1079017,19791,3rd period,60:00,gk_out,LHF,,,,,,,"Lassinantti, Joel",34,,,,,
+1079017,19791,3rd period,60:00,gk_out,FRÖ,,,,,,,"Normann, Tobias",30,,,,,
+1079017,19791,3rd period,58:31,penalty,LHF,,,,2,Roughing,,"Liedes, Heikki",9,,,,,
+1079017,19791,3rd period,58:31,penalty,FRÖ,,,,2,Roughing,,"Egli, Dominik",46,,,,,
+1079017,19791,3rd period,54:39,goal,FRÖ,"13 , 32 , 34 , 39 , 86","25 , 27 , 30 , 33 , 41 , 44",,,,,"Ruotsalainen, Arttu",25,"Stenberg, Ivar",41,"Dower Nilsson, Noah",44,7-0 (PP1)
+1079017,19791,3rd period,52:22,penalty,LHF,,,60:00,20,Game Misconduct,57:22,"Shinnimin, Brendan",24,,,,,
+1079017,19791,3rd period,52:22,penalty,LHF,,,57:22,5,Crosschecking,52:22,"Shinnimin, Brendan",24,,,,,
+1079017,19791,3rd period,52:17,goal,FRÖ,"9 , 25 , 29 , 34 , 39","25 , 27 , 30 , 33 , 41 , 44",,,,,"Niederbach, Theodor",27,"Ruotsalainen, Arttu",25,"Stenberg, Ivar",41,6-0 (PP1)
+1079017,19791,3rd period,51:49,penalty,LHF,,,52:17,2,Crosschecking,51:49,"Hedqvist, Isac",6,,,,,
+1079017,19791,3rd period,49:27,goal,FRÖ,"6 , 9 , 15 , 27 , 34 , 82","11 , 21 , 25 , 30 , 33 , 43",,,,,"Innala, Jere",21,"Ruotsalainen, Arttu",25,"Lindholm, Max",11,5-0 (EQ)
+1079017,19791,3rd period,48:08,penalty,FRÖ,,,,2,Slashing,,"Tömmernes, Henrik",7,,,,,
+1079017,19791,3rd period,48:08,penalty,LHF,,,60:00,20,Game Misconduct,00:00,"Nurmi, Markus",51,,,,,
+1079017,19791,3rd period,48:08,penalty,LHF,,,,2,Roughing,,"Nurmi, Markus",51,,,,,
+1079017,19791,3rd period,48:08,penalty,LHF,,,,2,Roughing,,"Hedqvist, Isac",6,,,,,
+1079017,19791,3rd period,48:08,penalty,LHF,,,,2,Roughing,,"Andreasson, Pontus",96,,,,,
+1079017,19791,3rd period,48:08,penalty,FRÖ,,,,2,Roughing,,"Hasa, Noah",32,,,,,
+1079017,19791,3rd period,48:08,penalty,FRÖ,,,,2,Roughing,,"Tömmernes, Henrik",7,,,,,
+1079017,19791,3rd period,47:00,penalty,FRÖ,,,49:00,2,Slashing,47:00,"Innala, Jere",21,,,,,
+1079017,19791,3rd period,43:50,penalty,LHF,,,45:50,2,High Sticking,43:50,"Levtchi, Anton",76,,,,,
+1079017,19791,2nd period,39:07,penalty,FRÖ,,,41:07,2,Holding,39:07,"Dower Nilsson, Noah",44,,,,,
+1079017,19791,2nd period,33:08,goal,FRÖ,"6 , 9 , 25 , 29 , 34 , 39","12 , 30 , 33 , 40 , 43 , 92",,,,,"Cederqvist, Filip",92,"Peterson, Jacob",40,"Friberg, Max",12,4-0 (EQ)
+1079017,19791,2nd period,28:45,penalty,LHF,,,30:45,2,Hooking,28:45,"Omark, Linus",67,,,,,
+1079017,19791,2nd period,26:13,gk_in,LHF,,,,,,,"Lassinantti, Joel",34,,,,,
+1079017,19791,2nd period,26:13,goal,FRÖ,"6 , 9 , 25 , 29 , 31 , 39","2 , 12 , 26 , 30 , 40 , 92",,,,,"Friberg, Max",12,"Peterson, Jacob",40,"Cederqvist, Filip",92,3-0 (EQ)
+1079017,19791,2nd period,26:13,gk_out,LHF,,,,,,,"Ward, Matteus",31,,,,,
+1079017,19791,1st period,16:53,penalty,LHF,,,18:53,2,Holding the stick,16:53,"Nurmi, Markus",51,,,,,
+1079017,19791,1st period,16:19,penalty,FRÖ,,,18:19,2,Too many players on the ice,16:19,,,,,,,
+1079017,19791,1st period,15:40,goal,FRÖ,"13 , 31 , 32 , 39 , 86","7 , 11 , 21 , 30 , 40 , 92",,,,,"Cederqvist, Filip",92,"Tömmernes, Henrik",7,"Innala, Jere",21,2-0 (PP1)
+1079017,19791,1st period,15:20,penalty,LHF,,,15:40,2,Hooking,15:20,"Laaksonen, Oskari",27,,,,,
+1079017,19791,1st period,12:18,goal,FRÖ,"13 , 29 , 31 , 39 , 67 , 86","7 , 8 , 12 , 30 , 40 , 92",,,,,"Friberg, Max",12,"Cederqvist, Filip",92,"Peterson, Jacob",40,1-0 (EQ)
+1079017,19791,1st period,00:00,gk_in,LHF,,,,,,,"Ward, Matteus",31,,,,,
+1079017,19791,1st period,00:00,gk_in,FRÖ,,,,,,,"Normann, Tobias",30,,,,,
+1079015,19791,1st overtime,64:35,goal,FBK,"28 , 37 , 45 , 65 , 95","7 , 22 , 33 , 67 , 71 , 96",,,,,"Tomasek, David",96,"Åslund, Per",22,"Zohorna, Radim",67,5-6 (PP1)
+1079015,19791,1st overtime,64:35,gk_out,RBK,,,,,,,"Rifalk, Christoffer",65,,,,,
+1079015,19791,1st overtime,64:35,gk_out,FBK,,,,,,,"Larmi, Emil",33,,,,,
+1079015,19791,1st overtime,64:03,penalty,RBK,,,64:35,2,Interference,64:03,"Bristedt, Leon",67,,,,,
+1079015,19791,1st overtime,62:17,penalty,FBK,,,64:17,2,Holding,62:17,"Lodin, Viktor",71,,,,,
+1079015,19791,3rd period,47:32,goal,FBK,"24 , 51 , 65 , 67 , 72 , 83","13 , 27 , 29 , 33 , 74 , 98",,,,,"Studenic, Marian",98,"Kellman, Joel",13,,,5-5 (EQ)
+1079015,19791,3rd period,44:51,penalty,FBK,,,46:51,2,Charging,44:51,"Lodin, Viktor",71,,,,,
+1079015,19791,3rd period,43:32,goal,FBK,"24 , 45 , 65 , 67 , 72 , 83","28 , 32 , 33 , 59 , 73 , 92",,,,,"Alba, Emil",28,"Johansson, Linus",59,"Forsell, Lucas",92,5-4 (EQ)
+1079015,19791,2nd period,37:21,penalty,FBK,,,39:21,2,Roughing,37:21,"Johansson, Linus",59,,,,,
+1079015,19791,2nd period,37:21,penalty,FBK,,,,2,Slashing,,"Johansson, Linus",59,,,,,
+1079015,19791,2nd period,37:21,penalty,RBK,,,,2,Roughing,,"Olofsson, Fredrik",22,,,,,
+1079015,19791,2nd period,36:40,penalty,RBK,,,,2,Diving or embellishment,,"Friedman, Mark",95,,,,,
+1079015,19791,2nd period,36:40,penalty,FBK,,,,2,Charging,,"Lodin, Viktor",71,,,,,
+1079015,19791,2nd period,32:45,penalty,FBK,,,34:45,2,Crosschecking,32:45,"Steen, Oskar",29,,,,,
+1079015,19791,2nd period,27:38,goal,FBK,65,96,,,,,"Tomasek, David",96,,,,,5-3 (PS)
+1079015,19791,2nd period,27:38,unknown,RBK,,,,,,,,,,,,,
+1079015,19791,2nd period,25:47,goal,FBK,"8 , 18 , 24 , 28 , 51 , 65","7 , 33 , 48 , 71 , 92 , 96",,,,,"Tomasek, David",96,"Lodin, Viktor",71,"Bergkvist, Axel",7,5-2 (EQ)
+1079015,19791,2nd period,21:50,penalty,RBK,,,23:50,2,Crosschecking,21:50,"Bristedt, Leon",67,,,,,
+1079015,19791,2nd period,21:50,penalty,RBK,,,,2,Roughing,,"Zaar, Daniel",72,,,,,
+1079015,19791,2nd period,21:50,penalty,FBK,,,,2,Roughing,,"Nygård, Joakim",11,,,,,
+1079015,19791,1st period,18:26,goal,FBK,"8 , 18 , 28 , 45 , 65 , 95","32 , 33 , 39 , 67 , 71 , 73",,,,,"Lodin, Viktor",71,"Nygren, Magnus",32,"Philp, Luke",39,5-1 (EQ)
+1079015,19791,1st period,17:55,goal,RBK,"32 , 33 , 39 , 48 , 67","18 , 28 , 51 , 65 , 67 , 83",,,,,"Själin, Calle",51,"Kuhlman, Karson",83,"Everberg, Dennis",18,5-0 (PP1)
+1079015,19791,1st period,16:51,gk_in,FBK,,,,,,,"Larmi, Emil",33,,,,,
+1079015,19791,1st period,16:51,goal,RBK,"32 , 35 , 39 , 73 , 96 , 98","8 , 18 , 24 , 28 , 65 , 95",,,,,"Everberg, Dennis",18,"Göransson, Mattias",24,"Bengtsson, Anton",28,4-0 (EQ)
+1079015,19791,1st period,16:51,penalty,FBK,,,17:55,2,Crosschecking,16:51,"Studenic, Marian",98,,,,,
+1079015,19791,1st period,16:51,gk_out,FBK,,,,,,,"Thelin, Melker",35,,,,,
+1079015,19791,1st period,16:10,goal,RBK,"7 , 11 , 13 , 28 , 35 , 48","27 , 32 , 37 , 45 , 51 , 65",,,,,"Solberg, Isac",32,"Själin, Calle",51,"Sundsvik, Albin",37,3-0 (EQ)
+1079015,19791,1st period,12:44,goal,RBK,"6 , 7 , 22 , 35 , 96 , 98","51 , 58 , 65 , 67 , 72 , 83",,,,,"Själin, Calle",51,"Zaar, Daniel",72,"Johansson, Filip",58,2-0 (EQ)
+1079015,19791,1st period,03:00,goal,RBK,"27 , 35 , 39 , 67 , 71 , 74","6 , 8 , 18 , 28 , 51 , 65",,,,,"Everberg, Dennis",18,"Sandin, Linus",8,,,1-0 (EQ)
+1079015,19791,1st period,00:00,gk_in,FBK,,,,,,,"Thelin, Melker",35,,,,,
+1079015,19791,1st period,00:00,gk_in,RBK,,,,,,,"Rifalk, Christoffer",65,,,,,
+1079016,19791,3rd period,60:00,gk_out,BIF,,,,,,,"Källgren, Erik",31,,,,,
+1079016,19791,3rd period,60:00,gk_out,VÄX,,,,,,,"Åhman, Adam",70,,,,,
+1079016,19791,3rd period,59:20,gk_in,BIF,,,,,,,"Källgren, Erik",31,,,,,
+1079016,19791,3rd period,59:20,penalty,BIF,,,60:00,20,Game Misconduct,64:20,"Lindblom, Oskar",23,,,,,
+1079016,19791,3rd period,59:20,penalty,BIF,,,60:00,5,Slewfooting,59:20,"Lindblom, Oskar",23,,,,,
+1079016,19791,3rd period,58:48,gk_out,BIF,,,,,,,"Källgren, Erik",31,,,,,
+1079016,19791,3rd period,58:33,goal,VÄX,"10 , 18 , 19 , 28 , 33 , 47","11 , 21 , 40 , 62 , 70 , 91",,,,,"Ågren, Manuel",62,"Robert, Felix",91,,,6-4 (EQ) ENG
+1079016,19791,3rd period,58:33,gk_in,BIF,,,,,,,"Källgren, Erik",31,,,,,
+1079016,19791,3rd period,57:46,gk_out,BIF,,,,,,,"Källgren, Erik",31,,,,,
+1079016,19791,3rd period,46:59,goal,BIF,"10 , 17 , 21 , 49 , 70","18 , 19 , 20 , 28 , 31 , 33",,,,,"Silfverberg, Jakob",33,"Vesel, Tyler",20,"Kinnvall, Johannes",28,5-4 (PP1)
+1079016,19791,3rd period,45:40,penalty,VÄX,,,46:59,2,Slashing,45:40,"Rafferty, Brogan",11,,,,,
+1079016,19791,3rd period,42:38,goal,VÄX,"5 , 20 , 27 , 31 , 41 , 52","19 , 21 , 42 , 69 , 70 , 94",,,,,"Kratz, Kalle",42,"Anderberg, Morgan",69,"Cooper, Brian",21,5-3 (EQ)
+1079016,19791,3rd period,42:38,unknown,BIF,,,,,,,,,,,,,
+1079016,19791,3rd period,40:37,goal,VÄX,"10 , 14 , 29 , 31 , 33 , 81","4 , 6 , 25 , 40 , 62 , 70",,,,,"Rasmussen, Dennis",40,"Lowe, Keegan",4,"Elvenes, Lucas",25,4-3 (EQ)
+1079016,19791,2nd period,36:20,goal,BIF,"4 , 6 , 10 , 13 , 24 , 70","15 , 18 , 19 , 23 , 28 , 31",,,,,"Lindblom, Oskar",23,"Rödin, Anton",18,"Kinnvall, Johannes",28,3-3 (EQ)
+1079016,19791,2nd period,31:34,goal,VÄX,"10 , 14 , 29 , 31 , 33 , 81","11 , 25 , 40 , 49 , 62 , 70",,,,,"Sahlin Wallenius, Leo",49,"Ågren, Manuel",62,"Rasmussen, Dennis",40,3-2 (EQ)
+1079016,19791,2nd period,26:26,penalty,BIF,,,28:26,2,Tripping,26:26,"Scott, Greg",41,,,,,
+1079016,19791,2nd period,20:25,goal,VÄX,"10 , 14 , 29 , 31 , 33 , 81","21 , 25 , 40 , 62 , 70 , 94",,,,,"Ågren, Manuel",62,"Persson, Joel",94,"Elvenes, Lucas",25,2-2 (EQ)
+1079016,19791,1st period,16:17,goal,VÄX,"5 , 10 , 27 , 31 , 33 , 81","11 , 13 , 49 , 69 , 70 , 91",,,,,"Robert, Felix",91,"Mclaughlin, Dylan",13,"Anderberg, Morgan",69,1-2 (EQ)
+1079016,19791,1st period,09:52,penalty,VÄX,,,11:52,2,Holding,09:52,"Cooper, Brian",21,,,,,
+1079016,19791,1st period,08:55,goal,BIF,"4 , 6 , 25 , 40 , 62 , 70","15 , 18 , 19 , 23 , 28 , 31",,,,,"Rödin, Anton",18,"Kinnvall, Johannes",28,"Bertilsson, Simon",15,0-2 (EQ)
+1079016,19791,1st period,03:40,goal,BIF,"4 , 6 , 13 , 69 , 70 , 91","8 , 15 , 28 , 31 , 36 , 71",,,,,"Jonsson-Fjällby, Axel",71,"Trivigno, Bobby",8,"Kinnvall, Johannes",28,0-1 (EQ)
+1079016,19791,1st period,00:00,gk_in,BIF,,,,,,,"Källgren, Erik",31,,,,,
+1079016,19791,1st period,00:00,gk_in,VÄX,,,,,,,"Åhman, Adam",70,,,,,
+1079018,19791,3rd period,60:00,gk_out,SKE,,,,,,,"Söderström, Linus",32,,,,,
+1079018,19791,3rd period,60:00,gk_out,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079018,19791,3rd period,59:56,gk_in,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079018,19791,3rd period,59:25,gk_out,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079018,19791,3rd period,58:23,gk_in,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079018,19791,3rd period,58:23,goal,SKE,"22 , 42 , 48 , 63 , 78 , 95","24 , 32 , 33 , 43 , 52 , 96",,,,,"Hugg, Rickard",96,"Forsfjäll, Zeb",33,"Lindberg, Oscar",24,2-4 (EQ) ENG
+1079018,19791,3rd period,57:52,gk_out,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079018,19791,3rd period,57:33,gk_in,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079018,19791,3rd period,57:33,goal,MIF,"3 , 6 , 15 , 27 , 32","22 , 42 , 48 , 63 , 78 , 95",,,,,"Händemark, Fredrik",63,"Kuokkanen, Janne",22,"Hanzl, Robin",78,2-3 (PP1)
+1079018,19791,3rd period,57:24,penalty,SKE,,,57:33,2,Hooking,57:24,"Lundberg, Arvid",52,,,,,
+1079018,19791,3rd period,57:24,gk_out,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079018,19791,3rd period,57:24,unknown,MIF,,,,,,,,,,,,,
+1079018,19791,3rd period,56:38,goal,SKE,"6 , 11 , 12 , 13 , 40 , 78","15 , 22 , 25 , 27 , 32 , 52",,,,,"Johansson, Pontus",25,"Johnson, Jonathan",22,"Lundberg, Arvid",52,1-3 (EQ)
+1079018,19791,3rd period,49:17,penalty,MIF,,,51:17,2,Delay of game,49:17,"Händemark, Fredrik",63,,,,,
+1079018,19791,2nd period,39:29,goal,SKE,"6 , 7 , 12 , 40 , 78","8 , 25 , 32 , 33 , 64",,,,,"Pudas, Jonathan",64,"Forsfjäll, Zeb",33,,,1-2 (EQ)
+1079018,19791,2nd period,39:26,penalty,MIF,,,41:26,2,Slashing,39:26,"Kuokkanen, Janne",22,,,,,
+1079018,19791,2nd period,38:09,penalty,SKE,,,40:09,2,Too many players on the ice,38:09,,,,,,,
+1079018,19791,2nd period,34:59,penalty,SKE,,,36:59,2,High Sticking,34:59,"Johnson, Jonathan",22,,,,,
+1079018,19791,2nd period,33:00,goal,SKE,"7 , 12 , 13 , 22 , 40 , 74","3 , 6 , 24 , 29 , 32 , 96",,,,,"Aagaard, Mikkel",29,"Lindberg, Oscar",24,"Grahn, Viktor",3,1-1 (EQ)
+1079018,19791,2nd period,24:03,penalty,MIF,,,26:03,2,Holding the stick,24:03,"Händemark, Fredrik",63,,,,,
+1079018,19791,1st period,15:01,penalty,SKE,,,17:01,2,Tripping,15:01,"Davidsson, Jonathan",71,,,,,
+1079018,19791,1st period,13:41,penalty,SKE,,,15:41,2,High Sticking,13:41,"Bryggman, Lars",15,,,,,
+1079018,19791,1st period,09:13,goal,MIF,"3 , 6 , 12 , 32 , 33 , 72","4 , 11 , 12 , 13 , 40 , 78",,,,,"Öberg, Linus",12,"Pedrotti, Elia",11,"Vesterheim, Petter",13,1-0 (EQ)
+1079018,19791,1st period,04:29,penalty,SKE,,,06:29,2,Slashing,04:29,"Krogdahl, Max",43,,,,,
+1079018,19791,1st period,00:00,gk_in,SKE,,,,,,,"Söderström, Linus",32,,,,,
+1079018,19791,1st period,00:00,gk_in,MIF,,,,,,,"Blomgren, Oskar",40,,,,,
+1079021,19791,1st overtime,70:24,penalty,FRÖ,,,70:24,2,Unsportsmanlike Conduct,70:24,"Friberg, Max",12,,,,,
+1079021,19791,1st overtime,70:24,penalty,FRÖ,,,80:00,20,Game Misconduct,05:00,"Cederqvist, Filip",92,,,,,
+1079021,19791,1st overtime,70:24,penalty,FRÖ,,,05:00,5,Fighting,00:00,"Cederqvist, Filip",92,,,,,
+1079021,19791,1st overtime,70:24,penalty,LHF,,,80:00,20,Game Misconduct,05:00,"Engsund, Oscar",32,,,,,
+1079021,19791,1st overtime,70:24,penalty,LHF,,,05:00,5,Fighting,00:00,"Engsund, Oscar",32,,,,,
+1079021,19791,1st overtime,70:24,penalty,FRÖ,,,80:00,20,Game Misconduct,05:00,"Egli, Dominik",46,,,,,
+1079021,19791,1st overtime,70:24,penalty,FRÖ,,,05:00,5,Fighting,00:00,"Egli, Dominik",46,,,,,
+1079021,19791,1st overtime,70:24,penalty,LHF,,,80:00,20,Game Misconduct,05:00,"Själin, Pontus",39,,,,,
+1079021,19791,1st overtime,70:24,penalty,LHF,,,05:00,5,Fighting,00:00,"Själin, Pontus",39,,,,,
+1079021,19791,1st overtime,70:24,goal,LHF,"2 , 12 , 30 , 32 , 43","24 , 29 , 31 , 76 , 86 , 91",,,,,"Bromé, Mathias",86,"Shinnimin, Brendan",24,"Gustafsson, Erik",29,2-1 (PP1)
+1079021,19791,1st overtime,70:24,gk_out,FRÖ,,,,,,,"Normann, Tobias",30,,,,,
+1079021,19791,1st overtime,70:24,gk_out,LHF,,,,,,,"Ward, Matteus",31,,,,,
+1079021,19791,1st overtime,68:44,penalty,FRÖ,,,70:24,2,Hooking,68:44,"Lasu, Nicklas",31,,,,,
+1079021,19791,3rd period,57:04,goal,LHF,"2 , 12 , 26 , 30 , 40 , 86","6 , 24 , 27 , 31 , 82 , 91",,,,,"Hedqvist, Isac",6,"O'neill, Brian",91,"Shinnimin, Brendan",24,1-1 (EQ)
+1079021,19791,3rd period,56:25,goal,FRÖ,"25 , 31 , 32 , 39 , 86","25 , 27 , 30 , 33 , 41 , 44",,,,,"Dower Nilsson, Noah",44,"Ruotsalainen, Arttu",25,"Stenberg, Ivar",41,0-1 (PP1)
+1079021,19791,3rd period,54:35,penalty,LHF,,,56:25,2,Hooking,54:35,"Andreasson, Pontus",96,,,,,
+1079021,19791,3rd period,47:14,penalty,FRÖ,,,49:14,2,Hooking,47:14,"Tömmernes, Henrik",7,,,,,
+1079021,19791,2nd period,35:11,penalty,FRÖ,,,37:11,2,Tripping,35:11,"Egli, Dominik",46,,,,,
+1079021,19791,1st period,18:26,penalty,FRÖ,,,20:26,2,Tripping,18:26,"Stenberg, Ivar",41,,,,,
+1079021,19791,1st period,18:16,penalty,LHF,,,20:16,2,Holding,18:16,"Liedes, Heikki",9,,,,,
+1079021,19791,1st period,00:00,gk_in,FRÖ,,,,,,,"Normann, Tobias",30,,,,,
+1079021,19791,1st period,00:00,gk_in,LHF,,,,,,,"Ward, Matteus",31,,,,,
+1079019,19791,3rd period,60:00,gk_out,FBK,,,,,,,"Larmi, Emil",33,,,,,
+1079019,19791,3rd period,58:22,gk_out,RBK,,,,,,,"Holm, Arvid",75,,,,,
+1079019,19791,3rd period,58:13,gk_in,RBK,,,,,,,"Holm, Arvid",75,,,,,
+1079019,19791,3rd period,56:01,gk_out,RBK,,,,,,,"Holm, Arvid",75,,,,,
+1079019,19791,3rd period,55:04,penalty,FBK,,,57:04,2,Tripping,55:04,"Roos, Filip",48,,,,,
+1079019,19791,3rd period,55:04,gk_in,RBK,,,,,,,"Holm, Arvid",75,,,,,
+1079019,19791,3rd period,54:56,gk_out,RBK,,,,,,,"Holm, Arvid",75,,,,,
+1079019,19791,3rd period,54:56,unknown,RBK,,,,,,,,,,,,,
+1079019,19791,2nd period,39:24,penalty,FBK,,,41:24,2,Delay of game,39:24,"Nygren, Magnus",32,,,,,
+1079019,19791,2nd period,32:34,goal,FBK,"22 , 45 , 51 , 62 , 67 , 75","7 , 33 , 48 , 67 , 71 , 96",,,,,"Tomasek, David",96,"Zohorna, Radim",67,"Lodin, Viktor",71,2-0 (EQ)
+1079019,19791,2nd period,29:21,penalty,RBK,,,31:21,2,High Sticking,29:21,"Zaar, Daniel",72,,,,,
+1079019,19791,2nd period,26:10,goal,FBK,"18 , 28 , 44 , 75 , 95","11 , 13 , 29 , 33 , 48 , 98",,,,,"Steen, Oskar",29,"Studenic, Marian",98,"Roos, Filip",48,1-0 (PP1)
+1079019,19791,2nd period,26:04,penalty,RBK,,,26:10,2,Interference,26:04,"Sundsvik, Albin",37,,,,,
+1079019,19791,1st period,13:34,penalty,FBK,,,15:34,2,High Sticking,13:34,"Leivermann, Nick",74,,,,,
+1079019,19791,1st period,08:23,penalty,RBK,,,10:23,2,Interference on the goalkeeper,08:23,"Everberg, Dennis",18,,,,,
+1079019,19791,1st period,00:00,gk_in,RBK,,,,,,,"Holm, Arvid",75,,,,,
+1079019,19791,1st period,00:00,gk_in,FBK,,,,,,,"Larmi, Emil",33,,,,,
+1079020,19791,1st overtime,68:20,gk_out,VÄX,,,,,,,"Åhman, Adam",70,,,,,
+1079020,19791,1st overtime,68:20,gk_out,BIF,,,,,,,"Clara, Damian",45,,,,,
+1079020,19791,1st overtime,68:20,goal,BIF,"21 , 25 , 40 , 62 , 70 , 94","5 , 10 , 14 , 33 , 45 , 81",,,,,"Silfverberg, Jakob",33,"Bellows, Kieffer",81,"Kempny, Michal",5,3-2 (EQ)
+1079020,19791,1st overtime,64:32,penalty,VÄX,,,66:32,2,Too many players on the ice,64:32,,,,,,,
+1079020,19791,3rd period,59:56,gk_in,VÄX,,,,,,,"Åhman, Adam",70,,,,,
+1079020,19791,3rd period,59:56,goal,VÄX,"14 , 15 , 18 , 19 , 41 , 45","10 , 19 , 25 , 40 , 62 , 94",,,,,"Gardiner, Reid",19,"Elvenes, Lucas",25,"Persson, Joel",94,2-2 (EQ)
+1079020,19791,3rd period,57:46,gk_out,VÄX,,,,,,,"Åhman, Adam",70,,,,,
+1079020,19791,3rd period,57:35,gk_in,VÄX,,,,,,,"Åhman, Adam",70,,,,,
+1079020,19791,3rd period,57:19,gk_out,VÄX,,,,,,,"Åhman, Adam",70,,,,,
+1079020,19791,3rd period,57:19,unknown,VÄX,,,,,,,,,,,,,
+1079020,19791,3rd period,54:23,goal,BIF,"19 , 21 , 69 , 70 , 91 , 94","5 , 8 , 27 , 45 , 47 , 71",,,,,"Trivigno, Bobby",8,"Pettersson, Lucas",47,"Norlinder, Mattias",27,2-1 (EQ)
+1079020,19791,3rd period,49:39,goal,VÄX,"5 , 27 , 41 , 45 , 52 , 71","25 , 36 , 40 , 62 , 70 , 94",,,,,"Elvenes, Lucas",25,"Persson, Joel",94,"Rosén, Elias",36,1-1 (EQ)
+1079020,19791,3rd period,46:09,penalty,VÄX,,,48:09,2,Tripping,46:09,"Elvenes, Lucas",25,,,,,
+1079020,19791,3rd period,41:54,goal,BIF,"8 , 28 , 49 , 69 , 70 , 91","5 , 18 , 27 , 45 , 47 , 52",,,,,"Norlinder, Mattias",27,"Rödin, Anton",18,"Pettersson, Lucas",47,1-0 (EQ)
+1079020,19791,2nd period,36:02,penalty,VÄX,,,38:02,2,Hooking,36:02,"Lowe, Keegan",4,,,,,
+1079020,19791,1st period,09:01,penalty,VÄX,,,11:01,2,Hooking,09:01,"Robert, Felix",91,,,,,
+1079020,19791,1st period,00:00,gk_in,VÄX,,,,,,,"Åhman, Adam",70,,,,,
+1079020,19791,1st period,00:00,gk_in,BIF,,,,,,,"Clara, Damian",45,,,,,
+1079022,19791,1st overtime,67:33,goal,MIF,"3 , 6 , 9 , 38 , 71","7 , 10 , 12 , 78 , 91 , 94",,,,,"Niemelä, Topi",7,"Öberg, Linus",12,"Hanzl, Robin",78,2-1 (PP1)
+1079022,19791,1st overtime,67:33,gk_out,SKE,,,,,,,"Mann, Strauss",38,,,,,
+1079022,19791,1st overtime,67:33,gk_out,MIF,,,,,,,"Langhamer, Marek",94,,,,,
+1079022,19791,1st overtime,66:14,penalty,SKE,,,67:33,2,Tripping,66:14,"Forsfjäll, Zeb",33,,,,,
+1079022,19791,2nd period,33:39,goal,SKE,"11 , 12 , 13 , 74 , 78 , 94","12 , 27 , 38 , 43 , 57 , 72",,,,,"Vuollet, Oskar",72,"Krogdahl, Max",43,"Lindberg, Valter",12,1-1 (EQ)
+1079022,19791,1st period,18:07,goal,MIF,"24 , 29 , 38 , 52 , 64 , 96","11 , 13 , 24 , 42 , 78 , 94",,,,,"Salo, Robin",42,"Vesterheim, Petter",13,"Hanzl, Robin",78,1-0 (EQ)
+1079022,19791,1st period,14:45,penalty,SKE,,,16:45,2,Tripping,14:45,"Pudas, Jonathan",64,,,,,
+1079022,19791,1st period,10:08,penalty,SKE,,,12:08,2,High Sticking,10:08,"Forsfjäll, Zeb",33,,,,,
+1079022,19791,1st period,08:19,penalty,SKE,,,10:19,2,High Sticking,08:19,"Johnson, Jonathan",22,,,,,
+1079022,19791,1st period,07:15,penalty,MIF,,,09:15,2,Roughing,07:15,"Hemström, Kalle",9,,,,,
+1079022,19791,1st period,00:00,gk_in,SKE,,,,,,,"Mann, Strauss",38,,,,,
+1079022,19791,1st period,00:00,gk_in,MIF,,,,,,,"Langhamer, Marek",94,,,,,
+1079025,19791,2nd overtime,91:57,penalty,LHF,,,93:57,2,Interference on the goalkeeper,91:57,"Engsund, Oscar",32,,,,,
+1079025,19791,2nd overtime,88:37,penalty,FRÖ,,,90:37,2,Tripping,88:37,"Stenberg, Ivar",41,,,,,
+1079025,19791,1st overtime,60:35,penalty,FRÖ,,,62:35,2,Too many players on the ice,60:35,,,,,,,
+1079025,19791,3rd period,48:39,penalty,FRÖ,,,50:39,2,Interference,48:39,"Lindholm, Max",11,,,,,
+1079025,19791,3rd period,47:12,penalty,LHF,,,49:12,2,Charging,47:12,"Levtchi, Anton",76,,,,,
+1079025,19791,3rd period,46:38,goal,LHF,"1 , 2 , 7 , 11 , 21 , 40","13 , 26 , 31 , 32 , 67 , 86",,,,,"Koivistoinen, Eetu",13,"Omark, Linus",67,"Bromé, Mathias",86,3-3 (EQ)
+1079025,19791,2nd period,34:37,goal,LHF,"1 , 7 , 8 , 11 , 21 , 40","13 , 27 , 31 , 51 , 76 , 82",,,,,"Levtchi, Anton",76,"Leskinen, Otto",82,"Laaksonen, Oskari",27,2-3 (EQ)
+1079025,19791,2nd period,34:37,penalty,FRÖ,,,36:37,2,High Sticking,34:37,"Tömmernes, Henrik",7,,,,,
+1079025,19791,2nd period,32:49,penalty,LHF,,,,2,Roughing,,"Hedqvist, Isac",6,,,,,
+1079025,19791,2nd period,32:49,penalty,FRÖ,,,,2,Roughing,,"Egli, Dominik",46,,,,,
+1079025,19791,2nd period,30:43,goal,FRÖ,"6 , 29 , 31 , 39 , 76 , 96","1 , 2 , 9 , 31 , 46 , 86",,,,,"Lasu, Nicklas",31,"Weissbach, Linus",9,"Egli, Dominik",46,1-3 (EQ)
+1079025,19791,2nd period,21:37,goal,LHF,"1 , 2 , 27 , 41 , 44 , 46","13 , 26 , 31 , 32 , 67 , 86",,,,,"Koivistoinen, Eetu",13,"Omark, Linus",67,"Bromé, Mathias",86,1-2 (EQ)
+1079025,19791,1st period,17:34,goal,FRÖ,"29 , 31 , 39 , 51 , 76 , 96","1 , 7 , 8 , 11 , 21 , 25",,,,,"Innala, Jere",21,"Lindholm, Max",11,"Nilsson, Tom",43,0-2 (EQ)
+1079025,19791,1st period,07:45,penalty,FRÖ,,,09:45,2,Delay of game,07:45,"Folin, Christian",2,,,,,
+1079025,19791,1st period,06:25,goal,FRÖ,"9 , 25 , 26 , 31 , 32 , 72","1 , 12 , 33 , 40 , 43 , 92",,,,,"Peterson, Jacob",40,"Cederqvist, Filip",92,"Nilsson, Tom",43,0-1 (EQ)
+1079025,19791,1st period,00:00,gk_in,FRÖ,,,,,,,"Johansson, Lars",1,,,,,
+1079025,19791,1st period,00:00,gk_in,LHF,,,,,,,"Ward, Matteus",31,,,,,
+1079024,19791,3rd period,60:00,gk_out,VÄX,,,,,,,"Åhman, Adam",70,,,,,
+1079024,19791,3rd period,58:38,unknown,BIF,,,,,,,,,,,,,
+1079024,19791,3rd period,57:38,gk_out,BIF,,,,,,,"Clara, Damian",45,,,,,
+1079024,19791,3rd period,57:15,goal,VÄX,"5 , 10 , 14 , 20 , 45","11 , 19 , 25 , 40 , 70 , 94",,,,,"Rafferty, Brogan",11,"Persson, Joel",94,"Elvenes, Lucas",25,2-3 (PP1)
+1079024,19791,3rd period,56:24,penalty,BIF,,,57:15,2,Too many players on the ice,56:24,,,,,,,
+1079024,19791,3rd period,48:49,goal,BIF,"11 , 21 , 24 , 62 , 70","18 , 19 , 20 , 29 , 33 , 45",,,,,"Silfverberg, Jakob",33,"Rödin, Anton",18,"Bäckström, Nicklas",19,2-2 (PP1)
+1079024,19791,3rd period,45:18,penalty,VÄX,,,60:00,20,Game Misconduct,50:18,"Suomi, Eemeli",10,,,,,
+1079024,19791,3rd period,45:18,penalty,VÄX,,,50:18,5,Crosschecking,45:18,"Suomi, Eemeli",10,,,,,
+1079024,19791,2nd period,38:54,penalty,BIF,,,40:54,2,Too many players on the ice,38:54,,,,,,,
+1079024,19791,2nd period,31:02,penalty,VÄX,,,33:02,2,Holding,31:02,"Rasmussen, Dennis",40,,,,,
+1079024,19791,2nd period,27:51,penalty,BIF,,,29:51,2,Holding,27:51,"Sundqvist, Leo",22,,,,,
+1079024,19791,2nd period,24:03,goal,VÄX,"10 , 14 , 28 , 33 , 45 , 81","10 , 11 , 24 , 28 , 49 , 70",,,,,"Suomi, Eemeli",10,"Sahlin Wallenius, Leo",49,"Rafferty, Brogan",11,1-2 (EQ)
+1079024,19791,1st period,19:12,goal,BIF,"11 , 25 , 40 , 42 , 49 , 70","10 , 27 , 28 , 33 , 45 , 81",,,,,"Larsson, Johan",10,"Silfverberg, Jakob",33,"Kinnvall, Johannes",28,1-1 (EQ)
+1079024,19791,1st period,15:18,goal,VÄX,"5 , 18 , 27 , 41 , 45","13 , 19 , 25 , 49 , 70 , 91",,,,,"Mclaughlin, Dylan",13,"Sahlin Wallenius, Leo",49,"Elvenes, Lucas",25,0-1 (PP1)
+1079024,19791,1st period,13:36,penalty,BIF,,,15:18,2,Interference,13:36,"Andersson, Axel",29,,,,,
+1079024,19791,1st period,01:26,penalty,VÄX,,,03:26,2,Tripping,01:26,"Åhman, Adam",70,,,,,
+1079024,19791,1st period,00:00,gk_in,VÄX,,,,,,,"Åhman, Adam",70,,,,,
+1079024,19791,1st period,00:00,gk_in,BIF,,,,,,,"Clara, Damian",45,,,,,

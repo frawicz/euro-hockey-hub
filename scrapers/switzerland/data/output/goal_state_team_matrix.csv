@@ -1,0 +1,182 @@
+league,team,state_diff,n_score,n_total,n_concede,p_score,p_concede,next_if_score,next_if_concede
+switzerland,EHC Biel-Bienne,-5,1,3,2,0.3333,0.6667,-4,-6
+switzerland,EHC Biel-Bienne,-4,2,6,4,0.3333,0.6667,-3,-5
+switzerland,EHC Biel-Bienne,-3,6,17,11,0.3529,0.6471,-2,-4
+switzerland,EHC Biel-Bienne,-2,14,32,18,0.4375,0.5625,-1,-3
+switzerland,EHC Biel-Bienne,-1,28,59,31,0.4746,0.5254,0,-2
+switzerland,EHC Biel-Bienne,0,55,110,55,0.5,0.5,1,-1
+switzerland,EHC Biel-Bienne,1,19,55,36,0.3455,0.6545,2,0
+switzerland,EHC Biel-Bienne,2,8,18,10,0.4444,0.5556,3,1
+switzerland,EHC Biel-Bienne,3,6,8,2,0.75,0.25,4,2
+switzerland,EHC Biel-Bienne,4,3,4,1,0.75,0.25,5,3
+switzerland,EHC Biel-Bienne,5,1,2,1,0.5,0.5,6,4
+switzerland,EHC Biel-Bienne,6,1,1,0,1.0,0.0,7,5
+switzerland,EHC Biel-Bienne,7,1,1,0,1.0,0.0,8,6
+switzerland,EHC Kloten,-6,0,1,1,0.0,1.0,-5,-7
+switzerland,EHC Kloten,-5,0,1,1,0.0,1.0,-4,-6
+switzerland,EHC Kloten,-4,1,3,2,0.3333,0.6667,-3,-5
+switzerland,EHC Kloten,-3,5,9,4,0.5556,0.4444,-2,-4
+switzerland,EHC Kloten,-2,23,34,11,0.6765,0.3235,-1,-3
+switzerland,EHC Kloten,-1,22,60,38,0.3667,0.6333,0,-2
+switzerland,EHC Kloten,0,39,89,50,0.4382,0.5618,1,-1
+switzerland,EHC Kloten,1,21,39,18,0.5385,0.4615,2,0
+switzerland,EHC Kloten,2,11,21,10,0.5238,0.4762,3,1
+switzerland,EHC Kloten,3,0,7,7,0.0,1.0,4,2
+switzerland,EV Zug,-6,0,1,1,0.0,1.0,-5,-7
+switzerland,EV Zug,-5,2,4,2,0.5,0.5,-4,-6
+switzerland,EV Zug,-4,4,8,4,0.5,0.5,-3,-5
+switzerland,EV Zug,-3,3,12,9,0.25,0.75,-2,-4
+switzerland,EV Zug,-2,10,28,18,0.3571,0.6429,-1,-3
+switzerland,EV Zug,-1,19,51,32,0.3725,0.6275,0,-2
+switzerland,EV Zug,0,52,101,49,0.5149,0.4851,1,-1
+switzerland,EV Zug,1,33,61,28,0.541,0.459,2,0
+switzerland,EV Zug,2,17,34,17,0.5,0.5,3,1
+switzerland,EV Zug,3,5,13,8,0.3846,0.6154,4,2
+switzerland,EV Zug,4,1,2,1,0.5,0.5,5,3
+switzerland,Fribourg-Gottéron,-5,0,1,1,0.0,1.0,-4,-6
+switzerland,Fribourg-Gottéron,-4,3,5,2,0.6,0.4,-3,-5
+switzerland,Fribourg-Gottéron,-3,5,11,6,0.4545,0.5455,-2,-4
+switzerland,Fribourg-Gottéron,-2,9,20,11,0.45,0.55,-1,-3
+switzerland,Fribourg-Gottéron,-1,24,43,19,0.5581,0.4419,0,-2
+switzerland,Fribourg-Gottéron,0,62,103,41,0.6019,0.3981,1,-1
+switzerland,Fribourg-Gottéron,1,38,68,30,0.5588,0.4412,2,0
+switzerland,Fribourg-Gottéron,2,22,39,17,0.5641,0.4359,3,1
+switzerland,Fribourg-Gottéron,3,15,23,8,0.6522,0.3478,4,2
+switzerland,Fribourg-Gottéron,4,3,7,4,0.4286,0.5714,5,3
+switzerland,Fribourg-Gottéron,5,0,2,2,0.0,1.0,6,4
+switzerland,Genève-Servette HC,-10,0,1,1,0.0,1.0,-9,-11
+switzerland,Genève-Servette HC,-9,0,1,1,0.0,1.0,-8,-10
+switzerland,Genève-Servette HC,-8,0,1,1,0.0,1.0,-7,-9
+switzerland,Genève-Servette HC,-7,0,2,2,0.0,1.0,-6,-8
+switzerland,Genève-Servette HC,-6,0,2,2,0.0,1.0,-5,-7
+switzerland,Genève-Servette HC,-5,3,5,2,0.6,0.4,-4,-6
+switzerland,Genève-Servette HC,-4,3,8,5,0.375,0.625,-3,-5
+switzerland,Genève-Servette HC,-3,4,16,12,0.25,0.75,-2,-4
+switzerland,Genève-Servette HC,-2,10,29,19,0.3448,0.6552,-1,-3
+switzerland,Genève-Servette HC,-1,28,56,28,0.5,0.5,0,-2
+switzerland,Genève-Servette HC,0,50,101,51,0.495,0.505,1,-1
+switzerland,Genève-Servette HC,1,38,56,18,0.6786,0.3214,2,0
+switzerland,Genève-Servette HC,2,17,32,15,0.5312,0.4688,3,1
+switzerland,Genève-Servette HC,3,10,14,4,0.7143,0.2857,4,2
+switzerland,Genève-Servette HC,4,4,8,4,0.5,0.5,5,3
+switzerland,Genève-Servette HC,5,3,3,0,1.0,0.0,6,4
+switzerland,Genève-Servette HC,6,2,2,0,1.0,0.0,7,5
+switzerland,HC Ajoie,-7,0,1,1,0.0,1.0,-6,-8
+switzerland,HC Ajoie,-6,0,1,1,0.0,1.0,-5,-7
+switzerland,HC Ajoie,-5,0,3,3,0.0,1.0,-4,-6
+switzerland,HC Ajoie,-4,4,11,7,0.3636,0.6364,-3,-5
+switzerland,HC Ajoie,-3,11,26,15,0.4231,0.5769,-2,-4
+switzerland,HC Ajoie,-2,18,46,28,0.3913,0.6087,-1,-3
+switzerland,HC Ajoie,-1,27,70,43,0.3857,0.6143,0,-2
+switzerland,HC Ajoie,0,35,103,68,0.3398,0.6602,1,-1
+switzerland,HC Ajoie,1,14,38,24,0.3684,0.6316,2,0
+switzerland,HC Ajoie,2,4,13,9,0.3077,0.6923,3,1
+switzerland,HC Ajoie,3,1,3,2,0.3333,0.6667,4,2
+switzerland,HC Ambri-Piotta,-5,1,1,0,1.0,0.0,-4,-6
+switzerland,HC Ambri-Piotta,-4,3,5,2,0.6,0.4,-3,-5
+switzerland,HC Ambri-Piotta,-3,4,15,11,0.2667,0.7333,-2,-4
+switzerland,HC Ambri-Piotta,-2,10,31,21,0.3226,0.6774,-1,-3
+switzerland,HC Ambri-Piotta,-1,38,72,34,0.5278,0.4722,0,-2
+switzerland,HC Ambri-Piotta,0,56,126,70,0.4444,0.5556,1,-1
+switzerland,HC Ambri-Piotta,1,21,56,35,0.375,0.625,2,0
+switzerland,HC Ambri-Piotta,2,9,19,10,0.4737,0.5263,3,1
+switzerland,HC Ambri-Piotta,3,3,6,3,0.5,0.5,4,2
+switzerland,HC Ambri-Piotta,4,2,3,1,0.6667,0.3333,5,3
+switzerland,HC Ambri-Piotta,5,0,1,1,0.0,1.0,6,4
+switzerland,HC Davos,-6,0,1,1,0.0,1.0,-5,-7
+switzerland,HC Davos,-5,0,1,1,0.0,1.0,-4,-6
+switzerland,HC Davos,-4,0,1,1,0.0,1.0,-3,-5
+switzerland,HC Davos,-3,1,3,2,0.3333,0.6667,-2,-4
+switzerland,HC Davos,-2,14,19,5,0.7368,0.2632,-1,-3
+switzerland,HC Davos,-1,29,51,22,0.5686,0.4314,0,-2
+switzerland,HC Davos,0,67,106,39,0.6321,0.3679,1,-1
+switzerland,HC Davos,1,45,71,26,0.6338,0.3662,2,0
+switzerland,HC Davos,2,27,42,15,0.6429,0.3571,3,1
+switzerland,HC Davos,3,18,23,5,0.7826,0.2174,4,2
+switzerland,HC Davos,4,6,15,9,0.4,0.6,5,3
+switzerland,HC Davos,5,2,5,3,0.4,0.6,6,4
+switzerland,HC Davos,6,1,1,0,1.0,0.0,7,5
+switzerland,HC Davos,7,1,1,0,1.0,0.0,8,6
+switzerland,HC Lugano,-4,1,1,0,1.0,0.0,-3,-5
+switzerland,HC Lugano,-3,3,7,4,0.4286,0.5714,-2,-4
+switzerland,HC Lugano,-2,5,20,15,0.25,0.75,-1,-3
+switzerland,HC Lugano,-1,28,48,20,0.5833,0.4167,0,-2
+switzerland,HC Lugano,0,50,104,54,0.4808,0.5192,1,-1
+switzerland,HC Lugano,1,33,57,24,0.5789,0.4211,2,0
+switzerland,HC Lugano,2,21,34,13,0.6176,0.3824,3,1
+switzerland,HC Lugano,3,11,15,4,0.7333,0.2667,4,2
+switzerland,HC Lugano,4,2,4,2,0.5,0.5,5,3
+switzerland,HC Lugano,5,1,1,0,1.0,0.0,6,4
+switzerland,Lausanne HC,-4,4,5,1,0.8,0.2,-3,-5
+switzerland,Lausanne HC,-3,5,15,10,0.3333,0.6667,-2,-4
+switzerland,Lausanne HC,-2,8,22,14,0.3636,0.6364,-1,-3
+switzerland,Lausanne HC,-1,28,51,23,0.549,0.451,0,-2
+switzerland,Lausanne HC,0,57,108,51,0.5278,0.4722,1,-1
+switzerland,Lausanne HC,1,27,53,26,0.5094,0.4906,2,0
+switzerland,Lausanne HC,2,24,34,10,0.7059,0.2941,3,1
+switzerland,Lausanne HC,3,10,19,9,0.5263,0.4737,4,2
+switzerland,Lausanne HC,4,3,5,2,0.6,0.4,5,3
+switzerland,Lausanne HC,5,3,3,0,1.0,0.0,6,4
+switzerland,Lausanne HC,6,2,2,0,1.0,0.0,7,5
+switzerland,Lausanne HC,7,1,1,0,1.0,0.0,8,6
+switzerland,Lausanne HC,8,1,1,0,1.0,0.0,9,7
+switzerland,Lausanne HC,9,1,1,0,1.0,0.0,10,8
+switzerland,Lausanne HC,10,1,1,0,1.0,0.0,11,9
+switzerland,SC Bern,-4,2,2,0,1.0,0.0,-3,-5
+switzerland,SC Bern,-3,6,12,6,0.5,0.5,-2,-4
+switzerland,SC Bern,-2,15,33,18,0.4545,0.5455,-1,-3
+switzerland,SC Bern,-1,22,53,31,0.4151,0.5849,0,-2
+switzerland,SC Bern,0,38,90,52,0.4222,0.5778,1,-1
+switzerland,SC Bern,1,20,38,18,0.5263,0.4737,2,0
+switzerland,SC Bern,2,11,20,9,0.55,0.45,3,1
+switzerland,SC Bern,3,5,8,3,0.625,0.375,4,2
+switzerland,SC Bern,4,2,2,0,1.0,0.0,5,3
+switzerland,SC Rapperswil-Jona Lakers,-6,0,1,1,0.0,1.0,-5,-7
+switzerland,SC Rapperswil-Jona Lakers,-5,0,1,1,0.0,1.0,-4,-6
+switzerland,SC Rapperswil-Jona Lakers,-4,0,1,1,0.0,1.0,-3,-5
+switzerland,SC Rapperswil-Jona Lakers,-3,3,6,3,0.5,0.5,-2,-4
+switzerland,SC Rapperswil-Jona Lakers,-2,3,11,8,0.2727,0.7273,-1,-3
+switzerland,SC Rapperswil-Jona Lakers,-1,9,18,9,0.5,0.5,0,-2
+switzerland,SC Rapperswil-Jona Lakers,0,11,27,16,0.4074,0.5926,1,-1
+switzerland,SC Rapperswil-Jona Lakers,1,9,13,4,0.6923,0.3077,2,0
+switzerland,SC Rapperswil-Jona Lakers,2,2,8,6,0.25,0.75,3,1
+switzerland,SC Rapperswil-Jona Lakers,3,1,2,1,0.5,0.5,4,2
+switzerland,SC Rapperswil-Jona Lakers,4,1,1,0,1.0,0.0,5,3
+switzerland,SC Rapperswil-Jona Lakers,5,0,1,1,0.0,1.0,6,4
+switzerland,SCL Tigers,-5,1,1,0,1.0,0.0,-4,-6
+switzerland,SCL Tigers,-4,2,3,1,0.6667,0.3333,-3,-5
+switzerland,SCL Tigers,-3,8,13,5,0.6154,0.3846,-2,-4
+switzerland,SCL Tigers,-2,13,27,14,0.4815,0.5185,-1,-3
+switzerland,SCL Tigers,-1,27,55,28,0.4909,0.5091,0,-2
+switzerland,SCL Tigers,0,49,104,55,0.4712,0.5288,1,-1
+switzerland,SCL Tigers,1,24,54,30,0.4444,0.5556,2,0
+switzerland,SCL Tigers,2,10,21,11,0.4762,0.5238,3,1
+switzerland,SCL Tigers,3,4,5,1,0.8,0.2,4,2
+switzerland,SCL Tigers,4,2,3,1,0.6667,0.3333,5,3
+switzerland,SCL Tigers,5,1,1,0,1.0,0.0,6,4
+switzerland,SCRJ Lakers,-5,1,1,0,1.0,0.0,-4,-6
+switzerland,SCRJ Lakers,-4,0,2,2,0.0,1.0,-3,-5
+switzerland,SCRJ Lakers,-3,2,6,4,0.3333,0.6667,-2,-4
+switzerland,SCRJ Lakers,-2,11,21,10,0.5238,0.4762,-1,-3
+switzerland,SCRJ Lakers,-1,17,42,25,0.4048,0.5952,0,-2
+switzerland,SCRJ Lakers,0,53,89,36,0.5955,0.4045,1,-1
+switzerland,SCRJ Lakers,1,27,55,28,0.4909,0.5091,2,0
+switzerland,SCRJ Lakers,2,17,30,13,0.5667,0.4333,3,1
+switzerland,SCRJ Lakers,3,6,13,7,0.4615,0.5385,4,2
+switzerland,SCRJ Lakers,4,2,4,2,0.5,0.5,5,3
+switzerland,SCRJ Lakers,5,1,2,1,0.5,0.5,6,4
+switzerland,ZSC Lions,-3,2,3,1,0.6667,0.3333,-2,-4
+switzerland,ZSC Lions,-2,13,18,5,0.7222,0.2778,-1,-3
+switzerland,ZSC Lions,-1,28,49,21,0.5714,0.4286,0,-2
+switzerland,ZSC Lions,0,57,104,47,0.5481,0.4519,1,-1
+switzerland,ZSC Lions,1,35,60,25,0.5833,0.4167,2,0
+switzerland,ZSC Lions,2,17,28,11,0.6071,0.3929,3,1
+switzerland,ZSC Lions,3,8,13,5,0.6154,0.3846,4,2
+switzerland,ZSC Lions,4,1,3,2,0.3333,0.6667,5,3
+switzerland,ZSC Lions,5,1,1,0,1.0,0.0,6,4
+switzerland,ZSC Lions,6,1,1,0,1.0,0.0,7,5
+switzerland,nan,-3,1,1,0,1.0,0.0,-2,-4
+switzerland,nan,-2,0,2,2,0.0,1.0,-1,-3
+switzerland,nan,-1,0,1,1,0.0,1.0,0,-2
+switzerland,nan,0,5,7,2,0.7143,0.2857,1,-1
+switzerland,nan,1,1,5,4,0.2,0.8,2,0
