@@ -18,24 +18,39 @@ sel_leagues, sel_season, sel_phase = build_sidebar()
 games_raw = load_table("games",   sel_leagues)
 games     = filter_by_phase(filter_by_season(games_raw, sel_season), sel_phase)
 players   = filter_players_to_games(load_table("players", sel_leagues), games)
-events    = filter_players_to_games(load_table("events",  sel_leagues), games)
+events    = load_table("events", sel_leagues)
+events    = filter_by_phase(filter_by_season(events, sel_season), sel_phase)
 
 st.title("Cross-League Comparison")
 
 tabs = st.tabs(["League summary", "Scoring pace", "Penalty heat", "Player nationality"])
+
+
+def has_cols(df: pd.DataFrame, cols: list[str]) -> bool:
+    return all(c in df.columns for c in cols)
+
+
+def normalize_scores(df: pd.DataFrame) -> pd.DataFrame:
+    out = df.copy()
+    if "home_score" not in out.columns and "home_goals" in out.columns:
+        out["home_score"] = out["home_goals"]
+    if "away_score" not in out.columns and "away_goals" in out.columns:
+        out["away_score"] = out["away_goals"]
+    return out
 
 # ─────────────────────────────────────────────────────────
 # Tab 1 — League summary table
 # ─────────────────────────────────────────────────────────
 with tabs[0]:
     st.markdown("### League at a glance")
+    g_all = normalize_scores(games)
     rows = []
     for lg in sel_leagues:
-        g  = games[games["league"] == lg]
+        g  = g_all[g_all["league"] == lg] if "league" in g_all.columns else pd.DataFrame()
         p  = players[players["league"] == lg] if "league" in players.columns else pd.DataFrame()
 
         hs  = num(g, "home_score")
-        aws = num(g, "away_score") if "away_score" in g.columns else pd.Series(dtype=float)
+        aws = num(g, "away_score")
         tot = hs.add(aws, fill_value=0)
 
         hw_pct = None
@@ -63,29 +78,34 @@ with tabs[0]:
 # ─────────────────────────────────────────────────────────
 with tabs[1]:
     st.markdown("### Average goals per game — monthly trend")
-    if not games.empty and "date" in games.columns and "home_score" in games.columns:
-        g = games.dropna(subset=["date"]).copy()
-        g["total"] = num(g, "home_score").add(num(g, "away_score"), fill_value=0)
-        g["month"] = g["date"].dt.to_period("M").astype(str)
-        monthly = (
-            g.groupby(["month", "league_abbr"])["total"]
-            .mean().round(2).reset_index()
-            .rename(columns={"total": "avg_goals", "league_abbr": "league"})
-        )
-        if not monthly.empty:
-            fig = px.line(
-                monthly, x="month", y="avg_goals", color="league",
-                color_discrete_map=color_map(sel_leagues),
-                markers=True,
-                labels={"avg_goals": "Avg goals / game", "month": "Month"},
-                template="plotly_dark",
-            )
-            fig.update_layout(**PLOTLY_LAYOUT, height=380,
-                              xaxis=dict(gridcolor="#1e2535", tickangle=-30),
-                              legend_title="League")
-            st.plotly_chart(fig, use_container_width=True)
+    gsrc = normalize_scores(games)
+    if not gsrc.empty and has_cols(gsrc, ["date", "home_score", "away_score", "league_abbr"]):
+        g = gsrc.dropna(subset=["date"]).copy()
+        g["date"] = pd.to_datetime(g["date"], errors="coerce")
+        g = g.dropna(subset=["date"])
+        if g.empty:
+            st.info("No valid dates available for trend chart.")
         else:
-            st.info("Not enough date data to build a trend.")
+            g["total"] = num(g, "home_score").add(num(g, "away_score"), fill_value=0)
+            g["month"] = g["date"].dt.to_period("M").astype(str)
+            monthly = (
+                g.groupby(["month", "league_abbr"])["total"]
+                .mean().round(2).reset_index()
+                .rename(columns={"total": "avg_goals", "league_abbr": "league"})
+            )
+            if not monthly.empty:
+                fig = px.line(
+                    monthly, x="month", y="avg_goals", color="league",
+                    color_discrete_map=color_map(sel_leagues),
+                    markers=True,
+                    labels={"avg_goals": "Avg goals / game", "month": "Month"},
+                    template="plotly_dark",
+                )
+                fig.update_layout(**PLOTLY_LAYOUT, height=380, legend_title="League")
+                fig.update_xaxes(gridcolor="#1e2535", tickangle=-30)
+                st.plotly_chart(fig, use_container_width=True)
+            else:
+                st.info("Not enough date data to build a trend.")
     else:
         st.info("No date/score data available.")
 
@@ -95,9 +115,10 @@ with tabs[1]:
 with tabs[2]:
     st.markdown("### Penalty minutes per game by league")
     if not events.empty and "event_type" in events.columns:
-        penalties = events[events["event_type"] == "penalty"].copy()
-        if "minutes" in penalties.columns and not penalties.empty:
-            penalties["minutes"] = num(penalties, "minutes")
+        penalties = events[events["event_type"].astype(str).str.lower() == "penalty"].copy()
+        minute_col = next((c for c in ["minutes", "penalty_minutes", "penalty_min"] if c in penalties.columns), None)
+        if minute_col and not penalties.empty:
+            penalties["minutes"] = num(penalties, minute_col)
             pim = (
                 penalties.groupby("league_abbr")["minutes"]
                 .sum().reset_index()
@@ -123,14 +144,16 @@ with tabs[2]:
             st.plotly_chart(fig, use_container_width=True)
 
             # Penalty type breakdown
-            if "penalty_type" in penalties.columns:
+            ptype_col = next((c for c in ["penalty_type", "penalty_reason", "foul_type"] if c in penalties.columns), None)
+            if ptype_col:
                 st.markdown("### Most common penalty types")
                 top_types = (
-                    penalties.groupby("penalty_type").size()
+                    penalties.groupby(ptype_col).size()
                     .reset_index(name="count")
                     .sort_values("count", ascending=False)
                     .head(15)
                 )
+                top_types = top_types.rename(columns={ptype_col: "penalty_type"})
                 fig2 = px.bar(
                     top_types, x="count", y="penalty_type",
                     orientation="h",
@@ -138,8 +161,8 @@ with tabs[2]:
                     template="plotly_dark",
                     color_discrete_sequence=["#4fc3f7"],
                 )
-                fig2.update_layout(**PLOTLY_LAYOUT, height=380,
-                                   yaxis=dict(gridcolor="#1e2535", autorange="reversed"))
+                fig2.update_layout(**PLOTLY_LAYOUT, height=380)
+                fig2.update_yaxes(gridcolor="#1e2535", autorange="reversed")
                 st.plotly_chart(fig2, use_container_width=True)
         else:
             st.info("No penalty minute data found in events.")
@@ -157,23 +180,25 @@ with tabs[3]:
             None,
         )
         if nat_col:
-            nat_df = (
-                players.groupby([nat_col, "league_abbr"])
-                .size().reset_index(name="count")
-                .rename(columns={nat_col: "nationality", "league_abbr": "league"})
-                .sort_values("count", ascending=False)
-                .head(40)
-            )
-            fig = px.bar(
-                nat_df, x="nationality", y="count", color="league",
-                color_discrete_map=color_map(sel_leagues),
-                labels={"count": "Players", "nationality": ""},
-                template="plotly_dark",
-            )
-            fig.update_layout(**PLOTLY_LAYOUT, height=360,
-                              xaxis=dict(gridcolor="#1e2535", tickangle=-40),
-                              legend_title="League")
-            st.plotly_chart(fig, use_container_width=True)
+            if "league_abbr" not in players.columns:
+                st.info("League labels are missing in player rows for this filter.")
+            else:
+                nat_df = (
+                    players.groupby([nat_col, "league_abbr"])
+                    .size().reset_index(name="count")
+                    .rename(columns={nat_col: "nationality", "league_abbr": "league"})
+                    .sort_values("count", ascending=False)
+                    .head(40)
+                )
+                fig = px.bar(
+                    nat_df, x="nationality", y="count", color="league",
+                    color_discrete_map=color_map(sel_leagues),
+                    labels={"count": "Players", "nationality": ""},
+                    template="plotly_dark",
+                )
+                fig.update_layout(**PLOTLY_LAYOUT, height=360, legend_title="League")
+                fig.update_xaxes(gridcolor="#1e2535", tickangle=-40)
+                st.plotly_chart(fig, use_container_width=True)
         else:
             st.info(
                 "No nationality/licence column found in player data. "
