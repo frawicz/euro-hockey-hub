@@ -133,28 +133,25 @@ Outputs to `scrapers/germany/data/input/`: `games.csv`, `events.csv`, `players.c
 **Source:** stats.swehockey.se (static HTML)
 
 ```bash
-# Current season (2025-26)
-python scrapers/sweden/sweden_scrapper.py --season-id 19791
+# Current season (2025-26) — regular season + playoffs (default)
+python scrapers/sweden/sweden_scrapper.py
+
+# Explicit season IDs (regular season + playoffs)
+python scrapers/sweden/sweden_scrapper.py --season-id 18263 19791
 
 # Multiple seasons at once
-python scrapers/sweden/sweden_scrapper.py --season-id 19791 18507 17198
+python scrapers/sweden/sweden_scrapper.py --season-id 18263 19791 17556 18507
 ```
+
+> **Note:** Each SHL season has two IDs — one for the regular season (Grundserie) and one for
+> the playoffs (SM-slutspel). Pass both to get the full season.
 
 **Known season IDs:**
 
-| Season  | ID    |
-|---------|-------|
-| 2025-26 | 19791 |
-| 2024-25 | 18507 |
-| 2023-24 | 17198 |
-| 2022-23 | 15936 |
-| 2021-22 | 14807 |
-| 2020-21 | 13760 |
-| 2019-20 | 12524 |
-| 2018-19 | 11417 |
-| 2017-18 | 10209 |
-| 2016-17 | 9063  |
-| 2015-16 | 7908  |
+| Season  | Regular season (Grundserie) | Playoffs (SM-slutspel) |
+|---------|----------------------------|------------------------|
+| 2025-26 | 18263                      | 19791                  |
+| 2024-25 | 17556                      | 18507                  |
 
 Outputs to `scrapers/sweden/data/input/`: `games.csv`, `events.csv`, `players.csv`, `lineups.csv`, `reports.csv`
 

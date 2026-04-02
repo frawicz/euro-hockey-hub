@@ -102,7 +102,9 @@ def first_match(pattern: str, text: str, flags: int = 0) -> str:
 
 
 def split_teams(text: str) -> tuple[str, str]:
-    text = clean(text)
+    # Normalize non-breaking spaces (\xa0) to regular spaces before splitting
+    text = clean(text).replace("\xa0", " ")
+    text = re.sub(r"\s+", " ", text).strip()
     for sep in [" - ", " – "]:
         if sep in text:
             left, right = text.split(sep, 1)
@@ -140,25 +142,54 @@ def safe_int(text: Any) -> int | None:
 
 # ── Schedule ─────────────────────────────────────────────────────────────────
 
+def _normalize(text: str) -> str:
+    """Clean and replace non-breaking spaces with regular spaces."""
+    return re.sub(r"\s+", " ", str(text).replace("\xa0", " ")).strip()
+
+
+def _cell_text_plain(cell) -> str:
+    """Get cell text excluding <i> elements (e.g. round-name labels in schedule)."""
+    import copy
+    c = copy.copy(cell)
+    for tag in c.find_all("i"):
+        tag.decompose()
+    return _normalize(c.get_text())
+
+
 def get_games_from_schedule(season_id: int) -> list[dict[str, Any]]:
     url = f"{BASE}/ScheduleAndResults/Schedule/{season_id}"
     soup = fetch(url)
     if soup is None:
         return []
 
-    games: list[dict[str, Any]] = []
-    current_round = None
+    tbl = soup.find("table", class_="tblContent")
+    if not tbl:
+        return []
 
-    for row in soup.select("table tr"):
+    rows = tbl.find_all("tr")
+    if not rows:
+        return []
+
+    # rows[0] = title/section row (5 th)
+    # rows[1] = column header row (7 th): "Round|Date|Game|..." or "Date|Time|Game|..."
+    # rows[2+] = data rows (7 or 8 td)
+    col_header_row = rows[1] if len(rows) > 1 else rows[0]
+    col_header_texts = [_normalize(th.get_text()) for th in col_header_row.find_all(["td", "th"])]
+    is_playoffs = bool(col_header_texts and col_header_texts[0].lower() == "round")
+
+    games: list[dict[str, Any]] = []
+    current_round: int | None = None
+
+    for row in rows[2:]:
         cells = row.find_all("td")
         if not cells:
             continue
-        texts = [clean(c.get_text(" ", strip=True)) for c in cells]
+        texts = [_normalize(c.get_text()) for c in cells]
 
-        if len(texts) == 1 and texts[0].isdigit():
-            current_round = int(texts[0])
+        if len(texts) < 4:
             continue
 
+        # Extract game_id from javascript:openonlinewindow href or plain href
         game_id = None
         for a in row.find_all("a", href=True):
             m = re.search(r"/Game/Events/(\d+)", a["href"])
@@ -166,33 +197,43 @@ def get_games_from_schedule(season_id: int) -> list[dict[str, Any]]:
                 game_id = int(m.group(1))
                 break
 
-        if len(texts) < 4:
-            continue
-
-        date_str = texts[1] if len(texts) > 1 else ""
-        teams_str = texts[2] if len(texts) > 2 else ""
-        result_str = texts[3] if len(texts) > 3 else ""
-        spectators = texts[4] if len(texts) > 4 else ""
-        venue = texts[5] if len(texts) > 5 else ""
+        if is_playoffs:
+            # [0]=round_or_empty [1]=date+time [2]=teams [3]=score [4]=periods [5]=spec [6]=venue
+            if texts[0].isdigit():
+                current_round = int(texts[0])
+            date_str    = texts[1]
+            teams_str   = _cell_text_plain(cells[2])   # strip italic round label
+            result_str  = texts[3]
+            periods     = texts[4] if len(texts) > 4 else ""
+            spectators  = texts[5] if len(texts) > 5 else ""
+            venue       = texts[6] if len(texts) > 6 else ""
+        else:
+            # [0]=date (or time on continuation rows) [1]=dup datetime [2]=time [3]=teams
+            # [4]=score [5]=periods [6]=spectators [7]=venue
+            date_str   = texts[0] if re.match(r"\d{4}-\d{2}-\d{2}", texts[0]) else ""
+            teams_str  = _cell_text_plain(cells[3])    # strip any italic labels
+            result_str = texts[4] if len(texts) > 4 else ""
+            periods    = texts[5] if len(texts) > 5 else ""
+            spectators = texts[6] if len(texts) > 6 else ""
+            venue      = texts[7] if len(texts) > 7 else ""
 
         home_team, away_team = split_teams(teams_str)
         if not home_team or not away_team:
             continue
 
         score = first_match(r"(\d+\s*[-–]\s*\d+)", result_str)
-        periods = clean(re.sub(r"^.*?(\d+\s*[-–]\s*\d+)", "", result_str)) if score else ""
 
         games.append({
-            "season_id": season_id,
-            "round": current_round,
-            "date": date_str,
-            "home_team": home_team,
-            "away_team": away_team,
-            "score": score.replace(" ", "") if score else "",
-            "periods": periods,
+            "season_id":  season_id,
+            "round":      current_round,
+            "date":       date_str,
+            "home_team":  home_team,
+            "away_team":  away_team,
+            "score":      score.replace(" ", "") if score else "",
+            "periods":    periods,
             "spectators": spectators,
-            "venue": venue,
-            "game_id": game_id,
+            "venue":      venue,
+            "game_id":    game_id,
         })
 
     return games
@@ -671,9 +712,10 @@ def main() -> None:
     parser.add_argument("--find-season", type=str, help="Reserved for manual use; pass explicit season IDs when possible")
     args = parser.parse_args()
 
-    season_ids = args.season_id or [19791]
+    # 18263 = SHL 2025-26 regular season, 19791 = SM-slutspel (playoffs)
+    season_ids = args.season_id or [18263, 19791]
     if not args.season_id:
-        print("No season specified — defaulting to 2025-26 (season_id=19791)")
+        print("No season specified — defaulting to 2025-26 regular season (18263) + playoffs (19791)")
 
     all_games: list[dict[str, Any]] = []
     all_events: list[dict[str, Any]] = []
