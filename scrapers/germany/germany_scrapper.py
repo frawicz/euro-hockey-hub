@@ -81,6 +81,83 @@ TEAM_SLUGS = [
 ]
 
 
+def _to_int_or_none(value):
+    """Convert scraped score fragments to int when possible."""
+    if value is None:
+        return None
+    text = str(value).strip()
+    if not text:
+        return None
+    match = re.search(r"\d+", text)
+    return int(match.group(0)) if match else None
+
+
+def _norm_key(value):
+    text = str(value or "").lower().strip()
+    text = text.replace("ä", "ae").replace("ö", "oe").replace("ü", "ue").replace("ß", "ss")
+    text = re.sub(r"[^a-z0-9]+", "", text)
+    return text
+
+
+def infer_scoreboard_side(team_label, game, row_index):
+    """Map a scoreboard row to home/away without hardcoded team names."""
+    label_key = _norm_key(team_label)
+    home_candidates = {
+        _norm_key(game.get("home_team")),
+        _norm_key(game.get("home_slug")),
+    }
+    away_candidates = {
+        _norm_key(game.get("away_team")),
+        _norm_key(game.get("away_slug")),
+    }
+
+    if label_key and any(candidate and candidate in label_key for candidate in home_candidates):
+        return "home"
+    if label_key and any(candidate and candidate in label_key for candidate in away_candidates):
+        return "away"
+
+    return "home" if row_index == 0 else "away"
+
+
+def finalize_game_scores(game):
+    """Populate canonical total score fields used across the repo."""
+    home_total = _to_int_or_none(game.get("home_score"))
+    away_total = _to_int_or_none(game.get("away_score"))
+
+    if home_total is None:
+        home_total = _to_int_or_none(game.get("home_score_pT"))
+    if away_total is None:
+        away_total = _to_int_or_none(game.get("away_score_pT"))
+
+    if home_total is not None:
+        game["home_score"] = home_total
+    if away_total is not None:
+        game["away_score"] = away_total
+
+    if home_total is not None and away_total is not None:
+        game["score"] = f"{home_total}:{away_total}"
+
+    home_ot = _to_int_or_none(game.get("home_score_pOT")) or 0
+    away_ot = _to_int_or_none(game.get("away_score_pOT")) or 0
+    home_so = _to_int_or_none(game.get("home_score_pSO")) or 0
+    away_so = _to_int_or_none(game.get("away_score_pSO")) or 0
+
+    game["is_overtime"] = int((home_ot + away_ot) > 0)
+    game["is_shootout"] = int((home_so + away_so) > 0)
+
+    period_scores = []
+    for label in ["1", "2", "3", "OT", "SO"]:
+        home_part = _to_int_or_none(game.get(f"home_score_p{label}"))
+        away_part = _to_int_or_none(game.get(f"away_score_p{label}"))
+        if home_part is None and away_part is None:
+            continue
+        period_scores.append(f"{home_part or 0}:{away_part or 0}")
+    if period_scores:
+        game["period_scores"] = " | ".join(period_scores)
+
+    return game
+
+
 # ── HTTP ──────────────────────────────────────────────────────────────────────
 
 def fetch(url, retries=3):
@@ -168,15 +245,12 @@ def parse_game_main(slug, soup, season):
         headers = [th.get_text(strip=True) for th in table.find_all("th")]
         if "Scoreboard" in " ".join(headers) or ("1" in headers and "T" in headers):
             rows = table.find_all("tr")
-            for row in rows[1:]:  # skip header
+            for row_index, row in enumerate(rows[1:]):  # skip header
                 cells = [td.get_text(strip=True) for td in row.find_all("td")]
                 if len(cells) >= 2:
                     team_label = cells[0].replace("**", "").strip()
                     scores = cells[1:]
-                    if "Ingolstadt" in team_label or game.get("home_team", "") in team_label:
-                        side = "home"
-                    else:
-                        side = "away"
+                    side = infer_scoreboard_side(team_label, game, row_index)
                     for i, s in enumerate(scores):
                         period_label = headers[i+1] if i+1 < len(headers) else f"p{i+1}"
                         game[f"{side}_score_p{period_label}"] = s
@@ -353,7 +427,7 @@ def parse_game_main(slug, soup, season):
 
             events.append(event)
 
-    return game, events
+    return finalize_game_scores(game), events
 
 
 # ── Parse boxscore (player stats) ─────────────────────────────────────────────

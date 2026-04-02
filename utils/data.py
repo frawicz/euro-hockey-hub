@@ -53,8 +53,14 @@ def load_table(table: str, leagues: list[str]) -> pd.DataFrame:
 
             rename_map = {}
 
+            if "away_score_pT" in df.columns and "away_score" not in df.columns:
+                rename_map["away_score_pT"] = "away_score"
+
             if "away_goals" in df.columns and "away_score" not in df.columns:
                 rename_map["away_goals"] = "away_score"
+
+            if "home_score_pT" in df.columns and "home_score" not in df.columns:
+                rename_map["home_score_pT"] = "home_score"
 
             if "home_goals" in df.columns and "home_score" not in df.columns:
                 rename_map["home_goals"] = "home_score"
@@ -66,6 +72,23 @@ def load_table(table: str, leagues: list[str]) -> pd.DataFrame:
                 rename_map["player"] = "name"
 
             df = df.rename(columns=rename_map)
+
+            if table == "games":
+                if "score" not in df.columns and {"home_score", "away_score"}.issubset(df.columns):
+                    hs = pd.to_numeric(df["home_score"], errors="coerce")
+                    aws = pd.to_numeric(df["away_score"], errors="coerce")
+                    df["score"] = hs.astype("Int64").astype(str) + ":" + aws.astype("Int64").astype(str)
+                    df.loc[hs.isna() | aws.isna(), "score"] = pd.NA
+
+                if "is_overtime" not in df.columns and "home_score_pOT" in df.columns and "away_score_pOT" in df.columns:
+                    hot = pd.to_numeric(df["home_score_pOT"], errors="coerce").fillna(0)
+                    aot = pd.to_numeric(df["away_score_pOT"], errors="coerce").fillna(0)
+                    df["is_overtime"] = ((hot + aot) > 0).astype(int)
+
+                if "is_shootout" not in df.columns and "home_score_pSO" in df.columns and "away_score_pSO" in df.columns:
+                    hso = pd.to_numeric(df["home_score_pSO"], errors="coerce").fillna(0)
+                    aso = pd.to_numeric(df["away_score_pSO"], errors="coerce").fillna(0)
+                    df["is_shootout"] = ((hso + aso) > 0).astype(int)
 
             df["league"] = lg
             df["league_abbr"] = LEAGUES[lg]["abbr"]

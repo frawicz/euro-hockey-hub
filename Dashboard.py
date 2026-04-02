@@ -139,6 +139,7 @@ else:
       <li><b>Game Results</b> — searchable results table + score distribution</li>
       <li><b>Team Stats</b> — team performance table, PP%, PIM/G, first-goal impact</li>
       <li><b>Cross-League</b> — compare leagues on scoring, penalties, nationality</li>
+      <li><b>Poisson Goal Models</b> — team attack/defense log-linear models with Bayesian prior controls</li>
       <li><b>Home Advantage</b> — Bayesian home-ice estimates with user prior controls</li>
       <li><b>Goal-State Matrix</b> — next-goal score/concede probabilities by team and goal difference</li>
       <li><b>Data & Methodology</b> — sources, scraping pipeline, and metric definitions</li>

@@ -86,6 +86,7 @@ st.markdown("---")
 st.markdown("### Key Analytics Definitions")
 st.markdown(
     "- **Elo**: Match-by-match rating updates based on expected vs actual result (with optional OT/SO soft handling and margin effect).\n"
+    "- **Poisson goal models**: Per-league log-linear goal models that estimate team attack, team defense, and home-ice scoring effects from game scores.\n"
     "- **Home advantage (Bayesian)**: Posterior estimate of home goal edge and home win probability using user-controlled priors.\n"
     "- **Goal-state matrix**: From each goal-difference state (e.g., -2), estimates `P(score next)` vs `P(concede next)` for teams/leagues.\n"
     "- **Power-play %**: `PP goals / PP opportunities`; computed where reliable PP opportunity denominators exist in league data."
