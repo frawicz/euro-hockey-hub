@@ -217,6 +217,29 @@ python scrapers/slovakia/hockeyslovakia_pbp.py --season-pbp --limit 10
 python scrapers/slovakia/hockeyslovakia_pbp.py --match 153021
 ```
 
+---
+
+## Odds Ingestion
+
+### SportsDataIO Odds API
+
+Uses SportsDataIO's aggregated odds API, not HTML scraping.
+
+```bash
+export SPORTSDATAIO_KEY="your_api_key_here"
+
+# Season-level betting events + markets + outcomes
+python scrapers/odds/sportsdataio_odds.py --sport nhl --season 2026
+
+# Single-date pull (useful for testing future games)
+python scrapers/odds/sportsdataio_odds.py --sport nhl --date 2026-04-02 --limit-events 5
+
+# Filter to a sportsbook group when your account supports it
+python scrapers/odds/sportsdataio_odds.py --sport nhl --season 2026 --sportsbook-group G1001
+```
+
+Outputs to `scrapers/odds/data/input/`: `odds_events.csv`, `odds_markets.csv`, `odds_outcomes.csv`
+
 Outputs to `scrapers/slovakia/data/input/`: `games.csv`, `events.csv`, `players.csv`
 
 ---
