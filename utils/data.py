@@ -214,3 +214,112 @@ PLOTLY_LAYOUT = dict(
 
 def color_map(leagues: list[str]) -> dict:
     return {LEAGUES[lg]["abbr"]: LEAGUES[lg]["color"] for lg in leagues}
+
+
+# ── Odds data loading ─────────────────────────────────────────────────────────
+
+ODDS_DIR = BASE_DIR / "scrapers" / "odds" / "data" / "input"
+
+
+def odds_files_exist() -> bool:
+    return all((ODDS_DIR / f).exists() for f in ("odds_events.csv", "odds_markets.csv", "odds_outcomes.csv"))
+
+
+# ── The Odds API / OddsPortal loaders ────────────────────────────────────────
+
+def theoddsapi_file_exists() -> bool:
+    return (ODDS_DIR / "theoddsapi_games.csv").exists()
+
+
+def oddsportal_file_exists() -> bool:
+    return (ODDS_DIR / "oddsportal_games.csv").exists()
+
+
+@st.cache_data(show_spinner=False)
+def load_theoddsapi_data() -> pd.DataFrame:
+    """Load theoddsapi_games.csv. Returns empty DataFrame if missing."""
+    path = ODDS_DIR / "theoddsapi_games.csv"
+    if not path.exists():
+        return pd.DataFrame()
+    try:
+        df = pd.read_csv(path, low_memory=False)
+        if "commence_time" in df.columns:
+            df["commence_time"] = pd.to_datetime(df["commence_time"], errors="coerce", utc=True)
+        if "european_odds" in df.columns:
+            df["european_odds"] = pd.to_numeric(df["european_odds"], errors="coerce")
+        if "point" in df.columns:
+            df["point"] = pd.to_numeric(df["point"], errors="coerce")
+        return df.reset_index(drop=True)
+    except Exception:
+        return pd.DataFrame()
+
+
+@st.cache_data(show_spinner=False)
+def load_oddsportal_data() -> pd.DataFrame:
+    """Load oddsportal_games.csv. Returns empty DataFrame if missing."""
+    path = ODDS_DIR / "oddsportal_games.csv"
+    if not path.exists():
+        return pd.DataFrame()
+    try:
+        df = pd.read_csv(path, low_memory=False)
+        if "match_date" in df.columns:
+            df["match_date"] = pd.to_datetime(df["match_date"], errors="coerce")
+        if "european_odds" in df.columns:
+            df["european_odds"] = pd.to_numeric(df["european_odds"], errors="coerce")
+        return df.reset_index(drop=True)
+    except Exception:
+        return pd.DataFrame()
+
+
+@st.cache_data(show_spinner=False)
+def load_odds_data() -> pd.DataFrame:
+    """Load and join the three odds CSVs into a flat DataFrame.
+
+    Returns one row per outcome (team per market per game per sportsbook).
+    Columns include: betting_event_id, game_id, start_date, home_team, away_team,
+    status, sportsbook, betting_market_type, betting_market_id, betting_outcome_id,
+    betting_outcome_type, participant, price_american, price_decimal, result_type,
+    is_available, is_suspended.
+    Returns an empty DataFrame if any file is missing.
+    """
+    if not odds_files_exist():
+        return pd.DataFrame()
+
+    try:
+        events = pd.read_csv(ODDS_DIR / "odds_events.csv", low_memory=False)
+        markets = pd.read_csv(ODDS_DIR / "odds_markets.csv", low_memory=False)
+        outcomes = pd.read_csv(ODDS_DIR / "odds_outcomes.csv", low_memory=False)
+    except Exception:
+        return pd.DataFrame()
+
+    # Minimal event columns
+    ev_cols = [c for c in ["betting_event_id", "game_id", "start_date", "home_team",
+                            "away_team", "status", "season_type", "name"] if c in events.columns]
+    ev = events[ev_cols].copy()
+
+    # Minimal market columns
+    mk_cols = [c for c in ["betting_event_id", "betting_market_id", "sportsbook",
+                            "betting_market_type", "betting_period_type",
+                            "is_main", "is_suspended"] if c in markets.columns]
+    mk = markets[mk_cols].copy()
+
+    # Minimal outcome columns
+    oc_cols = [c for c in ["betting_market_id", "betting_outcome_id",
+                            "betting_outcome_type", "participant",
+                            "price_american", "price_decimal",
+                            "result_type", "is_available"] if c in outcomes.columns]
+    oc = outcomes[oc_cols].copy()
+
+    merged = (
+        ev.merge(mk, on="betting_event_id", how="inner")
+          .merge(oc, on="betting_market_id", how="inner")
+    )
+
+    if "start_date" in merged.columns:
+        merged["start_date"] = pd.to_datetime(merged["start_date"], errors="coerce")
+    if "price_american" in merged.columns:
+        merged["price_american"] = pd.to_numeric(merged["price_american"], errors="coerce")
+    if "price_decimal" in merged.columns:
+        merged["price_decimal"] = pd.to_numeric(merged["price_decimal"], errors="coerce")
+
+    return merged.reset_index(drop=True)

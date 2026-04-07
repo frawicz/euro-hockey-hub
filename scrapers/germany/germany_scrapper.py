@@ -438,6 +438,7 @@ def parse_boxscore(slug, soup, season):
     goalies = []
     current_team = None
     current_role = None  # "skater" or "goalie"
+    current_headers = []
 
     for el in soup.find_all(["h5", "h6", "table"]):
         tag = el.name
@@ -460,87 +461,57 @@ def parse_boxscore(slug, soup, season):
         if not rows:
             continue
 
-        # Detect header row
-        header_cells = rows[0].find_all("th")
-        if not header_cells:
-            # Try second row
-            if len(rows) > 1:
-                header_cells = rows[1].find_all("th")
-
-        headers = [th.get_text(strip=True) for th in header_cells]
-
-        # Check what kind of table this is
-        is_goalie = any(h in headers for h in ["GT", "SV%", "Saves"])
-        is_skater = any(h in headers for h in ["G", "A", "PTS", "+/-", "TOI"])
-
-        if not is_goalie and not is_skater:
-            # Check section header above table
-            prev = el.find_previous(["h6", "caption"])
-            if prev:
-                txt = prev.get_text(strip=True).lower()
-                if "torhüter" in txt:
-                    is_goalie = True
-                else:
-                    is_skater = True
-            else:
+        for row in rows:
+            cells = row.find_all(["th", "td"])
+            if not cells:
+                continue
+            texts = [c.get_text(" ", strip=True) for c in cells]
+            if not texts:
                 continue
 
-        # Detect table section headers
-        for row in rows:
             # Section header rows (e.g. Stürmer, Verteidiger, Torhüter)
-            section_th = row.find("th", attrs={"colspan": True})
-            if section_th and int(section_th.get("colspan", 1)) > 3:
-                section_txt = section_th.get_text(strip=True).lower()
+            if len(texts) == 1 and texts[0]:
+                section_txt = texts[0].lower()
                 if "torhüter" in section_txt:
                     current_role = "goalie"
-                    is_goalie = True
-                    is_skater = False
-                else:
+                elif "stürmer" in section_txt or "verteidiger" in section_txt or "skater" in section_txt:
                     current_role = "skater"
-                    is_skater = True
-                    is_goalie = False
+                current_headers = []
                 continue
 
-            cells = row.find_all("td")
-            if not cells or len(cells) < 3:
+            # Column header rows begin with jersey marker.
+            if texts[0] == "#":
+                current_headers = texts
                 continue
 
-            texts = [c.get_text(strip=True) for c in cells]
+            if len(texts) < 3:
+                continue
 
             # First cell should be jersey number
             try:
                 jersey = int(re.sub(r"\D", "", texts[0]))
             except ValueError:
-                # Might be a subheader
-                if any(k in texts[0].lower() for k in ["stürmer", "verteidiger", "torhüter"]):
-                    current_role = "goalie" if "torhüter" in texts[0].lower() else "skater"
-                    is_goalie = current_role == "goalie"
-                    is_skater = not is_goalie
                 continue
 
-            name = texts[1] if len(texts) > 1 else ""
+            name = next((t for t in texts[1:] if t), "")
             # Clean up name (remove captain marker, asterisk)
             name_clean = re.sub(r"\s*\(C\)|\s*\*", "", name).strip()
             is_captain = "(C)" in name
             is_starter = "*" in name
 
-            if is_goalie or current_role == "goalie":
+            col_map = {h: i for i, h in enumerate(current_headers) if h}
+
+            if current_role == "goalie":
                 g = {
                     "game_slug": slug, "season": season,
                     "team": current_team, "jersey": jersey,
                     "name": name_clean, "is_captain": is_captain, "is_starter": is_starter,
                 }
-                if headers:
-                    col_map = {h: i for i, h in enumerate(headers)}
-                    for field, col in [("goals_against", "GT"), ("saves", "Saves"),
-                                       ("save_pct", "SV%"), ("minutes", "Min")]:
-                        if col in col_map:
-                            idx = col_map[col] + 2  # offset by jersey + name
-                            if idx < len(texts):
-                                g[field] = texts[idx]
-                else:
-                    for i, val in enumerate(texts[2:], 2):
-                        g[f"col{i}"] = val
+                for field, col in [("goals_against", "GT"), ("saves", "Saves"),
+                                   ("save_pct", "SV%"), ("minutes", "Min")]:
+                    idx = col_map.get(col)
+                    if idx is not None and idx < len(texts):
+                        g[field] = texts[idx]
                 goalies.append(g)
 
             else:  # skater
@@ -549,22 +520,16 @@ def parse_boxscore(slug, soup, season):
                     "team": current_team, "jersey": jersey,
                     "name": name_clean, "is_captain": is_captain, "is_starter": is_starter,
                 }
-                if headers:
-                    col_map = {h: i for i, h in enumerate(headers)}
-                    for field, col in [
-                        ("goals", "G"), ("assists", "A"), ("points", "PTS"),
-                        ("plus_minus", "+/-"), ("pim", "PIM"), ("shots", "SOG"),
-                        ("blocks", "BLKS"), ("faceoffs_won", "FOW"), ("faceoffs_lost", "FOL"),
-                        ("faceoff_pct", "FO%"), ("shifts", "Shifts"),
-                        ("ice_time", "TOI"), ("pp_time", "PP TOI"), ("sh_time", "SH TOI"),
-                    ]:
-                        if col in col_map:
-                            idx = col_map[col] + 2
-                            if idx < len(texts):
-                                p[field] = texts[idx]
-                else:
-                    for i, val in enumerate(texts[2:], 2):
-                        p[f"col{i}"] = val
+                for field, col in [
+                    ("goals", "G"), ("assists", "A"), ("points", "PTS"),
+                    ("plus_minus", "+/-"), ("pim", "PIM"), ("shots", "SOG"),
+                    ("blocks", "BLKS"), ("faceoffs_won", "FOW"), ("faceoffs_lost", "FOL"),
+                    ("faceoff_pct", "FO%"), ("shifts", "Shifts"),
+                    ("ice_time", "TOI"), ("pp_time", "PP TOI"), ("sh_time", "SH TOI"),
+                ]:
+                    idx = col_map.get(col)
+                    if idx is not None and idx < len(texts):
+                        p[field] = texts[idx]
                 players.append(p)
 
     return players, goalies

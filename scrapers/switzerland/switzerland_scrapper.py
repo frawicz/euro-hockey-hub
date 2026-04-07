@@ -11,9 +11,10 @@ Uses the undocumented but public National League Azure API:
 No Playwright / headless browser required.
 
 Output → switzerland/data/input/:
-  games.csv    — one row per game (metadata, score, period breakdown, team stats)
-  events.csv   — goals, penalties, goalie changes (one row per event)
-  players.csv  — season-aggregated stats per player
+  games.csv            — one row per game (metadata, score, period breakdown, team stats)
+  events.csv           — goals, penalties, goalie changes (one row per event)
+  players.csv          — season-aggregated stats per player
+  players_game_log.csv — one row per player per game
 
 Usage:
     python switzerland/switzerland_scrapper.py               # 2025-26 season
@@ -313,20 +314,48 @@ def write_csv(rows: list[dict[str, Any]], path: Path) -> None:
 def build_players_csv(all_player_rows: list[dict[str, Any]]) -> pd.DataFrame:
     if not all_player_rows:
         return pd.DataFrame(
-            columns=["player", "team", "goals", "assists", "points", "penalties", "pim"]
+            columns=[
+                "player", "team", "position", "games", "goals", "assists", "points",
+                "penalties", "pim", "plus_minus", "shots", "toi", "goals_per_game",
+                "assists_per_game", "points_per_game", "shots_per_game", "toi_per_game",
+            ]
         )
     df = pd.DataFrame(all_player_rows)
+    for col in ["goals", "assists", "pim", "plus_minus", "shots", "toi"]:
+        if col in df.columns:
+            df[col] = pd.to_numeric(df[col], errors="coerce").fillna(0)
     df["penalties"] = (df["pim"] > 0).astype(int)
     agg = (
         df.groupby(["player", "team"], as_index=False)
-        .agg(goals=("goals", "sum"), assists=("assists", "sum"),
-             penalties=("penalties", "sum"), pim=("pim", "sum"))
+        .agg(
+            position=("position", lambda s: s.dropna().iloc[0] if not s.dropna().empty else ""),
+            games=("game_id", "nunique"),
+            goals=("goals", "sum"),
+            assists=("assists", "sum"),
+            penalties=("penalties", "sum"),
+            pim=("pim", "sum"),
+            plus_minus=("plus_minus", "sum"),
+            shots=("shots", "sum"),
+            toi=("toi", "sum"),
+        )
     )
     agg["points"] = agg["goals"] + agg["assists"]
-    agg = agg[["player", "team", "goals", "assists", "points", "penalties", "pim"]]
+    agg["goals_per_game"] = (agg["goals"] / agg["games"]).round(3)
+    agg["assists_per_game"] = (agg["assists"] / agg["games"]).round(3)
+    agg["points_per_game"] = (agg["points"] / agg["games"]).round(3)
+    agg["shots_per_game"] = (agg["shots"] / agg["games"]).round(3)
+    agg["toi_per_game"] = (agg["toi"] / agg["games"]).round(2)
+    agg = agg[
+        [
+            "player", "team", "position", "games", "goals", "assists", "points",
+            "penalties", "pim", "plus_minus", "shots", "toi",
+            "goals_per_game", "assists_per_game", "points_per_game",
+            "shots_per_game", "toi_per_game",
+        ]
+    ]
     agg = agg.sort_values(
-        ["points", "goals", "assists", "pim", "player"],
-        ascending=[False, False, False, False, True],
+        ["points", "points_per_game", "goals", "assists", "shots", "player"],
+        ascending=[False, False, False, False, False, True],
     ).reset_index(drop=True)
     return agg
 
@@ -377,6 +406,7 @@ def scrape_season(season: str = "2025-26") -> None:
     print(f"  [3/3] Writing CSVs …")
     write_csv(all_games, OUTPUT_DIR / "games.csv")
     write_csv(all_events, OUTPUT_DIR / "events.csv")
+    write_csv(all_player_rows, OUTPUT_DIR / "players_game_log.csv")
 
     players_df = build_players_csv(all_player_rows)
     players_df.to_csv(OUTPUT_DIR / "players.csv", index=False, encoding="utf-8-sig")
@@ -399,6 +429,7 @@ def scrape_single_game(game_id: str) -> None:
 
     write_csv([game_row], OUTPUT_DIR / "games.csv")
     write_csv(events, OUTPUT_DIR / "events.csv")
+    write_csv(player_rows, OUTPUT_DIR / "players_game_log.csv")
 
     players_df = build_players_csv(player_rows)
     players_df.to_csv(OUTPUT_DIR / "players.csv", index=False, encoding="utf-8-sig")

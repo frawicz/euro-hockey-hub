@@ -23,8 +23,9 @@ Usage:
     python liiga_scraper.py seasons 2022-23 2023-24 2024-25
 
 Outputs:
-    liiga_games.csv      — one row per game (metadata + team stats)
-    liiga_players.csv    — one row per player per game
+    liiga_games.csv            — one row per game (metadata + team stats)
+    liiga_players.csv          — one row per player (season aggregate)
+    liiga_players_game_log.csv — one row per player per game
     liiga_events.csv     — one row per goal event
     liiga_penalties.csv  — one row per penalty event
     liiga_shotmap.csv    — one row per shot
@@ -115,6 +116,31 @@ def player_name(p):
     if not p:
         return ""
     return f"{p.get('firstName','')} {p.get('lastName','')}".strip()
+
+
+def to_int(value, default=0):
+    try:
+        if value in ("", None):
+            return default
+        return int(float(value))
+    except Exception:
+        return default
+
+
+def to_float(value, default=0.0):
+    try:
+        if value in ("", None):
+            return default
+        return float(value)
+    except Exception:
+        return default
+
+
+def normalize_liiga_id(value):
+    text = str(value or "").strip()
+    if not text:
+        return ""
+    return text.split(":", 1)[0]
 
 
 # ── Games list ────────────────────────────────────────────────────────────────
@@ -226,12 +252,26 @@ def fetch_game_detail(game_id, year):
     if not data:
         return [], []
 
+    game = data.get("game", data)
     penalties = []
     players = []
 
-    # Penalties
-    for p in data.get("penalties", []):
-        penalized = p.get("penalizedPlayer", {}) or {}
+    home_team = game.get("homeTeam", {}) or {}
+    away_team = game.get("awayTeam", {}) or {}
+
+    # Penalties: current live schema keeps these under each team node.
+    penalty_sources = []
+    if home_team.get("penaltyEvents"):
+        penalty_sources.extend([(ev, home_team.get("teamName", "")) for ev in home_team.get("penaltyEvents", [])])
+    if away_team.get("penaltyEvents"):
+        penalty_sources.extend([(ev, away_team.get("teamName", "")) for ev in away_team.get("penaltyEvents", [])])
+
+    # Backward compatibility for older payloads.
+    if not penalty_sources and data.get("penalties"):
+        penalty_sources.extend([(ev, ev.get("teamName", "")) for ev in data.get("penalties", [])])
+
+    for p, team_name in penalty_sources:
+        penalized = p.get("penalizedPlayer", {}) or p.get("player", {}) or {}
         served = p.get("servedByPlayer", {}) or {}
         penalties.append({
             "game_id":          game_id,
@@ -239,37 +279,49 @@ def fetch_game_detail(game_id, year):
             "event_id":         p.get("eventId"),
             "period":           p.get("period"),
             "game_time_s":      p.get("gameTime"),
-            "team":             p.get("teamName", ""),
-            "penalized_id":     penalized.get("playerId", ""),
-            "penalized_name":   player_name(penalized),
+            "team":             team_name or p.get("teamName", ""),
+            "penalized_id":     p.get("playerId", "") or penalized.get("playerId", ""),
+            "penalized_name":   player_name(penalized) or "",
             "served_by_id":     served.get("playerId", ""),
             "served_by_name":   player_name(served),
-            "penalty_type":     p.get("penaltyName", ""),
+            "penalty_type":     p.get("penaltyName", "") or p.get("penaltyFaultName", ""),
+            "penalty_code":     p.get("penaltyFaultType", ""),
             "minutes":          p.get("penaltyMinutes"),
             "is_bench":         p.get("isBench", False),
         })
 
-    # Home / Away rosters
-    for side_key, side_name in [("homeTeam", "home"), ("awayTeam", "away")]:
-        team_data = data.get(side_key, {})
+    def extract_player_rows(raw_players, team_data, side_name):
+        rows = []
         team_name = team_data.get("teamName", "")
-        for p in team_data.get("players", []):
-            player = p.get("player", {}) or {}
+        team_id = team_data.get("teamId", "")
+        for p in raw_players:
+            player = p.get("player", {}) or p
             stats = p.get("gameStats", {}) or {}
-            players.append({
+            name = (
+                player_name(player)
+                or f"{p.get('firstName', '')} {p.get('lastName', '')}".strip()
+            )
+            rows.append({
                 "game_id":       game_id,
                 "season_year":   year,
                 "team_side":     side_name,
                 "team":          team_name,
-                "player_id":     player.get("playerId", ""),
-                "first_name":    player.get("firstName", ""),
-                "last_name":     player.get("lastName", ""),
-                "jersey":        p.get("jerseyNumber", ""),
-                "position":      player.get("position", ""),
-                "nationality":   player.get("nationality", ""),
-                "line_number":   p.get("lineNumber", ""),
-                "is_captain":    p.get("isCaptain", False),
-                "is_alternate":  p.get("isAlternate", False),
+                "team_id":       team_id or p.get("teamId", ""),
+                "player_id":     player.get("playerId", "") or p.get("id", ""),
+                "name":          name,
+                "first_name":    player.get("firstName", "") or p.get("firstName", ""),
+                "last_name":     player.get("lastName", "") or p.get("lastName", ""),
+                "jersey":        p.get("jerseyNumber", "") or p.get("jersey", ""),
+                "position":      player.get("position", "") or p.get("roleCode", "") or p.get("role", ""),
+                "nationality":   player.get("nationality", "") or p.get("nationality", ""),
+                "birth_date":    player.get("birthDate", "") or p.get("dateOfBirth", ""),
+                "height_cm":     player.get("height", "") or p.get("height", ""),
+                "weight_kg":     player.get("weight", "") or p.get("weight", ""),
+                "catches":       player.get("catches", ""),
+                "shoots":        player.get("shoots", "") or p.get("handedness", ""),
+                "line_number":   p.get("lineNumber", "") or p.get("line", ""),
+                "is_captain":    p.get("isCaptain", False) or p.get("captain", False),
+                "is_alternate":  p.get("isAlternate", False) or p.get("alternateCaptain", False),
                 "is_starting_gk":p.get("isStartingGoalie", False),
                 # Skater stats
                 "goals":         stats.get("goals", ""),
@@ -281,11 +333,30 @@ def fetch_game_detail(game_id, year):
                 "ice_time_s":    stats.get("iceTime", ""),
                 "faceoffs_won":  stats.get("faceoffsWon", ""),
                 "faceoffs_total":stats.get("faceoffs", ""),
+                "pp_goals":      stats.get("powerplayGoals", ""),
+                "pp_assists":    stats.get("powerplayAssists", ""),
+                "sh_goals":      stats.get("shortHandedGoals", ""),
+                "sh_assists":    stats.get("shortHandedAssists", ""),
                 # Goalie stats
                 "saves":         stats.get("saves", ""),
                 "goals_against": stats.get("goalsAgainst", ""),
                 "save_pct":      stats.get("savePercentage", ""),
             })
+        return rows
+
+    # Current live schema.
+    home_players_live = data.get("homeTeamPlayers", []) or game.get("homeTeamPlayers", [])
+    away_players_live = data.get("awayTeamPlayers", []) or game.get("awayTeamPlayers", [])
+    if home_players_live or away_players_live:
+        players.extend(extract_player_rows(home_players_live, home_team, "home"))
+        players.extend(extract_player_rows(away_players_live, away_team, "away"))
+
+    # Backward compatibility for the older nested roster structure.
+    if not players:
+        for side_key, side_name in [("homeTeam", "home"), ("awayTeam", "away")]:
+            team_data = data.get(side_key, {}) or game.get(side_key, {}) or {}
+            raw_players = team_data.get("players", [])
+            players.extend(extract_player_rows(raw_players, team_data, side_name))
 
     return penalties, players
 
@@ -314,32 +385,261 @@ def fetch_game_stats(game_id, year):
 
 # ── Shot map ─────────────────────────────────────────────────────────────────
 
-def fetch_shotmap(game_id, year):
+def fetch_shotmap(game_id, year, game_row=None, players=None):
     url = f"{BASE}/shotmap/{year}/{game_id}"
     data = fetch_json(url)
     if not data:
         return []
 
+    game_row = game_row or {}
+    players = players or []
+    team_by_id = {}
+    side_by_id = {}
+    player_name_by_id = {}
+
+    home_team_id = normalize_liiga_id(game_row.get("home_team_id", ""))
+    away_team_id = normalize_liiga_id(game_row.get("away_team_id", ""))
+    if home_team_id:
+        team_by_id[home_team_id] = game_row.get("home_team", "")
+        side_by_id[home_team_id] = "home"
+    if away_team_id:
+        team_by_id[away_team_id] = game_row.get("away_team", "")
+        side_by_id[away_team_id] = "away"
+
+    for p in players:
+        pid = str(p.get("player_id", "")).strip()
+        if pid and p.get("name"):
+            player_name_by_id[pid] = p.get("name")
+        tid = normalize_liiga_id(p.get("team_id", ""))
+        if tid and p.get("team"):
+            team_by_id.setdefault(tid, p.get("team"))
+            side_by_id.setdefault(tid, p.get("team_side"))
+
     shots = []
     all_shots = data if isinstance(data, list) else data.get("shots", [])
     for s in all_shots:
-        shooter = s.get("player", {}) or {}
+        shooter_id = str(s.get("shooterId", "")).strip()
+        shooting_team_id = str(s.get("shootingTeamId", "")).strip()
+        shot_kind = s.get("type", "") or ""
+        event_type = s.get("eventType", "") or ""
+        own_skaters = s.get("ownTeamPlayersOnIce", "")
+        opp_skaters = s.get("otherTeamPlayersOnIce", "")
+        strength_state = ""
+        if own_skaters != "" and opp_skaters != "":
+            strength_state = f"{own_skaters}v{opp_skaters}"
+
         shots.append({
             "game_id":      game_id,
             "season_year":  year,
             "period":       s.get("period"),
             "game_time_s":  s.get("gameTime"),
-            "team":         s.get("teamName", ""),
-            "team_side":    s.get("teamSide", ""),
-            "player_id":    shooter.get("playerId", ""),
-            "player_name":  player_name(shooter),
-            "result":       s.get("result", ""),
-            "shot_type":    s.get("shotType", ""),
-            "x":            s.get("x", ""),
-            "y":            s.get("y", ""),
+            "team_id":      shooting_team_id,
+            "team":         team_by_id.get(shooting_team_id, ""),
+            "team_side":    side_by_id.get(shooting_team_id, ""),
+            "player_id":    shooter_id,
+            "player_name":  player_name_by_id.get(shooter_id, ""),
+            "result":       event_type,
+            "shot_type":    shot_kind,
+            "event_type":   event_type,
+            "strength_state": strength_state,
+            "own_skaters":  own_skaters,
+            "opp_skaters":  opp_skaters,
+            "blocker_id":   s.get("blockerId", ""),
+            "left_team_id": s.get("leftTeam", ""),
+            "right_team_id":s.get("rightTeam", ""),
+            "x":            s.get("shotX", ""),
+            "y":            s.get("shotY", ""),
             "goal_types":   ",".join(s.get("goalTypes", [])) if s.get("goalTypes") else "",
         })
     return shots
+
+
+def aggregate_players(players, goals, shots, penalties=None):
+    """
+    Collapse per-game Finland player rows into a season-level player table and
+    enrich it with event-derived scoring splits.
+    """
+    if not players:
+        return []
+
+    goal_lookup = {}
+    assist1_lookup = {}
+    assist2_lookup = {}
+    gwg_lookup = {}
+    pp_goal_lookup = {}
+    sh_goal_lookup = {}
+    ev_goal_lookup = {}
+    penalty_lookup = {}
+
+    for ev in goals:
+        gid = str(ev.get("game_id", ""))
+        scorer_id = str(ev.get("scorer_id", "")).strip()
+        assist1_id = str(ev.get("assist1_id", "")).strip()
+        assist2_id = str(ev.get("assist2_id", "")).strip()
+        goal_types = str(ev.get("goal_types", "")).upper()
+        winner = bool(ev.get("winning_goal", False))
+
+        if scorer_id:
+            key = (gid, scorer_id)
+            goal_lookup[key] = goal_lookup.get(key, 0) + 1
+            if "YV" in goal_types or "PP" in goal_types:
+                pp_goal_lookup[key] = pp_goal_lookup.get(key, 0) + 1
+            elif "AV" in goal_types or "SH" in goal_types:
+                sh_goal_lookup[key] = sh_goal_lookup.get(key, 0) + 1
+            else:
+                ev_goal_lookup[key] = ev_goal_lookup.get(key, 0) + 1
+            if winner:
+                gwg_lookup[key] = gwg_lookup.get(key, 0) + 1
+
+        if assist1_id:
+            key = (gid, assist1_id)
+            assist1_lookup[key] = assist1_lookup.get(key, 0) + 1
+        if assist2_id:
+            key = (gid, assist2_id)
+            assist2_lookup[key] = assist2_lookup.get(key, 0) + 1
+
+    shot_lookup = {}
+    for sh in shots:
+        gid = str(sh.get("game_id", ""))
+        pid = str(sh.get("player_id", "")).strip()
+        if not pid:
+            continue
+        key = (gid, pid)
+        shot_lookup[key] = shot_lookup.get(key, 0) + 1
+
+    penalties = penalties or []
+    for pen in penalties:
+        gid = str(pen.get("game_id", ""))
+        pid = str(pen.get("penalized_id", "")).strip()
+        if not pid:
+            continue
+        key = (gid, pid)
+        penalty_lookup[key] = penalty_lookup.get(key, 0) + to_int(pen.get("minutes", 0))
+
+    grouped = {}
+    for row in players:
+        pid = str(row.get("player_id", "")).strip()
+        name = str(row.get("name", "")).strip() or f"{row.get('first_name', '')} {row.get('last_name', '')}".strip()
+        if not pid and not name:
+            continue
+
+        key = (
+            str(row.get("season_year", "")),
+            str(row.get("team", "")),
+            pid or name,
+        )
+        gid = str(row.get("game_id", ""))
+        game_player_key = (gid, pid)
+
+        current = grouped.setdefault(
+            key,
+            {
+                "season_year": row.get("season_year", ""),
+                "team": row.get("team", ""),
+                "team_side": row.get("team_side", ""),
+                "player_id": pid,
+                "name": name,
+                "first_name": row.get("first_name", ""),
+                "last_name": row.get("last_name", ""),
+                "position": row.get("position", ""),
+                "nationality": row.get("nationality", ""),
+                "birth_date": row.get("birth_date", ""),
+                "height_cm": row.get("height_cm", ""),
+                "weight_kg": row.get("weight_kg", ""),
+                "shoots": row.get("shoots", ""),
+                "catches": row.get("catches", ""),
+                "games": 0,
+                "goals": 0,
+                "assists": 0,
+                "points": 0,
+                "goals_event": 0,
+                "assists_event": 0,
+                "points_event": 0,
+                "plus_minus": 0,
+                "pim": 0,
+                "pim_event": 0,
+                "shots": 0,
+                "shots_from_shotmap": 0,
+                "ice_time_s": 0,
+                "faceoffs_won": 0,
+                "faceoffs_total": 0,
+                "pp_goals": 0,
+                "pp_assists": 0,
+                "sh_goals": 0,
+                "sh_assists": 0,
+                "primary_assists": 0,
+                "secondary_assists": 0,
+                "even_strength_goals": 0,
+                "powerplay_goals_event": 0,
+                "shorthanded_goals_event": 0,
+                "game_winning_goals": 0,
+                "saves": 0,
+                "goals_against": 0,
+                "is_goalie": False,
+            },
+        )
+
+        current["games"] += 1
+        for field in [
+            "goals",
+            "assists",
+            "points",
+            "plus_minus",
+            "pim",
+            "shots",
+            "ice_time_s",
+            "faceoffs_won",
+            "faceoffs_total",
+            "pp_goals",
+            "pp_assists",
+            "sh_goals",
+            "sh_assists",
+            "saves",
+            "goals_against",
+        ]:
+            current[field] += to_int(row.get(field, 0))
+
+        current["shots_from_shotmap"] += shot_lookup.get(game_player_key, 0)
+        current["primary_assists"] += assist1_lookup.get(game_player_key, 0)
+        current["secondary_assists"] += assist2_lookup.get(game_player_key, 0)
+        current["even_strength_goals"] += ev_goal_lookup.get(game_player_key, 0)
+        current["powerplay_goals_event"] += pp_goal_lookup.get(game_player_key, 0)
+        current["shorthanded_goals_event"] += sh_goal_lookup.get(game_player_key, 0)
+        current["game_winning_goals"] += gwg_lookup.get(game_player_key, 0)
+        current["goals_event"] += goal_lookup.get(game_player_key, 0)
+        current["assists_event"] += assist1_lookup.get(game_player_key, 0) + assist2_lookup.get(game_player_key, 0)
+        current["pim_event"] += penalty_lookup.get(game_player_key, 0)
+        current["is_goalie"] = current["is_goalie"] or str(row.get("position", "")).upper() in {"G", "GK", "GOALIE"}
+
+    out = []
+    for row in grouped.values():
+        # Current live Liiga player payload is rich on identity but may not
+        # include per-game boxscore stats. Fall back to event-derived counts.
+        if row["goals"] == 0 and row["goals_event"] > 0:
+            row["goals"] = row["goals_event"]
+        if row["assists"] == 0 and row["assists_event"] > 0:
+            row["assists"] = row["assists_event"]
+        if row["points"] == 0 and (row["goals"] or row["assists"]):
+            row["points"] = row["goals"] + row["assists"]
+        row["points_event"] = row["goals_event"] + row["assists_event"]
+        if row["shots"] == 0 and row["shots_from_shotmap"] > 0:
+            row["shots"] = row["shots_from_shotmap"]
+        if row["pim"] == 0 and row["pim_event"] > 0:
+            row["pim"] = row["pim_event"]
+
+        gp = max(int(row["games"]), 1)
+        row["goals_per_game"] = round(row["goals"] / gp, 3)
+        row["assists_per_game"] = round(row["assists"] / gp, 3)
+        row["points_per_game"] = round(row["points"] / gp, 3)
+        row["shots_per_game"] = round(row["shots"] / gp, 3)
+        row["ice_time_min_per_game"] = round(row["ice_time_s"] / gp / 60.0, 2) if row["ice_time_s"] else 0.0
+        row["faceoff_pct"] = round(100.0 * row["faceoffs_won"] / row["faceoffs_total"], 2) if row["faceoffs_total"] else ""
+        row["shooting_pct"] = round(100.0 * row["goals"] / row["shots"], 2) if row["shots"] else ""
+        row["save_pct_calc"] = round(100.0 * row["saves"] / (row["saves"] + row["goals_against"]), 2) if (row["saves"] + row["goals_against"]) else ""
+        out.append(row)
+
+    out.sort(key=lambda r: (r.get("season_year", ""), r.get("points", 0), r.get("goals", 0)), reverse=True)
+    return out
 
 
 # ── CSV writer ────────────────────────────────────────────────────────────────
@@ -402,7 +702,7 @@ def scrape(season_str, tournament_key="runkosarja", output_dir="."):
         time.sleep(DELAY)
 
         # Shot map
-        shots = fetch_shotmap(gid, year)
+        shots = fetch_shotmap(gid, year, game_row=game_row, players=players)
         time.sleep(DELAY)
 
         all_games.append(game_row)
@@ -464,15 +764,18 @@ def main():
 
     print(f"\n{'─'*60}")
     print("Writing CSVs …")
+    players_agg = aggregate_players(all_players, all_goals, all_shots, all_penalties)
+
     write_csv(all_games,     out_dir / "games.csv")
-    write_csv(all_players,   out_dir / "players.csv")
+    write_csv(players_agg,   out_dir / "players.csv")
+    write_csv(all_players,   out_dir / "players_game_log.csv")
     write_csv(all_goals,     out_dir / "events.csv")
     write_csv(all_penalties, out_dir / "penalties.csv")
     write_csv(all_shots,     out_dir / "shotmap.csv")
 
     print(f"\nDone!")
     print(f"  Games     : {len(all_games):,}")
-    print(f"  Players   : {len(all_players):,}")
+    print(f"  Players   : {len(players_agg):,} aggregated / {len(all_players):,} game logs")
     print(f"  Goals     : {len(all_goals):,}")
     print(f"  Penalties : {len(all_penalties):,}")
     print(f"  Shots     : {len(all_shots):,}")
